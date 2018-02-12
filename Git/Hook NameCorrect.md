@@ -1,6 +1,6 @@
 Hook NameCorrect
 ================
-
+```markdown
 # (pre-commit or pre-push)
 # Make sure my email is set properly
 useremail=$(git config user.email)
