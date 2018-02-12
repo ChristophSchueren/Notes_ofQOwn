@@ -6,5 +6,6 @@ BACKEND Einschränkungen
 	- Problem: Entsorgte Geräte
 - BerechtigungCheckService
 	- holt sich das Geraet aus dem Repository
+	- holt sich den aktuellen User-Login
 - über ChangeDialog kann prinzipiell nur der User geändert werden
 	- Problem: Entsorgte Geräte
