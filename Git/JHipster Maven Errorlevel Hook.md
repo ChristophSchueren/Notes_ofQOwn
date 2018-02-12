@@ -6,6 +6,6 @@ echo error:%ERRORLEVEL%
 
 ;---------------------
 
-Scripts are executed 
+Scripts are executed using sh, NOT cmd
 
 yarn 
