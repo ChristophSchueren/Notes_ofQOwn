@@ -1,4 +1,5 @@
 BACKEND Einschränkungen
 =======================
 
-- E
+- Entsorgte Geräte dürfen nicht mehr bearbeitet oder gebucht werden
+- 
