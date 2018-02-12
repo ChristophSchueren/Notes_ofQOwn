@@ -2,4 +2,4 @@ Die Mitarbeiterprofilverwaltungssoftware ist eine Eigenentwicklung von Spirit Te
 
 Eine Kostenkalkulation ergab, dass es am Günstigsten ist, das Softwaremodul als internes Projekt von einem Praktikanten erstellen zu lassen.
 
-Der 
+Der CASE-Tool Generator JHipster reduziert den Entwicklungsaufwand erheblich
