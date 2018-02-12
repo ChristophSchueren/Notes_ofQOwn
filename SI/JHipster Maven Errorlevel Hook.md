@@ -6,4 +6,4 @@ echo error:%ERRORLEVEL%
 
 ;---------------------
 
-
+yarn 
