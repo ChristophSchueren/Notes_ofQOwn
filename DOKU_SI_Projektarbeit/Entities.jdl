@@ -1,0 +1,89 @@
+// Uses Entity Studio Online
+// https://start.jhipster.tech/jdl-studio/
+
+
+/**
+ * The Employee entity.
+ */
+entity Angestellter {
+	/**
+	* The firstname attribute.
+	*/
+	firstName String,
+	lastName String,
+	email String,
+	phoneNumber String,
+	hireDate Instant,
+	salary Long,
+	commissionPct Long
+    standort Standort
+}
+
+entity Lagerplatz {
+    bezeichnung String
+}
+
+entity AssetBesitz {
+	startDate Instant,
+	endDate Instant,
+    uebergabeZustand Zustand,
+    digitaleSignatur String
+
+}
+
+//was
+//von wem
+//an wen
+//autorisierung
+//vorgaenger Besitzwechsel
+entity Besitzwechsel {
+    eintragungsdatum Instant,
+    cryptohash String
+
+}
+
+enum Standort {
+	NUERNBERG, MUENCHEN, DARMSTADT
+}
+
+//Zustand bei Uebergabe
+enum Zustand {
+    GUT,
+    LEICHTE_GEBRAUCHSSPUREN,
+    MITTLERE_GEBRAUCHSSPUREN,
+    STARKE_GEBRAUCHSSPUREN,
+    DEFEKT
+}
+
+
+enum Asset {
+    bezeichung String,
+    beschreibung String,
+    anschaffungskosten Long,
+    jahrlicherAbschreibungsbetrag Long,
+    anschaffungszeitpunkt Instant,
+    austragungszeitpunkt Instant
+}
+
+//--- Relationships ---
+relationship OneToMany {
+	Angestellter to AssetBesitz
+}
+
+relationship OneToMany {
+    AssetBesitz to Asset
+}
+
+
+
+// --------------- OPTIONS -------------
+// Set pagination options
+paginate JobHistory, Employee with infinite-scroll
+paginate Job with pagination
+
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl except Employee, Job
+// Set an angular suffix
+angularSuffix * with mySuffix

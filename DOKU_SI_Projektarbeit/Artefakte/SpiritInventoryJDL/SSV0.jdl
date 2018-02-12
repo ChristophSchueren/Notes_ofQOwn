@@ -1,0 +1,69 @@
+// JDL definition for application 'ssv' generated with command 'jhipster export-jdl'
+
+entity Skill (skill) {
+  name String required minlength(1) maxlength(42),
+  level Integer required min(1) max(5)
+}
+entity Activities (activities) {
+  name String required minlength(1) maxlength(100),
+  description String maxlength(250),
+  startDay LocalDate required,
+  endDay LocalDate
+}
+entity Personnelfile (personnelfile) {
+  vintage String pattern(\d{4}),
+  nationality String minlength(0) maxlength(20),
+  city String minlength(0) maxlength(40),
+  jobTitle String required minlength(0) maxlength(60),
+  consultingSince String pattern(\d{4}),
+  willTravel String minlength(0) maxlength(40),
+  languages String minlength(0) maxlength(60),
+  fields String minlength(0) maxlength(60),
+  jobDegree String minlength(0) maxlength(40),
+  thumbnail byte[] maxbytes(500000)
+}
+entity Role (role) {
+  name String maxlength(100)
+}
+entity Upload (upload) {
+  name String required minlength(1) maxlength(100),
+  description String required maxlength(255),
+  file byte[] required minbytes(1) maxbytes(5000000)
+}
+entity AllowedUpload (allowed_upload) {
+  name String required
+}
+entity Skillcategory (skillcategory) {
+  name String required minlength(1) maxlength(100)
+}
+entity SkillList (skill_list) {
+  name String required minlength(1) maxlength(50)
+}
+entity Inventar (inventar) {
+  bezeichnung String,
+  besitzer Long,
+  creationDate LocalDate,
+  inventarNr String required minlength(5)
+}
+
+relationship OneToOne {
+  Personnelfile{user(login) required} to User
+}
+relationship ManyToOne {
+  Skill{user} to User,
+  Activities{user} to User,
+  Upload{user(login)} to User
+}
+relationship ManyToMany {
+  Skill{activities(name)} to Activities{skill(name)},
+  Activities{skill(name)} to Skill{activities(name)}
+}
+
+paginate Personnelfile with pagination
+service Personnelfile with serviceClass
+paginate Upload with pagination
+paginate AllowedUpload with infinite-scroll
+service AllowedUpload with serviceClass
+service Skillcategory with serviceClass
+service SkillList with serviceClass
+service Inventar with serviceClass

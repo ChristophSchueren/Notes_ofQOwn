@@ -1,0 +1,21 @@
+Hi! Ja, Postgres kann das. Damit binden wir uns aber hart an eine konkrete Datenbank-Implementierung - nämlich Postgres. Wenn wir dann entweder in der Produktionsumgebung oder bei eventuellem Verkauf der Anwendung eine andere Datenbank finden, haben wir ein großes Problem. Genau deswegen benutzen wir ja Implementierungs-agnostische Zwischenschichten wie Liquibase, Hibernate und die JPA. 
+Darüber hinaus ist auch das Speichern von JSON-Strings in einem einzelnen Feld des DB-Records problematisch. Du verlierst dann die Fähigkeit, in den Daten sinnvoll zu suchen oder nach einem JSON-Feld zu indizieren. Grundsätzlich keine serialisierten Daten in die Datenbank, wenn auch nur die Chance besteht, dass Du auf Elemente des Datensatzes zugreifen musst bzw. über sie indizieren willst.
+Folglich bitte keine DB-spezifischen Features nutzen.
+
+# Gründe für die Implementierung
+
+- eine einzige SQL-Datenbank soll zum einsatz kommen
+- also keine zusätzliche NoSQL Dokumenten-Datenbank
+- Portablilität: keine harte Bindung an eine konkrete Datenbank-Implementierung 
+    - Keine Herstellerspezifischen JSON Features
+    - in anderer Produktionsumgebung muss auch mit andere SQL-Datenbank funktionieren
+    - eventuellem Verkauf der Anwendung eine andere Datenbank finden, haben wir ein großes Problem.
+- Abstraktion: Implementierungs-agnostische Zwischenschichten wie Liquibase, Hibernate und die JPA. 
+
+
+Bewertung der eingesetzten Lösung:
+- 3. Normalform, keine Anomalien beim Einfügen, Löschen und Ändern
+- Suchen mit SQL-Syntax möglich
+- Begrenzung auf wenige Mitarbeiter -> Wenige Geraete
+- Langsame Datenbankabfragen, zum Aufruf eines Geraetes sind viele SQL zeitaufwändige Joins erforderlich
+- Vorgabe von meinem Chef. 
