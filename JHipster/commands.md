@@ -7,4 +7,4 @@ commands
 ```code
 jhipster spring-service Bar
 ```
-will create
+will create BarService
