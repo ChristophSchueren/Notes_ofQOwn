@@ -5,4 +5,6 @@ BuchungResourceIntTest
 
 post /buchung
 schlägt mit Fehler 500 fehl. Schlecht.
-Fehler 400 waere in Ordnung da falsche
+Fehler 400 waere in Ordnung da Geraet mit GeraetId nicht in Datenbank ist.
+
+TestValidity Buchung
