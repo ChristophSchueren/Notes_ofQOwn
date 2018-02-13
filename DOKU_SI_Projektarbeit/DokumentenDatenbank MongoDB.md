@@ -9,4 +9,5 @@ DokumentenDatenbank MongoDB
 ### Buchung
 - ist NICHT in Gerät integriert
 	- Vertraulichkeit der Daten
-	- Unabhäniger Speicher zur Re
+	- Unabhäniger Speicher zur Rekonstruktion von Gerät
+- DbRef auf Gerät
