@@ -8,4 +8,5 @@ DokumentenDatenbank MongoDB
 
 ### Buchung
 - ist NICHT in Gerät integriert
-	- 
+	- Vertraulichkeit der Daten
+	- Unabhäniger Speicher zur Re
