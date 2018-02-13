@@ -7,4 +7,5 @@ Darstellung aller Komponenten der Webanwendung
 3. Angular Single-Page application im Webbrowser (Javascript/Typescript)
 
 
+Der JHipster Generator generiert Code für alle Bereiche.
 
