@@ -8,10 +8,11 @@ Pro Embedding
 - Alle Daten in einer Abfrage
 - Schnelligkeit
 - Atomare Änderungen am ganzen Dokument möglich
+- Dokument ist in sich schlüssig
 
 
 
 ## Contra Embedding / für DbRef
 - zu viele Daten in einer Abfrage
 - Filtern vertraulicher Daten im Backend erforderlich
-- erfordert manuellen 
+- erfordert manuellen C
