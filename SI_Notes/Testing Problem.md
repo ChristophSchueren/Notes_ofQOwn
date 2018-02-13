@@ -15,4 +15,4 @@ TestBuchungValidity() {
 ### Mögliche Lösung
 vergleiche ssv ActivityResoucreIntTest
 
-``
+import javax.persistence.EntityManager;
