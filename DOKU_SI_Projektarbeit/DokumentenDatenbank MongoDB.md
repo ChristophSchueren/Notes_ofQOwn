@@ -10,4 +10,4 @@ DokumentenDatenbank MongoDB
 - ist NICHT in Gerät integriert
 	- Vertraulichkeit der Daten
 	- Unabhäniger Speicher zur Rekonstruktion von Gerät
-- DbRef auf Gerät
+- DbRef auf Gerät (Kardinalität 1:)
