@@ -11,3 +11,5 @@ Pro Embedding
 
 
 Contra Embedding / für DbRef
+- zu viele Daten in einer Abfrage
+- sicherheitsfilter im Backend 
