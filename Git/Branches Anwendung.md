@@ -18,4 +18,4 @@ release-*
 ### Better merge
 `git merge --no-ff myfeature`
 
-no fast forward, branching bleibt sichtbaa
+no fast forward, feature-Branch bleibt sichtbar bleibt sichtbar
