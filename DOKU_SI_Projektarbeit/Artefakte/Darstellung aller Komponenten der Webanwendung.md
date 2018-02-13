@@ -8,4 +8,4 @@ Darstellung aller Komponenten der Webanwendung
 
 
 Der JHipster Generator generiert Code für alle Bereiche.
-
+Die Datenbank muss zwar selbstständig aufgesetzt werden, Tabellen 
