@@ -16,7 +16,8 @@ Pro Embedding
 ## Contra Embedding / für DbRef
 - zu viele Daten in einer Abfrage
 - Filtern vertraulicher Daten im Backend erforderlich
-- Schlecht Anomalien können auftreten, auss
+- Schlecht für Beziehugen mit 1:n oder n:m Kardinalität:
+	- Anomalien können auftreten
 - Embeddete unabhängige Objekte, die in mehreren Dokumenten vorkommen, können inkonsistent werden.
 
 
