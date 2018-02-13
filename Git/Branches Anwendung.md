@@ -14,3 +14,5 @@ Must merge back into:
 develop and master
 Branch naming convention:
 release-*
+
+### Better merge
