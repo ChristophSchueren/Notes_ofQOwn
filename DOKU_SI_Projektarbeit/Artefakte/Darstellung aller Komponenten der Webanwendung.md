@@ -4,4 +4,7 @@ Darstellung aller Komponenten der Webanwendung
 <Ip-Protokoll>
 2. Backend (Java, mit Spring Framework und <TODO Webserver>)
 <Ip-Protokoll>
-3. Angular Single-Page application im Browser
+3. Angular Single-Page application im Webbrowser (Javascript/Typescript)
+
+
+
