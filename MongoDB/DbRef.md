@@ -15,7 +15,7 @@ Pro Embedding
 ## Contra Embedding / für DbRef
 - zu viele Daten in einer Abfrage
 - Filtern vertraulicher Daten im Backend erforderlich
-- Embeddete unabhängige Entität
+- Embeddete unabhängige Objekte, die in mehreren Dokumenten vorkommen, können inkonsistent 
 
 
 
