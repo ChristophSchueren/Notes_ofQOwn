@@ -14,3 +14,5 @@ TestBuchungValidity() {
 ```
 ### Mögliche Lösung
 vergleiche ssv ActivityResoucreIntTest
+
+``
