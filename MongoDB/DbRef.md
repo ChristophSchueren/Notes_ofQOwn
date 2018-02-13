@@ -9,14 +9,14 @@ Pro Embedding
 - Schnelligkeit
 - Atomare Änderungen am ganzen Dokument möglich
 - Dokument ist in sich schlüssig
-- gut für 1-1 Be
+- gut für Beziehungen mit 1:1 Kardinalität
 
 
 
 ## Contra Embedding / für DbRef
 - zu viele Daten in einer Abfrage
 - Filtern vertraulicher Daten im Backend erforderlich
-- Anomalien können auftreten, auss
+- Schlecht Anomalien können auftreten, auss
 - Embeddete unabhängige Objekte, die in mehreren Dokumenten vorkommen, können inkonsistent werden.
 
 
