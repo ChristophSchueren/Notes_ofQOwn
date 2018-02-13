@@ -7,4 +7,5 @@ DokumentenDatenbank MongoDB
 
 
 ### Buchung
-- ist NICHT in 
+- ist NICHT in Gerät integriert
+	- 
