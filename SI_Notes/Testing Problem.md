@@ -12,3 +12,5 @@ TestBuchungValidity() {
 	buchung.geraet in Datenbank
 }
 ```
+### Mögliche Lösung
+vergleiche ssv ActivityResoucreIntTest
