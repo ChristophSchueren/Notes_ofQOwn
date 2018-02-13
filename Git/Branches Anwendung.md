@@ -16,3 +16,6 @@ Branch naming convention:
 release-*
 
 ### Better merge
+`git merge --no-ff myfeature`
+
+no fast forward, branching bleibt sichtbaa
