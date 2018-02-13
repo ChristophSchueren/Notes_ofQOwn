@@ -8,4 +8,4 @@ Darstellung aller Komponenten der Webanwendung
 
 
 Der JHipster Generator generiert Code für alle Bereiche.
-Die Datenbank muss zwar selbstständig aufgesetzt werden, Collections (Entsprechung von Tabellen in MongoDB) werden aber von 
+Die Datenbank muss zwar selbstständig aufgesetzt werden, Collections (Entsprechung von Tabellen in MongoDB) werden aber von JHipster mittels TODO konfiguriert.
