@@ -7,7 +7,7 @@ Foreign Key Constraints zur Sicherstellung der referentiellen Integrität ist in
 Pro Embedding
 - Alle Daten in einer Abfrage
 - Schnelligkeit
-- Atomare Änderungen am 
+- Atomare Änderungen am ganzen Dokument möglic
 
 
 
