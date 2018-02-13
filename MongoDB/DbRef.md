@@ -19,4 +19,4 @@ Pro Embedding
 
 
 ## Contra DBRef
-- erfordert manuelle
+- erfordert manuelle Prüfung und Sichlerstellung der Foreign Key-Constraints in Business-Logic
