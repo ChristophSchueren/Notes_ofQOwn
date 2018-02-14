@@ -1,7 +1,8 @@
 BuildTools
 ==========
 
-
+### 1.
+`choco install -y vcbuildtools`
 
 ### 2. npm build tools
 
