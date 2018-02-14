@@ -10,4 +10,4 @@ ssv verwendet für ähnliche Fälle in der Testklasse den EntityManager - import
 
 Der Test läuft mit einer mir unbekannten Datenbank-Emulation - auch ohne dass MongoDB gestartet ist. In der echten MongoDB gibt es keine Transaktionen.
 
-Wie soll ich den Test durchführen?
+Wie kann ich den Test durchführen?
