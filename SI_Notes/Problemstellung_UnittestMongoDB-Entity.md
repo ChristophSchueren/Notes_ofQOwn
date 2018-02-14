@@ -8,4 +8,4 @@ Ich weiß nicht, wie ich in der Testklasse eine _gültige_ Buchung erstellen kan
 
 ssv verwendet für ähnliche Fälle in der Testklasse den EntityManager - import javax.persistence.EntityManager . Im MongoDB Backend ist das Paket nicht enthalten.
 
-läuft Test ohne laufende MongoDB? In der echten Mongo
+Der Test läuft mit irgend einer  laufende MongoDB? In der echten MongoDB gibt es keine Transaktionen.
