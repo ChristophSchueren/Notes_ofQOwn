@@ -1,9 +1,10 @@
 Principles
 ==========
 
-DRY
+### DRY
 Dont Repeat Yourself
 
-KISS
+### KISS
 Keep It Simple Stupid
-YAGNI
+
+### YAGNI
