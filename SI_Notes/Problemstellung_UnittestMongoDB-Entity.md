@@ -1,7 +1,7 @@
 Problemstellung_UnittestMongoDB-Entity
 ======================================
 
-Hallo,
+Hi,
 
 ich habe ein Problem für SpiritInventory in BuchungResourceIntTest.java die Route POST /buchungs zum Anlegen einer neuen Buchung zu testen.
 Der Test braucht eine gültige Buchung zum Speichern. Buchung.geraet braucht ein geraet, das schon in der (Test-) Datenbank gespeichert sein muss.
