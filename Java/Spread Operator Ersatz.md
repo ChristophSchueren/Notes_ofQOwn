@@ -32,3 +32,8 @@ And now I want to call the doSomething:
 I'd like to use something like doSomething (...args) instead of calling `doSomething(args[0], args[1], args[2])`.
 
 ### Solution
+
+
+
+### similar
+Variable Arguments
