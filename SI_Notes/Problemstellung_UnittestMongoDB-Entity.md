@@ -6,4 +6,4 @@ Hallo,
 ich habe ein Problem in BuchungResourceIntTest.java die Route POST /buchungs zum Anlegen einer neuen Buchung zu testen.
 Ich weiß nicht, wie ich in der Testklasse eine _gültige_ Buchung erstellen kann, die eine gültige Buchung hat, die schon in der Datenbank gespeichert sein muss.
 
-ssv verwendet für ähnliche Fälle in der Testklasse den Entity manager. 
+ssv verwendet für ähnliche Fälle in der Testklasse den Entity manager, importiert aus . Im MongoDB 
