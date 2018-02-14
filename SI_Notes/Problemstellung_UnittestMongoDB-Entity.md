@@ -11,4 +11,4 @@ ssv verwendet für ähnliche Fälle in der Testklasse den EntityManager - import
 Ich habe keine Ahnung, wie 
 
 
-Test: läuft Test ohne laufe
+Test: läuft Test ohne laufende MongoDB?
