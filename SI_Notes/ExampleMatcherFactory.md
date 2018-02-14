@@ -3,6 +3,6 @@ ExampleMatcherFactory
 
 ExampleMatcherFactory.
 
-new ExampleMatcherFactory(geraet) {
+new ExampleMatcherFactory(Object geraet) {
 	public matcherFor
 }
