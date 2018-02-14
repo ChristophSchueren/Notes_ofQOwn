@@ -17,4 +17,5 @@ ERSTELLUNG, BESITZERWECHSEL, SCHADENSFALL, MODIFIKATION, AUSBUCHUNG
 
 
 
-Modifikationen benötigen neues Field HashMap<>
+Modifikationen benötigen neues Field HashMap<String, String> neueMerkmale
+- optional g
