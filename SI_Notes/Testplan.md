@@ -1,4 +1,8 @@
 Testplan
 ========
 
-Vorlagen von JHipster generiere
+Vorlagen von JHipster generieren lassen:
+
+Basis: aktuelle jdl-Datei
+
+1. 
