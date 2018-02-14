@@ -18,7 +18,7 @@ Now, I'm trying to do the same thing with Java.
 
 Let's say I have a Foo class:
 
-```
+```Java
 public class Foo {
     public int doSomething (int a, int b, int c) {
         return a + b + c;
@@ -28,5 +28,5 @@ public class Foo {
 
 And now I want to call the doSomething:
 
-int[] args = {1, 2, 3};
+`int[] args = {1, 2, 3};`
 I'd like to use something like doSomething (...args) instead of calling doSomething(args[0], args[1], args[2]).
