@@ -8,3 +8,4 @@ Dont Repeat Yourself
 Keep It Simple Stupid
 
 ### YAGNI
+You Arent Gonna Need It
