@@ -9,4 +9,6 @@ Leistungserstellung im Unternehmen findet in Kernprozessen statt:
 
 
 
-Weit
+Weitere:
+Hilfsprozesse
+"Planungsprozesse"
