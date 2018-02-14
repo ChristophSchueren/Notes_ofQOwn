@@ -17,4 +17,4 @@ ERSTELLUNG, BESITZERWECHSEL, SCHADENSFALL, MODIFIKATION, AUSBUCHUNG
 
 
 
-Modi
+Modifikationen benötigen neues Field HashMap<>
