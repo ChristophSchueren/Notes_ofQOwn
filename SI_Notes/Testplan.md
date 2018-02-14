@@ -11,4 +11,4 @@ Basis: aktuelle jdl-Datei
 Im Hauptprojekt sind 
 
 
-Maven Libraries und npm 
+Maven Libraries und node_modules per Hardlink (?)
