@@ -6,3 +6,4 @@ config
 
 
 ### resulting
+`git config --list`
