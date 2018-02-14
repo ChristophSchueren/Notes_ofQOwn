@@ -8,4 +8,5 @@ Alle Buchungen brauchen gültige DBRef auf Geraet
 Alle Buchungen haben Methode BuchungAusfuehren() returns Geraet
 
 
-Weitere Felder unterscheiden sich je nach Buchungstyp
+Weitere Felder unterscheiden sich je nach Buchungstyp:
+ERSTELLUNG, BESITZERWECHSEL, SCHADENSFALL, MODIFIKATION, AUSBUCHUNG
