@@ -1,4 +1,4 @@
-Frage_MongoDB_Rollback
+Rollback not supported
 ======================
 
 
@@ -9,6 +9,7 @@ I have 2 repositories, one for mongodb (DocumentRepository) and the other for hi
 
 I have a simple service:
 
+```
  @Transsactional
  public doSomePersisting() {
      try {
@@ -19,6 +20,8 @@ I have a simple service:
          //Rollback mongoDB here
      }
  }
+```
+
 Is it possible to rollback the mongoDB on the "//Rollback mongoDB here" line? I already got a rollback from the entity part (Transactional annotation)
 
 java spring hibernate mongodb rollback
