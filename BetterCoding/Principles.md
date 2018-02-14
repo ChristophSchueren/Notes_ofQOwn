@@ -1,0 +1,6 @@
+Principles
+==========
+
+DRY
+KISS
+YAGNI
