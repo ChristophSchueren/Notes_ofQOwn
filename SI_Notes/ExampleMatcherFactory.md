@@ -3,4 +3,4 @@ ExampleMatcherFactory
 
 ExampleMatcherFactory.
 
-new ExampleMatcher(geraet)
+new ExampleMatcherFactory(geraet)
