@@ -45,3 +45,6 @@ public class Foo {
         return sum;
     }
  }
+
+Now you can call this function as :
+`doSomething (args)`
