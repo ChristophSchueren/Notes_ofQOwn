@@ -8,6 +8,6 @@ Der Test braucht eine gültige Buchung zum Speichern. Buchung.geraet braucht ein
 
 ssv verwendet für ähnliche Fälle in der Testklasse den EntityManager - import javax.persistence.EntityManager . Im MongoDB Backend ist das Paket nicht enthalten.
 
-Der Test läuft mit einer mir unbekannten Emulation einer Datenbank - auch ohne dass MongoDB gestartet ist. In der echten MongoDB gibt es keine Transaktionen.
+Der Test läuft mit einer mir unbekannten Datenbank-Emulation - auch ohne dass MongoDB gestartet ist. In der echten MongoDB gibt es keine Transaktionen.
 
 Wie soll ich den Test durchführen?
