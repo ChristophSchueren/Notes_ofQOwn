@@ -1,4 +1,5 @@
 Kernprozess
 ===========
 
-Leistungserstellung im Unt
+Leistungserstellung im Unternehmen findet in Kernprozessen statt:
+- Vertrieb
