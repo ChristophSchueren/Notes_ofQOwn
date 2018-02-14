@@ -22,20 +22,9 @@ I have a simple service:
  }
 ```
 
-Is it possible to rollback the mongoDB on the "//Rollback mongoDB here" line? I already got a rollback from the entity part (Transactional annotation)
+Is it possible to rollback the mongoDB on the "//Rollback mongoDB here" line? I already got a rollback from the entity part (Transactional annotation)?
 
-java spring hibernate mongodb rollback
-shareimprove this question
-asked Jan 27 '14 at 16:41
-
-Urbanleg
-1,88154091
-add a comment
-1 Answer
-active oldest votes
-up vote
-6
-down vote
+## Answer:
 MongoDB doesn't support transactions (at least not outside the scope of a single document). If you want to roll back changes you will need to handcraft that yourself. There are a few resources out there that describe ways of implementing your own transactions in Mongo if you really need them in certain circumstances. You could take a look at..
 
 http://docs.mongodb.org/manual/tutorial/perform-two-phase-commits/
