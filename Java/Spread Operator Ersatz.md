@@ -37,3 +37,11 @@ I'd like to use something like doSomething (...args) instead of calling `doSomet
 
 ### similar
 Variable Arguments
+public class Foo {
+    public int doSomething (int ...a) {
+      int sum = 0;
+      for (int i : a)
+           sum += i;
+        return sum;
+    }
+ }
