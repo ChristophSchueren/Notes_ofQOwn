@@ -12,3 +12,4 @@ jhipster spring-service Bar
 will create BarService
 
 ### get jdl file
+`export-jdl [jdlFile]`
