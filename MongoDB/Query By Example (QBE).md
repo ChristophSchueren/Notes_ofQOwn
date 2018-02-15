@@ -18,3 +18,5 @@ Example<User> example = Example.of(new User("Walter", "WHITE", null), matching()
 				withMatcher("firstname", startsWith()). //
 				withMatcher("lastname", ignoreCase()));
 ```
+
+### Quer
