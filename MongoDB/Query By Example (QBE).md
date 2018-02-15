@@ -33,3 +33,6 @@ Also eienen Examplematcher schreiben
 `public static final ExampleMatcher.StringMatcher REGEX`
 Treats strings as regular expression patterns
 [ExampleMatcher.StringMatcher (Spring Data Core 2.0.3.RELEASE API)](https://docs.spring.io/spring-data/commons/docs/current/api/org/springframework/data/domain/ExampleMatcher.StringMatcher.html)
+
+#### regex
+^(part1|part2)$
