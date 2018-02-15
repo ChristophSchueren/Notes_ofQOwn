@@ -26,3 +26,5 @@ You could write your own **ExampleMatcher** that **returns query clauses** accor
 
 #### Ziel: findAll(Example, pageable) beibehalten
 wegen pageable und sorting comfort!!! 
+
+Also eienen Examplematcher schreiben
