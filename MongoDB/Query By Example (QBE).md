@@ -24,4 +24,5 @@ The Spring Data JPA query-by-example technique uses Examples and ExampleMatchers
 
 You could write your own **ExampleMatcher** that **returns query clauses** according to your needs.
 
-#### Ziel: findAll()
+#### Ziel: findAll(Example, pageable) beibehalten
+wegen pageable und sorting comfort!!! 
