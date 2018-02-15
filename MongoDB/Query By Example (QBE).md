@@ -30,5 +30,5 @@ wegen pageable und sorting comfort!!!
 Also eienen Examplematcher schreiben
 
 ### Idee
-public static final ExampleMatcher.StringMatcher REGEX
+`public static final ExampleMatcher.StringMatcher REGEX`
 Treats strings as regular expression patterns
