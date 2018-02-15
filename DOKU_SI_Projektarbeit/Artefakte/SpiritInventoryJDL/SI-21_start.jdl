@@ -1,0 +1,40 @@
+// JDL definition for application 'SpiritInventory' generated with command 'jhipster export-jdl'
+
+entity Wohnung (inv_wohnung) {
+  strasse String,
+  ort String,
+  vermieter String,
+  mietvertragsende Instant,
+  kaution BigDecimal,
+  mietkosten BigDecimal,
+  nebenkosten BigDecimal,
+  verfuegbarkeit Verfuegbarkeit required
+}
+entity Geraet (inv_geraet) {
+  type String required,
+  standort String required,
+  verfuegbarkeit Verfuegbarkeit required
+}
+entity Eigenschaft (inv_eigenschaft) {
+  key String required,
+  value String
+}
+
+enum Verfuegbarkeit {
+  FREI,
+  GENUTZT,
+  SELTEN_GENUTZT,
+  ENTSORGT
+}
+
+relationship OneToOne {
+  Wohnung{user(login) required} to User,
+  Geraet{user(login) required} to User
+}
+relationship OneToMany {
+  Geraet{eigenschaften} to Eigenschaft{geraet required}
+}
+
+paginate Wohnung, Geraet, Eigenschaft with pagination
+service Wohnung, Geraet, Eigenschaft with serviceClass
+filter Wohnung, Geraet, Eigenschaft
