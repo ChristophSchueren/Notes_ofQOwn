@@ -1,4 +1,6 @@
 EingschraenkungenRights
 =======================
 
-Example<Geraet>
+### Idee Example-Zerlegung
+
+Example<Geraet> 
