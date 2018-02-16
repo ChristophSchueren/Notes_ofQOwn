@@ -3,4 +3,4 @@ EingschraenkungenRights
 
 ### Idee Example-Zerlegung
 
-Example<Geraet> restrictExampleing
+Example<Geraet> restrictExampleRights( Example<Geraet> request)
