@@ -1,0 +1,4 @@
+EingschraenkungenRights
+=======================
+
+Example<Geraet>
