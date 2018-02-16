@@ -3,4 +3,4 @@ EingschraenkungenRights
 
 ### Idee Example-Zerlegung
 
-Example<Geraet> 
+Example<Geraet> restrictExampleing
