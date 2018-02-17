@@ -23,3 +23,18 @@ PDF Tool
 - Briss a simple, free cross-platform program for cropping PDF files (Windows) [Download briss from SourceForge.net](https://sourceforge.net/projects/briss/files/latest/download)
 - PDF Quench: A Free Tool For Cropping PDF Documents Under Ubuntu
 - crass is a command line driven post-processing tool for scanned sheets of paper.
+
+
+
+Basic Workflow
+load image file(s)
+perform deskewing (optional)
+save deskewed image file
+load deskewed image file
+find the linecoordination informations.
+compute masks
+cropping the areas under the masks
+save single segments and debuginformation (optional)
+load segments
+splice segments to a new image
+save output image file
