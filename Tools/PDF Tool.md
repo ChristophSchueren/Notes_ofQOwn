@@ -5,4 +5,5 @@ PDF Tool
 - Create Pictures
 - Set Windows NTFS Attributes
 - smart auto splitting suggestion lines
-- split 
+- split horizontally
+- Filename to Attribsute
