@@ -17,6 +17,7 @@ PDF Tool
 - optical text recognition
 - post-processing tool for scanned sheets of paper
 - deskewing (schiefe Seiten um wenige Grad drehen)
+- metadata
 
 
 #### Example Programs
