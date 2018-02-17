@@ -27,14 +27,14 @@ PDF Tool
 
 
 Basic Workflow
-load image file(s)
-perform deskewing (optional)
-save deskewed image file
-load deskewed image file
-find the linecoordination informations.
-compute masks
-cropping the areas under the masks
-save single segments and debuginformation (optional)
-load segments
-splice segments to a new image
-save output image file
+1. load image file(s)
+2. perform deskewing (optional)
+3. save deskewed image file
+4. load deskewed image file
+5. find the linecoordination informations.
+6. compute masks
+7. cropping the areas under the masks
+8. save single segments and debuginformation (optional)
+9. load segments
+10. splice segments to a new image
+11. save output image file
