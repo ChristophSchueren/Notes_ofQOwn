@@ -12,3 +12,4 @@ PDF Tool
 - Machine learning
 - Algorithm
 - visual tool
+- crop section
