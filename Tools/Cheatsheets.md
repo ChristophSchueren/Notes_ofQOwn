@@ -5,3 +5,4 @@ Cheatsheets
 - Angular2 directives cheatsheet
 - Java8 stream() cheatsheet
 - Optional<>
+- Observable<>
