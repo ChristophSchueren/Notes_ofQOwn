@@ -14,3 +14,4 @@ PDF Tool
 - visual tool
 - crop section
 - PDF Quench: A Free Tool For Cropping PDF Documents Under Ubuntu
+- split pdf into sections
