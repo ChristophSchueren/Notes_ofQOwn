@@ -13,9 +13,10 @@ PDF Tool
 - Algorithm
 - visual tool
 - crop section
-- PDF Quench: A Free Tool For Cropping PDF Documents Under Ubuntu
 - split pdf into sections
 - optical text recognition
 
 
-#### Example Program
+#### Example Programs
+- Briss a simple, free cross-platform program for cropping PDF files (Windows)
+- PDF Quench: A Free Tool For Cropping PDF Documents Under Ubuntu
