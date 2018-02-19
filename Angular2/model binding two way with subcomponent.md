@@ -23,6 +23,7 @@ I have a master detail scenario here that might illustrate the concept: syntaxsu
 http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0
 
 Notice in the html for the treeview, there is a **self reference**. This is important since it's how I am able to render the nodes **recursively**.
+``` TreeView.htmls
 <ul>
     <li *ngFor="let dir of directories">
         <span><input type="checkbox" [checked]="dir.checked" (click)="dir.check()"    /></span> 
@@ -35,4 +36,6 @@ Notice in the html for the treeview, there is a **self reference**. This is impo
         </div>
     </li>
 </ul>
+```
+``
 
