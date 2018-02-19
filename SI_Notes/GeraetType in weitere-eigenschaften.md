@@ -9,4 +9,6 @@ weitere-eigenschaften component muss
 - GeraeteType entsprechend Type holen
 	- evtl. Meldung Geraet-Typ nicht hinterlegt
 - zwei Listen
-	- oben nur GeraetTempla
+	- oben nur GeraetTemplate
+	- unten restliche Attribute
+- neue Validierung mit Berücksi
