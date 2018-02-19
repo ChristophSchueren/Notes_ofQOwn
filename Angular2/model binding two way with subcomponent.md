@@ -18,3 +18,6 @@ google search
 I recommend communicating via **bound objects**. Maybe you have a details object on some customer object somewhere that you can bind to the detail component. 
 
 I have a master detail scenario here that might illustrate the concept: syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0 It's a treeview where a tree node can be a master for multiple child nodes. Different components, but a related concept from what I can tell. – TGH Nov 28 '15 at 2:02
+
+Example Bound Objects
+http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0
