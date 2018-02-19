@@ -14,4 +14,5 @@ Elements
 
 Git Versioniert
 - Ahk Skript
-- .
+- .gitconfig
+- 
