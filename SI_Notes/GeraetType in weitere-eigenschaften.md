@@ -1,4 +1,4 @@
-GeraetType in 
+GeraetType in weitere-eigenschaften
 ==============
 
 weitere-eigenschaften component muss
