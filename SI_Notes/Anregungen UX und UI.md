@@ -5,6 +5,8 @@ Anregungen UX und UI
 - Stifte weg
 - Genutzt als Link
 - Id aussagekräftiger nach typ
+- Suchfunktion
+- weitere-eigenschaften Styp
 
 
 
