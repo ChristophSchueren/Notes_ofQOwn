@@ -8,4 +8,6 @@ VerfuegbarkeitNichtENTSORGT
 
 Default Query Route with Query additional restriction annotation
 
-Weite
+Weitere Query: nur Deleted
+
+Weitere Query: wirklich
