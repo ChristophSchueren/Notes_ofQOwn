@@ -9,4 +9,6 @@ master-detail binding two-way
 
 update observable
 
-https://angular.io/tutorial/toh-pt3
+https://angular.io/tutorial/toh-pt3 simple
+
+google
