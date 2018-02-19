@@ -7,4 +7,4 @@ weitere-eigenschaften component muss
 	- eingegebene merkmale sollen beibehalten werden
 	- neusortierung nach geraet.type
 - GeraeteType entsprechend Type holen
-	- evtl. Meldung Geraet-Typ nich
+	- evtl. Meldung Geraet-Typ nicht hinterlegt
