@@ -23,4 +23,16 @@ I have a master detail scenario here that might illustrate the concept: syntaxsu
 http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0
 
 Notice in the html for the treeview, there is a **self reference**. This is important since it's how I am able to render the nodes **recursively**.
+<ul>
+    <li *ngFor="let dir of directories">
+        <span><input type="checkbox" [checked]="dir.checked" (click)="dir.check()"    /></span> 
+        <span (click)="dir.toggle()">{{ dir.name }}</span>
+        <div *ngIf="dir.expanded">
+            <ul >
+                <li *ngFor="let file of dir.files">{{file}}</li>
+            </ul>
+            <tree-view [directories]="dir.directories"></tree-view>
+        </div>
+    </li>
+</ul>
 
