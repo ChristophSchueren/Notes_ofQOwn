@@ -2,11 +2,12 @@ Anregungen UX und UI
 ====================
 
 - NFC Sticker, QR-Code
-- Stifte weg
+- Stifte weg in Geräte liste
 - Genutzt als Link
 - Id aussagekräftiger nach typ
 - Suchfunktion
-- weitere-eigenschaften Styp
+- weitere-eigenschaften Stylesheet
+- 
 
 
 
