@@ -8,4 +8,4 @@ Rest Program for default runing MongoDB
 - Start from Node or independent?
 	- Add Business Logic in JavaScript
 	- Better TypeScript
-	- 
+- Start with Windows
