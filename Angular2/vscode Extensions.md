@@ -6,3 +6,5 @@ vscode Extensions
 **alt:o** switches to template.html file
 
 - Angular Language Services
+
+- TSlint configuartion
