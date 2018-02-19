@@ -12,5 +12,6 @@ Elements
 - List of installed applications from Windows
 - AHK Skripts (versioniert)
 
-**Git Versioniert**
--
+Git Versioniert
+- Ahk Skript
+- .
