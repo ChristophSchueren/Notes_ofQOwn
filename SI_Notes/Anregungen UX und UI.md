@@ -10,4 +10,5 @@ Anregungen UX und UI
 
 Ideen für globale geraet-Felder
 - Hersteller
+- Marke /(Schlüssel)
 - 
