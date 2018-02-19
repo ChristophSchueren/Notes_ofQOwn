@@ -11,4 +11,4 @@ weitere-eigenschaften component muss
 - zwei Listen
 	- oben nur GeraetTemplate
 	- unten restliche Attribute
-- neue Validierung mit Berücksi
+- neue Validierung mit Berücksichtigung GeraetType.merkmal
