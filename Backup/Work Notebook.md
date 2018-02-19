@@ -10,4 +10,4 @@ Elements
 - Chocolate generate List of installed Apps and copy to Bakcup ...\chocalateInstalled_Datum.
 - Listen im Dateiversionsverlauf (Chocolate, ...)
 - List of installed applications from Windows
-- AHK Skripts
+- AHK Skripts (versioniert)
