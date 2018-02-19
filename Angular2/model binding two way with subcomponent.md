@@ -11,4 +11,5 @@ update observable
 
 https://angular.io/tutorial/toh-pt3 simple
 
-google
+google search
+`angular master detail update observable -AngularJS`
