@@ -1,7 +1,7 @@
 QOwnNotes
 =========
 
-In the main window
+### In the main window
 Ctrl + N creates a new note with the current date and time in the name
 Ctrl + ⇧ + F lets you search for notes (in the name of the note and its content)
 Alt + F lets you search for notes in all tags / subfolders
