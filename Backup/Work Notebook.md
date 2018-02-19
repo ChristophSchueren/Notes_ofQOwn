@@ -7,5 +7,5 @@ Backup to D:\Backup\<Datum>\
 Elements
 - Christoph\.gitconfig
 - Whole Desktop (Check folder size!)
-- generate and 
-- List of 
+- Chocolate generate List of instaljl and 
+- List of installed applications from Windows
