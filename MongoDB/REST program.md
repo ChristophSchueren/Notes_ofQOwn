@@ -1,7 +1,7 @@
 REST program
 ============
 
-Rest Program for default runing MongoDB
+Rest Program for default running MongoDB
 
 - complex Queries
 - Update Operation increment
@@ -9,3 +9,4 @@ Rest Program for default runing MongoDB
 	- Add Business Logic in JavaScript
 	- Better TypeScript
 - Start with Windows
+- CORS enabled
