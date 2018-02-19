@@ -4,4 +4,5 @@ Work Notebook
 Backup to D:\Backup\<Datum>\
 
 
-Eleme
+Elements
+- Christoph\.gitconf
