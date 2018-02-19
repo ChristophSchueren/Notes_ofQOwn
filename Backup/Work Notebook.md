@@ -5,4 +5,7 @@ Backup to D:\Backup\<Datum>\
 
 
 Elements
-- Christoph\.gitconf
+- Christoph\.gitconfig
+- Whole Desktop (Check folder size!)
+- generate and 
+- List of 
