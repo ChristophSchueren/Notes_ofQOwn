@@ -3,7 +3,7 @@ GeraetType in weitere-eigenschaften
 
 weitere-eigenschaften component muss
 - geraet.type (String kennen)
-- aenderungen von geraet.type mitbekommen
+- *aenderungen von geraet.type mitbekommen*
 	- eingegebene merkmale sollen beibehalten werden
 	- neusortierung nach geraet.type
 - GeraeteType entsprechend Type holen
@@ -11,4 +11,4 @@ weitere-eigenschaften component muss
 - zwei Listen
 	- oben nur GeraetTemplate
 	- unten restliche Attribute
-- neue Validierung mit Berücksichtigung GeraetType.merkmal
+- neue Validierung mit Berücksichtigung GeraetType.merkmaltemplates
