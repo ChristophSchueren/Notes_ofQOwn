@@ -19,5 +19,8 @@ I recommend communicating via **bound objects**. Maybe you have a details object
 
 I have a master detail scenario here that might illustrate the concept: syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0 It's a treeview where a tree node can be a master for multiple child nodes. Different components, but a related concept from what I can tell. – TGH Nov 28 '15 at 2:02
 
-Example Bound Objects
+# Example Bound Objects
 http://www.syntaxsuccess.com/viewarticle/recursive-treeview-in-angular-2.0
+
+Notice in the html for the treeview, there is a **self reference**. This is important since it's how I am able to render the nodes **recursively**.
+
