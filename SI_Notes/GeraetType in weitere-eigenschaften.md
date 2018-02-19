@@ -6,4 +6,5 @@ weitere-eigenschaften component muss
 - aenderungen von geraet.type mitbekommen
 	- eingegebene merkmale sollen beibehalten werden
 	- neusortierung nach geraet.type
-- GeraeteType en
+- GeraeteType entsprechend Type holen
+	- evtl. Meldung Geraet-Typ nich
