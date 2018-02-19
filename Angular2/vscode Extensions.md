@@ -9,4 +9,4 @@ vscode Extensions
 
 - TSlint configuartion
 
-- 
+- Angular Extension Pack 1.0.0
