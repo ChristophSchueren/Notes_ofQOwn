@@ -8,3 +8,5 @@ weitere-eigenschaften component muss
 	- neusortierung nach geraet.type
 - GeraeteType entsprechend Type holen
 	- evtl. Meldung Geraet-Typ nicht hinterlegt
+- zwei Listen
+	- oben nur GeraetTempla
