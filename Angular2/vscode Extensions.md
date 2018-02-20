@@ -17,3 +17,4 @@ vscode Extensions
 log reading:
 
 
+git: git Lens
