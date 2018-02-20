@@ -14,7 +14,7 @@ vscode Extensions
 
 ----------------------------------
 
-log reading:
+log reading: Log file highlighter
 
 
 git: git Lens
