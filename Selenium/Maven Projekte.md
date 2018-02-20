@@ -19,3 +19,15 @@ ressources ist für Bild (jpg-Dateien, ...)
 ## Eclipse
 ctrl + shift + F = Formatter run
 alt + F5 Update Project
+
+
+### pom.xml
+```
+<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+```
+scope: 
