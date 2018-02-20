@@ -14,3 +14,7 @@ Unlike the safe navigation operator, the *non-null assertion operator* `geraet!.
 </div>
 ```
 The $any type cast function ($any( <expression> ))
+<!-- Accessing an undeclared member -->
+<div>
+  The hero's marker is {{$any(hero).marker}}
+</div>
