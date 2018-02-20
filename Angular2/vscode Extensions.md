@@ -18,3 +18,5 @@ log reading:
 
 
 git: git Lens
+
+latex: Latex Workshop
