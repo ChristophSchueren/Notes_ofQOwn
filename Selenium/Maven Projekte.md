@@ -15,3 +15,6 @@ src/test/java
 src/test/resources
 
 ressources ist für Bild (jpg-Dateien, ...)
+
+## Eclipse
+ctrl + shift + F = Formatter run
