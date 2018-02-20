@@ -7,6 +7,10 @@ Here's an example in which the AppComponent.fontSizePx is two-way bound to the S
 
 `<app-sizer [(size)]="fontSizePx"></app-sizer>`
 
+```
 export class SizerComponent {
   @Input()  size: number | string;
   @Output() sizeChange = new EventEmitter<number>();
+```
+
+**sizeChange** is magic name
