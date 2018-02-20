@@ -1,4 +1,5 @@
 Webelement_manipulieren
 =======================
 
-### formul
+### input element ausfüllen
+`webElement.sendKeys("automated_Input");`
