@@ -1,3 +1,5 @@
 BINDING
 =======
 
+Two-way binding ( [(...)] )
+
