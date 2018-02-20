@@ -13,3 +13,4 @@ Unlike the safe navigation operator, the *non-null assertion operator* `geraet!.
   The hero's name is {{hero!.name}}
 </div>
 ```
+The $any type cast function ($any( <expression> ))
