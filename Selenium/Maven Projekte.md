@@ -12,3 +12,4 @@ src/main/resources
 src/test/java
 src/test/resources
 
+ressources ist für Bild (jpg-Dateien, ...)
