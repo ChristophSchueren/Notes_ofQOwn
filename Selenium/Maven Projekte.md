@@ -30,4 +30,4 @@ alt + F5 Update Project
 			<scope>test</scope>
 		</dependency>
 ```
-scope: 
+scope: junit kommt nicht mit ins deployment package, nur zu test-build
