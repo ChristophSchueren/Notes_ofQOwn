@@ -1,6 +1,8 @@
 Maven Projekte
 ==============
 
+## Beim Erzeugen von Maven Projekt
+
 - Group Id: Id der Firma
 - Artefact Id: eigentliches kleines Projekt
 
