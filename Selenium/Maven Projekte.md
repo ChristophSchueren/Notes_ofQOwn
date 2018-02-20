@@ -18,3 +18,4 @@ ressources ist für Bild (jpg-Dateien, ...)
 
 ## Eclipse
 ctrl + shift + F = Formatter run
+alt + F5 Update Project
