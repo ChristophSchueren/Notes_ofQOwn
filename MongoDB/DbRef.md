@@ -28,7 +28,7 @@ Pro Embedding
 		return false;
 	}
 @Override
-	default boolean exists(String arg0) {
+	default boolean exists(String arg0) { // viel nuetzlicher: primaryKey
 		// TODO Auto-generated method stub
 		return false;
 	}
