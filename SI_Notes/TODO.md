@@ -5,4 +5,4 @@ TODO
 
 - geraet-create-dialog
 	- Popupservice übergibt setzt geraet = new Geraet()  ZU SPÄT
-	- <weitere-eigenschaften-component [gera>
+	- <weitere-eigenschaften-component [geraet]="geraet"> bekommt geraet = null !!!
