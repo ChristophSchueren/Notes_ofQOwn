@@ -14,4 +14,4 @@ Weitere Query: wirklich alle, wie bisher **findReallyAll**
 
 
 ###  @Query in Java
-`@Query("{ 'name' : ?0 }")`
+`@Query("{"verfuegbarkeit": {$ne: "ENTSORGT"}}")`
