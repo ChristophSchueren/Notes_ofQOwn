@@ -13,3 +13,6 @@ TODO
 
 GeraetType
 - checkbox für required
+
+Bootstrap
+- two column Design
