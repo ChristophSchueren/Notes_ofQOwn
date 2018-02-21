@@ -16,3 +16,5 @@ GeraetType
 
 Bootstrap
 - two column Design
+
+Datenbank Filter geraet ENTSORGT
