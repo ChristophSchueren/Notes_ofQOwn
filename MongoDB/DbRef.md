@@ -27,7 +27,11 @@ Pro Embedding
 		// TODO Auto-generated method stub
 		return false;
 	}
-
+@Override
+	default boolean exists(String arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 
 
 ## Contra DBRef
