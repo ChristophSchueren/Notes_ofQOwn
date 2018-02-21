@@ -1,4 +1,4 @@
 TODO
 ====
-
-RemoveRequiredOfTemplate()
+- geraet-dialog-component
+	- RemoveRequiredOfTemplate()
