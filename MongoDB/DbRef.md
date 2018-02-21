@@ -21,6 +21,8 @@ Pro Embedding
 - Embeddete unabhängige Objekte, die in mehreren Dokumenten vorkommen, können inkonsistent werden.
 
 
+## 
+
 
 ## Contra DBRef
 - erfordert manuelle Prüfung und Sichlerstellung der Foreign Key-Constraints in Business-Logic
