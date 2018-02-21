@@ -1,7 +1,7 @@
 TODO
 ====
 - geraet-dialog-component
-	- removeRequiredSettingOfTemplate()
+	- removeRequiredSettingOfTemplate() DONE
 
 - geraet-create-dialog
 	- Popupservice übergibt setzt geraet = new Geraet()  ZU SPÄT
