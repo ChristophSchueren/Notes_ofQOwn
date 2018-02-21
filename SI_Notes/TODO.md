@@ -18,3 +18,6 @@ Bootstrap
 - two column Design
 
 Datenbank Filter geraet ENTSORGT
+
+
+Schöne Logs für Spring SLF4J
