@@ -21,7 +21,13 @@ Pro Embedding
 - Embeddete unabhängige Objekte, die in mehreren Dokumenten vorkommen, können inkonsistent werden.
 
 
-## 
+## DBRef is valid:
+@Override
+	default <S extends Geraet> boolean exists(Example<S> arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 
 
 ## Contra DBRef
