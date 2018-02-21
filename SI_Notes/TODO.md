@@ -7,6 +7,10 @@ GeraetType
 - checkbox für required DONE
 
 
+
+
+# Probleme
+
 - geraet-create-dialog
 	- Popupservice übergibt setzt geraet = new Geraet()  ZU SPÄT
 	- <weitere-eigenschaften-component [geraet]="geraet"> bekommt geraet = null !!!
