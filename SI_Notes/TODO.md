@@ -4,4 +4,5 @@ TODO
 	- RemoveRequiredSettingOfTemplate()
 
 - geraet-create-dialog
-	- Popupservice übergib
+	- Popupservice übergibt setzt geraet = new Geraet()  ZU SPÄT
+	- <weitere-eigenschaften-component [gera>
