@@ -17,4 +17,3 @@ Weitere Query: wirklich alle, wie bisher **findReallyAll**
 `@Query("{"verfuegbarkeit": {$ne: "ENTSORGT"}}")`
 
 
-Schöne Logs für Spring
