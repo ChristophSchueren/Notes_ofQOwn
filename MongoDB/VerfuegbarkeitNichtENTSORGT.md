@@ -11,3 +11,6 @@ Default Query Route with Query additional restriction annotation
 Weitere Query: nur Deleted **findOnlyDeleted**
 
 Weitere Query: wirklich alle, wie bisher **findReallyAll**
+
+
+@Query in Java
