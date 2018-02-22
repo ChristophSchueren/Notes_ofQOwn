@@ -12,8 +12,8 @@
 
 - GeräteType alzeigen als Geräte-Typ
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
-- Verfügbarkeit als Toggle witches -> Kombination
+- Verfügbarkeit als *Toggle buttons* -> Kombination
 	- Wie zum Backend übertragen?
 - /geraets
 	- Filter own weg
-	- Filter all setzt alle Verf
+	- Filter all setzt alle Verfuegbarkeit -Filter auf allowed
