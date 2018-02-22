@@ -3,7 +3,7 @@
 
 #### Formatänderungen
 - neues Feld Geraet.name
-- users (3) in Geraet werden direkt als primary Key gespeichert (kein DBRef)
+- users (3) in Geraet statt als DBRef als primary Key gespeichert (kein DBRef)
 	- nachteile DBRef: 
 	- langsam: Backend füllt immer user bei Abfrage eines jeden Geräts (viele Abfragen für Listendarstellung)
 	- Übertragen ungenutzter Daten: jedes angefragte Geraet enthält überrträgt einen ausgefüllten Nutzer
