@@ -18,6 +18,9 @@
 - Button: Geraete-Typen verwalten
 
 
+- / geraetType Detail Button weg
+
+
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
 - Verfügbarkeit als *Toggle buttons* -> Kombination
 	- Wie zum Backend übertragen?
