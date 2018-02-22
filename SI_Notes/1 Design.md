@@ -11,4 +11,5 @@
 	- Datenbank-Collection Gerät würde sich durch die 
 
 - GeräteType alzeigen als Geräte-Typ
-- Verfügbarkeit enum-Werte in kl
+- Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
+- 
