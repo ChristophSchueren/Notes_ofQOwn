@@ -21,7 +21,8 @@
 - /geraetType
 - /buchungs
 
-#### Name
+#### Name Statt ID
+Id Spalten *UMBENNENEN*
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
