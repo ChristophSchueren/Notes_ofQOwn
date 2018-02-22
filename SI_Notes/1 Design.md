@@ -24,7 +24,8 @@
 #### Name Statt ID
 Id Spalten *UMBENNENEN*
 - Titlelzeile der Tabellen = name
-- LINK bleibt wie 
+- **LINK** bleibt wie er war bestehen!!!!
+- Beschriftung {{geraet.name}}
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
