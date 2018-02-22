@@ -17,8 +17,9 @@
  - Home-Component
 - Button: Geraete-Typen verwalten
 
-
-- / geraetType Detail Button weg
+#### Detail Button weg
+- /geraetType
+- /buchungs
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
