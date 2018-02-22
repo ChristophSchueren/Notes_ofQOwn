@@ -21,6 +21,8 @@
 - /geraetType
 - /buchungs
 
+#### Name
+
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
 - Verfügbarkeit als *Toggle buttons* -> Kombination
