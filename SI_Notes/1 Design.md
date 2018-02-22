@@ -33,10 +33,13 @@ Id Spalten *UMBENNENEN*
 	- Wie zum Backend übertragen?
 
 - /geraets
-	- kleine e
+	- kleine edit buttons weg
 	- Filter own weg
 	- Filter all setzt alle Verfuegbarkeit -Filter auf allowed
 	- entsorgt default ausgeblendet
 		- showEntsorgt = true
 
 - Component mit 
+
+heute
+- toggle buttons in /gerae
