@@ -23,6 +23,8 @@
 
 #### Name Statt ID
 Id Spalten *UMBENNENEN*
+- Titlelzeile der Tabellen = name
+- LINK bleibt wie 
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
