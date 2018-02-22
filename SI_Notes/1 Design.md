@@ -15,7 +15,7 @@
 
 
  - Home-Component
-Geraete-Typen 
+- Button: Geraete-Typen verwalten
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
