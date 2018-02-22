@@ -16,4 +16,4 @@
 	- Wie zum Backend übertragen?
 - /geraets
 	- Filter own weg
-	- Filter all setzt 
+	- Filter all setzt alle Verf
