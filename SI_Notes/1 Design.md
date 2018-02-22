@@ -31,7 +31,9 @@ Id Spalten *UMBENNENEN*
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
 - Verfügbarkeit als *Toggle buttons* -> Kombination
 	- Wie zum Backend übertragen?
+
 - /geraets
+	- kleine e
 	- Filter own weg
 	- Filter all setzt alle Verfuegbarkeit -Filter auf allowed
 	- entsorgt default ausgeblendet
