@@ -12,4 +12,5 @@
 
 - GeräteType alzeigen als Geräte-Typ
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
+- Verfügbarkeit als Toggle witches -> Kombination
 - 
