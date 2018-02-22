@@ -14,7 +14,8 @@
 - Geraet Id Spalten weg
 
 
-- Ger
+ - Home-Component
+Geraete-Typen 
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
