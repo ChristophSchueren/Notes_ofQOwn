@@ -26,3 +26,5 @@
 	- Filter all setzt alle Verfuegbarkeit -Filter auf allowed
 	- entsorgt default ausgeblendet
 		- showEntsorgt = true
+
+- Component mit 
