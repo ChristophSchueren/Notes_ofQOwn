@@ -42,4 +42,6 @@ Id Spalten *UMBENNENEN*
 - Component mit 
 
 heute
-- toggle buttons in /gerae
+- toggle buttons in /geraets
+- filter richtig nach verfuegbarkeit
+- geraet endgültig entsorgen (über Buchung)
