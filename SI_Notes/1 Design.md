@@ -44,4 +44,4 @@ Id Spalten *UMBENNENEN*
 heute
 - toggle buttons in /geraets
 - filter richtig nach verfuegbarkeit
-- geraet endgültig entsorgen (über Buchung)
+- geraet endgültig entsorgen (über Buchung, die nicht gespeichert wird)
