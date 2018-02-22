@@ -1,7 +1,7 @@
 1 Design
 ========
 
-#### Formatänderungen
+#### Entitäten-Änderungen
 - neues Feld Geraet.name
 - users (3) in Geraet statt als DBRef als user.login String speichern
 	- nachteile DBRef: 
@@ -11,6 +11,8 @@
 	- Datenbank-Collection Gerät würde sich durch die 
 
 - GeräteType alzeigen als Geräte-Typ (Übersetzung)
+
+
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
 - Verfügbarkeit als *Toggle buttons* -> Kombination
 	- Wie zum Backend übertragen?
