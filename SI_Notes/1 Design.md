@@ -9,3 +9,5 @@
 	- Übertragen ungenutzter Daten: jedes angefragte Geraet enthält überrträgt einen ausgefüllten Nutzer
 	- sortierbarkeit: DBRefs haben keine Sortierreihenfolge und daher kann in der Geräteliste nicht nach User.login namen sortiert werden
 	- Datenbank-Collection Gerät würde sich durch die 
+
+- 
