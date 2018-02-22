@@ -10,7 +10,7 @@
 	- sortierbarkeit: DBRefs haben keine Sortierreihenfolge und daher kann in der Geräteliste nicht nach User.login namen sortiert werden
 	- Datenbank-Collection Gerät würde sich durch die 
 
-- GeräteType alzeigen als Geräte-Typ
+- GeräteType alzeigen als Geräte-Typ (Übersetzung)
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
 - Verfügbarkeit als *Toggle buttons* -> Kombination
 	- Wie zum Backend übertragen?
