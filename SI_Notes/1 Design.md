@@ -24,3 +24,4 @@
 - /geraets
 	- Filter own weg
 	- Filter all setzt alle Verfuegbarkeit -Filter auf allowed
+
