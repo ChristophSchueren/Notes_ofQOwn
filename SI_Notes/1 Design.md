@@ -2,4 +2,5 @@
 ========
 
 #### Formatänderungen
-- neues Feld Gerä
+- neues Feld Geraet.name
+- users (3) werden direkt als 
