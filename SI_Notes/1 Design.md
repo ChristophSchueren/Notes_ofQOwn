@@ -11,6 +11,10 @@
 	- Datenbank-Collection Gerät würde sich durch die 
 
 - GeräteType alzeigen als Geräte-Typ (Übersetzung)
+- Geraet Id Spalten weg
+
+
+- Ger
 
 
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
