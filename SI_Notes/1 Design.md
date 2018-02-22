@@ -14,3 +14,6 @@
 - Verfügbarkeit enum-Werte in kleine, deutsche Übersetzungen
 - Verfügbarkeit als Toggle witches -> Kombination
 	- Wie zum Backend übertragen?
+- /geraets
+	- Filter own weg
+	- 
