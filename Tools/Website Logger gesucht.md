@@ -10,4 +10,6 @@ Tool soll für mich alle meine Browser aktivitäten aufzeichnen und mir hinterhe
 - query service
 - record
 - keeps track
-- da
+- database
+- Google searchstrings
+- 
