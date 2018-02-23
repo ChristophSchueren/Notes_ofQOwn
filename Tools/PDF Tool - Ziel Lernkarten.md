@@ -21,6 +21,7 @@ PDF Tool - Ziel Lernkarten
 - gui selection
 - rectangle
 - crop
+- mouse
 
 
 #### Example Programs
