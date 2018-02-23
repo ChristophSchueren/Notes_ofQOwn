@@ -18,6 +18,9 @@ PDF Tool - Ziel Lernkarten
 - post-processing tool for scanned sheets of paper
 - deskewing (schiefe Seiten um wenige Grad drehen)
 - metadata
+- gui selection
+- rectangle
+- crop
 
 
 #### Example Programs
