@@ -5,3 +5,9 @@ Tool soll für mich alle meine Browser aktivitäten aufzeichnen und mir hinterhe
 
 - personal browser archive log save query web history 
 - visited sites
+- background
+- always active
+- query service
+- record
+- keeps track
+- da
