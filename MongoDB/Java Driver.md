@@ -9,3 +9,7 @@ automatischer Methoden aufruf
 - onAfterSave, 
 - onAfterLoad and 
 - onAfterConvert.
+
+
+**- onBeforeSave,**
+- Check if User is valid
