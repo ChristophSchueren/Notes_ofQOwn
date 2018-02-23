@@ -1,4 +1,4 @@
-PDF Tool
+PDF Tool - Ziel Lernkarten
 ========================
 
 - OCR
