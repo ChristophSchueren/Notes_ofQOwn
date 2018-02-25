@@ -7,4 +7,4 @@ Clipboard tools
 	- saves images automatically
 - clcl
 	- saves text, keeps history
-	- empfohlen von Anwendung
+	- empfohlen von Anwendungsentwicker Podcast
