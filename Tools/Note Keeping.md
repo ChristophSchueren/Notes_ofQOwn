@@ -5,4 +5,4 @@ free Tool, Treeview of Filed, handles MS Office Files and Spreadsheets, ONLY PER
 
 - Memomaster (JBSoftware)
 	- Mit word Excel edit
-- 
+- https://www.jbsoftware.de/textbausteinverwaltung/index.htm
