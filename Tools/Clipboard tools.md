@@ -5,3 +5,6 @@ Clipboard tools
 	- reformat inputs
 - Free Clipboard Manager
 	- saves images automatically
+- clcl
+	- saves text, keeps history
+	- empfohlen von Anwendung
