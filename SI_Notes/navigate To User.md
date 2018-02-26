@@ -7,4 +7,4 @@ navigateToUser(userLogin: string) {
 kümmert sich automatisch um das Umschalten des Routers
 
 
-sollte von ei
+sollte von einem Globalen Service bereitgestellt werden.
