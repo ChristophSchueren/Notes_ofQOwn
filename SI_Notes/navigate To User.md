@@ -1,4 +1,7 @@
 navigate To User
 ================
 
-navigateToUser(u)
+navigateToUser(userLogin: string) {
+}
+
+kümmert sich automatisch um 
