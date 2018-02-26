@@ -4,4 +4,7 @@ navigate To User
 navigateToUser(userLogin: string) {
 }
 
-kümmert sich automatisch um 
+kümmert sich automatisch um das Umschalten des Routers
+
+
+sollte von ei
