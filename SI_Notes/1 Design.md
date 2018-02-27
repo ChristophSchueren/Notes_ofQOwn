@@ -1,6 +1,8 @@
 1 Design
 ========
 
+Radio Buttons component statt Dropdown für 
+
 #### Entitäten-Änderungen
 - neues Feld Geraet.name
 - users (3) in Geraet statt als DBRef als user.login String speichern
