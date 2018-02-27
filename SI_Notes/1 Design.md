@@ -1,7 +1,7 @@
 1 Design
 ========
 
-Radio Buttons component statt Dropdown für 
+Radio Buttons component statt Dropdown für Geraet.verfuegbarkeit wahl, default auf genutzt
 
 #### Entitäten-Änderungen
 - neues Feld Geraet.name
