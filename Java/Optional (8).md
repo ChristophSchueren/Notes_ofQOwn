@@ -20,4 +20,4 @@ wahre Stärke: *IFPRESENT*
    System.out.println(3);   
   }
 ```
-
+sehr nütlich: orelse
