@@ -1,7 +1,10 @@
 Optional (Java8)
 ============
 
-Optionals are not async
+**Optionals are not async**
+
+Creating Optional Objects
+
 
 
 schlechter alter Nullcheck nachprogrammiert
