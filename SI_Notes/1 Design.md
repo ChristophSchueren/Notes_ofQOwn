@@ -19,6 +19,8 @@ Radio Buttons component statt Dropdown für Geraet.verfuegbarkeit wahl, default 
  - Home-Component
 - Button: Geraete-Typen verwalten
 
+
+
 #### Detail Button weg
 - /geraetType
 - /buchungs
