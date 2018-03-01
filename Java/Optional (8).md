@@ -13,4 +13,11 @@ schlechter alter Nullcheck nachprogrammiert
 ```
 
 wahre Stärke: *IFPRESENT*
+```
+  Optional<Integer> myFirstOptional = myService.getSomeOptionalInteger();   
+  myFirstOptional.ifPresent(myInt -> System.out.println(myInt));   
+  if(!myFirstOptional.isPresent()) {   
+   System.out.println(3);   
+  }
+```
 
