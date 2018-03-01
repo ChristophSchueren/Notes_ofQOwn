@@ -5,7 +5,7 @@ Optional (Java8)
 
 Creating Optional Objects
 Optional<String> errMsg = Optional.empty();
-
+(empty.isPresent() == false)
 
 
 schlechter alter Nullcheck nachprogrammiert
