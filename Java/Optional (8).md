@@ -20,4 +20,10 @@ wahre Stärke: *IFPRESENT*
    System.out.println(3);   
   }
 ```
-sehr nütlich: orelse
+sehr nütlich: **orelse** gibt value or other value
+
+```
+ Optional<Integer> myFirstOptional = myService.getSomeOptionalInteger();   
+ System.out.println(myFirstOptional.orElse(5));
+```
+
