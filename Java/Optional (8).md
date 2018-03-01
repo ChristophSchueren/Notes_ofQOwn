@@ -12,4 +12,5 @@ schlechter alter Nullcheck nachprogrammiert
   }
 ```
 
-wahre Stärk
+wahre Stärke: *IFPRESENT*
+
