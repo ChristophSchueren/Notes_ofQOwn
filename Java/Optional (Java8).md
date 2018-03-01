@@ -4,8 +4,12 @@ Optional (Java8)
 **Optionals are not async**
 
 Creating Optional Objects
+```
 Optional<String> errMsg = Optional.empty();
 (empty.isPresent() == false)
+errMsg = Optional.of("Schwerer Fehler 123");
+```
+
 
 
 schlechter alter Nullcheck nachprogrammiert
