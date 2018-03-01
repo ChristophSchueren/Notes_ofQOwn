@@ -33,4 +33,11 @@ throw if not present **orelsethrow**
 Optional<Integer> myFirstOptional = myService.getSomeOptionalInteger();   
   myFirstOptional.orElseThrow(RuntimeException::new);
 ```
+filter
+
+```
+ int someInt = myFirstOptional   
+      .filter(myInt -> myInt == 3)   
+      .orElse(5);
+```
 
