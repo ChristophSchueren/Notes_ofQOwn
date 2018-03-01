@@ -27,3 +27,5 @@ sehr nütlich: **orelse** gibt value or other value
  System.out.println(myFirstOptional.orElse(5));
 ```
 
+
+throw if not present orelsethrow
