@@ -4,6 +4,7 @@ Optional (Java8)
 **Optionals are not async**
 
 Creating Optional Objects
+Optional<String> errMsg = Optional.empty();
 
 
 
