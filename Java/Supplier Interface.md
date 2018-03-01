@@ -17,6 +17,6 @@ Lambda Expressions gehen *direkt*
 SunPower power = new SunPower();
 SunPower p1 = produce(() -> power); // new ist NICHT erforderlich, aber haeufig
 SunPower p1 = produce(() -> new SunPower()); // hauefig
-SunPower p1 = produce(() -> new SunPower()); // hauefig
+SunPower p1 = produce(() -> SunPower::new ); // hauefig
  
 ```
