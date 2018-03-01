@@ -13,3 +13,7 @@ Supplier<String> i  = ()-> "java2s.com";
 ```
 
 Lambda Expressions gehen *direkt*
+```
+SunPower power = new SunPower();
+SunPower p1 = produce(() -> power); 
+```
