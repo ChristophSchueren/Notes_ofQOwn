@@ -20,7 +20,7 @@ Radio Buttons component statt Dropdown für Geraet.verfuegbarkeit wahl, default 
 - Button: Geraete-Typen verwalten
 
 #### Weitere-Eigenschaften-Zeile-Component
-- 
+- Bootstrap Spalten
 
 #### Detail Button weg
 - /geraetType
