@@ -1,4 +1,4 @@
-Optional (8)
+Optional (Java8)
 ============
 
 Optionals are not async
