@@ -28,4 +28,9 @@ sehr nütlich: **orelse** gibt value or other value
 ```
 
 
-throw if not present orelsethrow
+throw if not present **orelsethrow**
+```
+Optional<Integer> myFirstOptional = myService.getSomeOptionalInteger();   
+  myFirstOptional.orElseThrow(RuntimeException::new);
+```
+
