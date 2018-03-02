@@ -13,3 +13,6 @@ will create BarService
 
 ### get jdl file
 `export-jdl [jdlFile]`
+
+
+### S
