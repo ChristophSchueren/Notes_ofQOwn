@@ -1,0 +1,3 @@
+Jhipster Werbeartikel
+=====================
+
