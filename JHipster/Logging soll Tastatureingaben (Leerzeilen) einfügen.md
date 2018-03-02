@@ -13,3 +13,8 @@ Spring (xml)
 
 
 Oder auf Route reagieren
+
+
+Im Code
+1. Channel erzeugen
+2.
