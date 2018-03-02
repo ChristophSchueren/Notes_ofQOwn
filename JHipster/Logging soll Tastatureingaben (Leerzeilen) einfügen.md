@@ -10,3 +10,6 @@ Spring (xml)
 
 <stream:stdout-channel-adapter channel="echo"/>
 ```
+
+
+Oder auf Route reagieren
