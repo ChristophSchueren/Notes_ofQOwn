@@ -1,4 +1,6 @@
 git add -p
 ==========
 
-zeigt alle 
+zeigt alle Änderungen zur Bestätigung an
+
+git commit -pm "CommitName"
