@@ -20,4 +20,6 @@ will create BarService
 ./mvnw
 mvn clean test
 yarn start
-yarn e2e 
+
+#### Tests
+yarn e2e
