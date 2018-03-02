@@ -19,3 +19,12 @@ Im Code
 1. Channel erzeugen
 2. Auf stdin hören
 3. Output erledigt spezieller logger - kein Problem
+
+
+```
+BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        Stream<String> stream = in.lines();
+        stream.forEach((enterPressed)-> log.debug("---------------------------------------------------"));
+```
+
+
