@@ -18,8 +18,8 @@ will create BarService
 ### Starten
 ./mvnw -Pprod clean package
 ./mvnw
-mvn clean test
 yarn start
 
 #### Tests
+mvn clean test
 yarn e2e
