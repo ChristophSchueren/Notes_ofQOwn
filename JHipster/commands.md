@@ -15,4 +15,9 @@ will create BarService
 `export-jdl [jdlFile]`
 
 
-### S
+### Starten
+./mvnw -Pprod clean package
+./mvnw
+mvn clean test
+yarn start
+yarn e2e 
