@@ -13,4 +13,5 @@ Webdesign Kommentar-Tool
 
 Develop Component:
 
-- view Geraet Li
+- view GeraetType JSON
+- view all as JSON
