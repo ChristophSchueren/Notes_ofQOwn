@@ -12,6 +12,8 @@ Webdesign Kommentar-Tool
 - auf seite, liest aktuelle URL
 - Auch für Vorführung: Seite (1) -> Zelltel 1: ...
 
+Dauer-Einrichtung für Integrated Development
+
 
 Develop Component:
 
