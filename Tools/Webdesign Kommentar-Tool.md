@@ -9,3 +9,8 @@ Webdesign Kommentar-Tool
 - suggestions
 - Integrierbar in jede Seite
 - Angular Component (Problem: braucht Backend, Service unschön vermeidbar, in view.ts)
+
+
+Develop Component:
+
+- view Geraet Li
