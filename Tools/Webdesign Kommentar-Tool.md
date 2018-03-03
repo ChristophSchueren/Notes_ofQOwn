@@ -9,6 +9,8 @@ Webdesign Kommentar-Tool
 - suggestions
 - Integrierbar in jede Seite
 - Angular Component (Problem: braucht Backend, Service unschön vermeidbar, in view.ts)
+- auf seite, liest aktuelle URL
+- Auch für Demo
 
 
 Develop Component:
