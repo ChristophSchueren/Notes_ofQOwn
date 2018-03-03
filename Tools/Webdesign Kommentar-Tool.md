@@ -15,3 +15,5 @@ Develop Component:
 
 - view GeraetType JSON
 - view all as JSON
+- url api frei eintippbar -> JSON view
+- <pre>{{obj |json}
