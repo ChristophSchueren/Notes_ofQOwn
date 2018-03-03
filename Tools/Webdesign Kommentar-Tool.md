@@ -8,4 +8,4 @@ Webdesign Kommentar-Tool
 - save to Database
 - suggestions
 - Integrierbar in jede Seite
-- Angular Component (Problem: braucht Backend)
+- Angular Component (Problem: braucht Backend, Service unschön vermeidbar, in view.ts)
