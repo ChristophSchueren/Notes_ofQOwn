@@ -3,6 +3,11 @@
 
 Radio Buttons component statt Dropdown für Geraet.verfuegbarkeit wahl, default auf genutzt
 
+
+### Datumsfeld
+http://localhost:9000/#/audits hat toolle Datums-Felder.
+Audits view
+
 #### Entitäten-Änderungen
 - neues Feld Geraet.name
 - users (3) in Geraet statt als DBRef als user.login String speichern
