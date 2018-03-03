@@ -10,7 +10,7 @@ Webdesign Kommentar-Tool
 - Integrierbar in jede Seite
 - Angular Component (Problem: braucht Backend, Service unschön vermeidbar, in view.ts)
 - auf seite, liest aktuelle URL
-- Auch für Demo
+- Auch für Vorführung: Seite (1) -> Zelltel 1: ...
 
 
 Develop Component:
