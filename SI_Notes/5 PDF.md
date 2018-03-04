@@ -6,8 +6,9 @@
 3. PDF-Anhänge zu Gerät speichern
 
 
-Speichern in MongoDB
+Speichern in MongoDB?
+- Spk
 
-Cloud Ser
+Cloud Server selbst wird gelegentlich neu deployed -> Files sollen permanent sein
 
 Ideen:
