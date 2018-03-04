@@ -9,9 +9,10 @@
 Speichern in MongoDB?
 - Speicherlimit
 - Dateien versteckt in Datenbank
+- Datenbankgröße
 
 Cloud Server selbst wird gelegentlich neu deployed -> Files sollen permanent sein
 
 Ideen:
 - Feedback Component
-- 
+- Angular GeraetService speichert l
