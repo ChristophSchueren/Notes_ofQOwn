@@ -7,8 +7,11 @@
 
 
 Speichern in MongoDB?
-- Spk
+- Speicherlimit
+- Dateien versteckt in Datenbank
 
 Cloud Server selbst wird gelegentlich neu deployed -> Files sollen permanent sein
 
 Ideen:
+- Feedback Component
+- 
