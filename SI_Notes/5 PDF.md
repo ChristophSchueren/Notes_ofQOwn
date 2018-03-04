@@ -15,4 +15,6 @@ Cloud Server selbst wird gelegentlich neu deployed -> Files sollen permanent sei
 
 Ideen:
 - Feedback Component
-- Angular GeraetService speichert l
+- Angular GeraetService speichert Queryparams,
+	- setzt queryparams
+	- default query mit diesen params
