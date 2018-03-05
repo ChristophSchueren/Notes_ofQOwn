@@ -12,3 +12,6 @@ css
   background-color: #aaaaaa;
 }
 ```
+
+
+Bootstrap hat class = "table table-striped"
