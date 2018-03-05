@@ -6,3 +6,5 @@ Iterationsstufen
 		1. Erstellung
 		2. Änderung
 			- Neuer Standort und Nutzer
+			- Veränderung von Eigenschaften / Modifikation
+				- z.B. E
