@@ -3,7 +3,8 @@ Eclipse
 Ctrl+Shift+L - Get list of Keybaord Shortcuts
 
 # Select
-- Alt+Shift+Up - Select ENTIRE String
+- Alt+Shift+Up - Select ENTIRE String *enhance Selection*
+- Alt+Shift+Down reduce Selection
 
 
 Most important ones:
