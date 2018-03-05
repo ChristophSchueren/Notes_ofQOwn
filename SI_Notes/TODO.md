@@ -31,4 +31,5 @@ changeuser-dialog
 - müssen Fehlermeldung-Zeile zeigen
 
 
-# Develop-
+# Develop-View Component
+JSON einlesen, in DB speichern (nach Validierung!!)
