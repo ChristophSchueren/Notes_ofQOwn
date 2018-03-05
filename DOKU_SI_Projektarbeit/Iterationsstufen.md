@@ -7,4 +7,5 @@ Iterationsstufen
 		2. Änderung
 			- Neuer Standort und Nutzer
 			- Veränderung von Eigenschaften / Modifikation
-				- z.B. E
+				- z.B. Einbau von mehr RAM ins Notebook
+			- Entsorgung
