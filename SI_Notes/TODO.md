@@ -20,6 +20,8 @@ GeraetType
 	-  ist NICHT selected, aber Feld grün hinterlegt für Valid (geraet.neueVerfügbarkeit steht auf GENUTZT)
 
 
+- key name "max. Bilddiagonale wirft exception, weil "
+
 Bootstrap
 - two column Design
 
