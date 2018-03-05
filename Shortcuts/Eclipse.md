@@ -1,5 +1,7 @@
 Eclipse
 =======
+Ctrl+Shift+L - Get list of Keybaord Shortcuts
+
 
 Most important ones:
 SHORTCUT	ACTION
