@@ -11,4 +11,5 @@ Iterationsstufen
 		3. Entsorgung
 	- Dokumentation: Eine History aller drei Genannten Ereignisse zu einem Gerät soll gespeichert und eingesehen werden können
 2. Erweiterte Funktionalität
-	- Dateien 
+	- Dateien zu Assets speichern und abrufen
+	- Listen durch Filterkriterien erstel
