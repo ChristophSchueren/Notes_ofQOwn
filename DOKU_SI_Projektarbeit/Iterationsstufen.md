@@ -13,7 +13,7 @@ Iterationsstufen
 2. Erweiterte Funktionalität
 	- Dateien zu Assets speichern und abrufen
 	- Listen
-		- Listen anhand Filterkriterien automatisch erstellen
-		- Listen individuell zusammenstellen aus beliebigen Assets
+		- anhand Filterkriterien automatisch erstellen
+		- individuell zusammenstellen aus beliebigen Assets
 		- Listen Drucken (PDF)
 	- Alle Assets eines Nutzers zur Rückgabe markieren
