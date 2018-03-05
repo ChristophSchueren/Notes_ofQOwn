@@ -14,6 +14,6 @@ Iterationsstufen
 	- Dateien zu Assets speichern und abrufen
 	- Listen
 		- anhand Filterkriterien automatisch erstellen
-		- individuell zusammenstellen aus beliebigen Assets
+		- individuell zusammenstellen aus beliebigen Assets (Checkboxen)
 		- Listen Drucken (PDF)
 	- Alle Assets eines Nutzers zur Rückgabe markieren
