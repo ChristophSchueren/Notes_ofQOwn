@@ -26,5 +26,4 @@ Bootstrap
 
 Datenbank Filter geraet ENTSORGT
 
-
 Schöne Logs für Spring SLF4J
