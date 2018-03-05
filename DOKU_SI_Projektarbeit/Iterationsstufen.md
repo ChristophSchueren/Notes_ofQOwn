@@ -3,4 +3,6 @@ Iterationsstufen
 
 1. Grundfunktionalität
 	- Lifecyle eines Asset im Produkt abbilden
-		1. 
+		1. Erstellung
+		2. Änderung
+			- Neuer Standort und Nutzer
