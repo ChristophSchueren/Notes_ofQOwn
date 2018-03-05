@@ -1,4 +1,4 @@
-striped
+striped Table / List
 =======
 
 css
