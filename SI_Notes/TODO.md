@@ -27,4 +27,4 @@ Schöne Logs für Spring SLF4J
 # Testen
 create-dialog und 
 changeuser-dialog 
-dürfen bei ungültigem 
+dürfen bei ungültigen Merkmalen NICHT absenden button enabeln!
