@@ -12,7 +12,7 @@ Iterationsstufen
 	- Dokumentation: Eine History aller drei Genannten Ereignisse zu einem Gerät soll gespeichert und eingesehen werden können
 2. Erweiterte Funktionalität
 	- Dateien zu Assets speichern und abrufen
-	- LIS
-	- Listen durch Filterkriterien erstellen
-	- Listen individuell zusammenstellen aus beliebigen Assets
-	- 
+	- Listen
+		- Listen anhand Filterkriterien automatisch erstellen
+		- Listen individuell zusammenstellen aus beliebigen Assets
+		- Listen Drucken (PDF)
