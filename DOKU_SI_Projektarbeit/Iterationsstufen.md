@@ -2,4 +2,5 @@ Iterationsstufen
 ================
 
 1. Grundfunktionalität
-	- Soft
+	- Lifecyle eines Asset im Produkt abbilden
+		1. 
