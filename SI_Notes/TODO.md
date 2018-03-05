@@ -3,10 +3,6 @@ TODO
 - geraet-dialog-component
 	- removeRequiredSettingOfTemplate() DONE
 
-GeraetType
-- checkbox für required DONE
-
-
 
 
 # Probleme
