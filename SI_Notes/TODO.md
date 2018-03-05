@@ -22,6 +22,7 @@ GeraetType
 
 - key name "max. Bilddiagonale" wirft exception, wegen punkt im String"
 	- Java Seite: Hashmap
+-> Umstellung des Datenmodels
 
 Bootstrap
 - two column Design
