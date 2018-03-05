@@ -33,3 +33,4 @@ changeuser-dialog
 
 # Develop-View Component
 JSON einlesen, in DB speichern (nach Validierung!!)
+Inventar-Gruppen ausgeben
