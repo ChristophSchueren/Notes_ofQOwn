@@ -2,7 +2,8 @@ Eclipse
 =======
 Ctrl+Shift+L - Get list of Keybaord Shortcuts
 
-
+# Select
+- Alt+Shift+Up - Select ENTIRE String
 
 
 Most important ones:
