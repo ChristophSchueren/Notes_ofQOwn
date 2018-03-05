@@ -8,4 +8,5 @@ Iterationsstufen
 			- Neuer Standort und Nutzer
 			- Veränderung von Eigenschaften / Modifikation
 				- z.B. Einbau von mehr RAM ins Notebook
-			- Entsorgung
+		3. Entsorgung
+	
