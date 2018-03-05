@@ -9,4 +9,4 @@ Iterationsstufen
 			- Veränderung von Eigenschaften / Modifikation
 				- z.B. Einbau von mehr RAM ins Notebook
 		3. Entsorgung
-	
+	- Dokumentation: Eine History aller drei Genannten Ereignisse zu einem 
