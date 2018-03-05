@@ -20,7 +20,8 @@ GeraetType
 	-  ist NICHT selected, aber Feld grün hinterlegt für Valid (geraet.neueVerfügbarkeit steht auf GENUTZT)
 
 
-- key name "max. Bilddiagonale wirft exception, weil "
+- key name "max. Bilddiagonale" wirft exception, wegen punkt im String"
+	- Java Seite: Hashmap
 
 Bootstrap
 - two column Design
