@@ -16,3 +16,4 @@ Iterationsstufen
 		- Listen anhand Filterkriterien automatisch erstellen
 		- Listen individuell zusammenstellen aus beliebigen Assets
 		- Listen Drucken (PDF)
+	- Alle Assets eines Nutzers zur Rückgabe markieren
