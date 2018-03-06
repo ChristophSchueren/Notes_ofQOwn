@@ -2,6 +2,8 @@ Eclipse
 =======
 Ctrl+Shift+L - Get list of Keybaord Shortcuts
 
+Ctrl + L Delete Line
+
 # Select
 - Alt+Shift+Up - Select ENTIRE String *enhance Selection*
 - Alt+Shift+Down reduce Selection
