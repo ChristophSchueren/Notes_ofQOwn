@@ -10,4 +10,6 @@ Spring MVC file endpoint
 Storage?
 - should be permanent
 - auch bei Heroku cloud mashine redeploy
-- 
+- Datenbank ist permanent
+- Data Access, Übersicht ist schlecht
+- Datei-System böte eine gute Übersicht
