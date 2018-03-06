@@ -6,3 +6,7 @@ Note-Taking
 4 Anforderungen (QUELLE: [Tips on Taking Notes - YouTube](https://www.youtube.com/watch?v=_MyaR0HDjFA)
 
 GUT!!!
+
+Links schnell von Brower URL hier rein bekommen
+
+Zatoo
