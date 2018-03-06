@@ -12,3 +12,5 @@ Links schnell von Brower URL hier rein bekommen
 Zotero - Literaturverwaltung für den Browser
 
 Mindmap wäre super!!!
+
+Devonthink (Mac Software)
