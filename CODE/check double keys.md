@@ -19,6 +19,10 @@ check double keys
   }
 ```
 
+```
+const keyArr = arrWithKey.map((x) => x.key);
+    const duplicates = keyArr.filter((value,index,self) => { return (self.indexOf(value) !== index )});
+```
 
 
 ```
