@@ -6,6 +6,7 @@ check double keys
   }
 ```
 
+```
   private checkIfKeysAreUniqueAlt(arrWithKey: Array<{key : String}>): boolean {
       const set = new Set();
       for (const iterator of arrWithKey) {
@@ -16,8 +17,12 @@ check double keys
     }
     return true;
   }
+```
 
-  private getDoubleKeyIfExists(arrWithKey: Array<{key : String}>): String {
+
+
+```
+private getDoubleKeyIfExists(arrWithKey: Array<{key : String}>): String {
       const set = new Set<String>();
       for (const iterator of arrWithKey) {
         // '' ist ein key, der merfach vorkommen darf, aber nicht muss
@@ -27,3 +32,5 @@ check double keys
     }
     return null;
   }
+```
+
