@@ -9,6 +9,6 @@ GUT!!!
 
 Links schnell von Brower URL hier rein bekommen
 
-Zatoo - Literaturverwaltung für den Browser
+Zotero - Literaturverwaltung für den Browser
 
 Mindmap wäre super!!!
