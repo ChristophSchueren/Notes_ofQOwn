@@ -7,4 +7,7 @@ Spring MVC file endpoint
 - stream
 
 
-Storag
+Storage?
+- should be permanent
+- auch bei Heroku cloud mashine redeploy
+- 
