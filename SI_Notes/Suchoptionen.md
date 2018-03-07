@@ -15,7 +15,8 @@ History: Zurück zum vorherigen Suchergebnis
 
 
 5. Suche nach Feldnamen
-	- Geraete anzeigen, die Feldn
+	- Geraete anzeigen, die eigenschaft.key haben
+	- wildca
 
 **Wie in UI verpacken???**
 
