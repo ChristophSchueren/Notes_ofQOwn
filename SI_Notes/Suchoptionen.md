@@ -8,7 +8,7 @@ Suchoptionen
 3. Erweiternde Suche (Kriterium nicht mehr wichtig)
 
 4. Individuelle Suche
-	- alle 
+	- alle Geraet
 
 
 History: Zurück zum vorherigen Suchergebnis
