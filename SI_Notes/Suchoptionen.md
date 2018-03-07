@@ -18,4 +18,4 @@ History: Zurück zum vorherigen Suchergebnis
 
 **Wie in UI verpacken???**
 
-Component-Combination-
+Component-Combination-Popup-Dialog
