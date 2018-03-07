@@ -7,4 +7,6 @@ Im Backend wird der User nicht verändert und bleibt ROLE_USER
 
 Dann kucken, woran ihn das Backend mit den wirksamen Security-Einschränkungen hindert ...
 
-Auch interessant ohne login
+
+
+Auch interessant: Role Admin im Frontend ohne login auf dem Server
