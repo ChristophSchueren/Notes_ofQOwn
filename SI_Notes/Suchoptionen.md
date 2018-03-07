@@ -17,3 +17,5 @@ History: Zurück zum vorherigen Suchergebnis
 5. Suche nach Feldnamen
 
 **Wie in UI verpacken???**
+
+Component-Combination-
