@@ -16,7 +16,8 @@ History: Zurück zum vorherigen Suchergebnis
 
 5. Suche nach Feldnamen
 	- Geraete anzeigen, die eigenschaft.key haben
-	- wildca
+	- wildcard / regex - Möglichkeit
+	- Fuzzylogic search?
 
 **Wie in UI verpacken???**
 
