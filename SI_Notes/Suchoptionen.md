@@ -23,4 +23,4 @@ History: Zurück zum vorherigen Suchergebnis
 
 Component-Combination-Popup-Dialog
 
-Geraet
+Geraet-Filter-Popup-dialog-Component
