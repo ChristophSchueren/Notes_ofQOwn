@@ -8,7 +8,10 @@ Suchoptionen
 3. Erweiternde Suche (Kriterium nicht mehr wichtig)
 
 4. Individuelle Suche
-	- alle Geraet
+	- alle Geraet Id einzeln als Liste angeben
 
 
 History: Zurück zum vorherigen Suchergebnis
+
+
+5. S
