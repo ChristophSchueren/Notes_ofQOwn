@@ -22,3 +22,5 @@ History: Zurück zum vorherigen Suchergebnis
 **Wie in UI verpacken???**
 
 Component-Combination-Popup-Dialog
+
+Geraet
