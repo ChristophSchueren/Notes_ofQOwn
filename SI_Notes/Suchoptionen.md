@@ -5,7 +5,7 @@ Suchoptionen
 
 2. Erweiternde Suche (ODER)
 
-3. Erweiternde Suche (Kriterium nicht mehr wichtig)
+3. Erweiternde Suche (Kriterium nicht mehr beachten)
 
 4. Individuelle Suche
 	- alle Geraet Id einzeln als Liste angeben
@@ -15,3 +15,5 @@ History: Zurück zum vorherigen Suchergebnis
 
 
 5. Suche nach Feldnamen
+
+**Wie in UI verpacken???**
