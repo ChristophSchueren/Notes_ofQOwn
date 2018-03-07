@@ -5,4 +5,6 @@ Suchoptionen
 
 2. Erweiternde Suche (ODER)
 
-3.
+3. Erweiternde Suche (Kriterium nicht mehr wichtig)
+
+4. Individuelle Suche
