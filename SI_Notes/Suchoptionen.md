@@ -3,4 +3,6 @@ Suchoptionen
 
 1. Einschränkende Suche (UND zugleich)
 
-2. Erweiternde Suche 
+2. Erweiternde Suche (ODER)
+
+3.
