@@ -1,7 +1,7 @@
 ## User Rollen
 
 'ROLE_ADMIN':("System-Administrator");
-'ROLE_OFFICE':("Spirit Büro");
+'ROLE_OFFICE':("Spirit Bï¿½ro");
 'ROLE_CONSULTANT':("Spirit Berater");
 'ROLE_FREELANCER':("Freier Mitarbeiter");
 'ROLE_CANDIDATE':("Bewerber");
@@ -14,3 +14,4 @@
 admin/admin
 user/user
 jafar/jafar
+
