@@ -13,6 +13,9 @@ Speichern in MongoDB?
 
 Cloud Server selbst wird gelegentlich neu deployed -> Files sollen permanent sein
 
+HTML/CSS-to-PDF-engine
+Pandoc (Haskell Library)
+
 Ideen:
 - Feedback Component
 - Angular GeraetService speichert Queryparams,
