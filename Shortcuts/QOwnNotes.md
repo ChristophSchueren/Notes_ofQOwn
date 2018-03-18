@@ -42,9 +42,12 @@ Ctrl + R lets you search and replace in the current note
 Ctrl + D duplicates the current line or the selected text - Ctrl + Alt + Down does the same
 Alt + Backspace deletes the current line
 Ctrl + Backspace deletes the current word
-Ctrl + L opens a dialog to add a link to an other note or an URL (also works on selected text)
+
+
+#### Insert
+Ctrl + L opens a dialog to add a *link* to an other note or an URL (also works on selected text)
 Ctrl + T inserts the current date in ISO 8601 format
-Ctrl + ⇧ + I inserts an image (the image will be copied to the `media` folder in the current notes folder)
+Ctrl + ⇧ + I inserts an *image* (the image will be copied to the `media` folder in the current notes folder)
 Ctrl + ⇧ + E inserts an attachment (the file will be copied to the `attachments` folder in the current notes folder)
 Alt + ⇧ + T inserts a table
 Ctrl + ⇧ + C inserts a code block at the current position

@@ -1,0 +1,5 @@
+Let Observables die
+===================
+
+// Single
+

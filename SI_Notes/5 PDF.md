@@ -1,6 +1,8 @@
 5 PDF
 =====
 
+> Angular Frontend kann das evtl mit einem node library import
+
 1. Export einer ausgewählten, gefilterten Liste als PDF
 2. Umbenennen Gerät -> InventarItem
 3. PDF-Anhänge zu Gerät speichern
@@ -21,3 +23,5 @@ Ideen:
 - Angular GeraetService speichert Queryparams,
 	- setzt queryparams
 	- default query mit diesen params
+
+
