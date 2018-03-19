@@ -9,3 +9,5 @@ Index are staged files
 2. `git diff --cached > mypatch.patch`
 
 3. git apply mypatch.patch
+
+4. g
