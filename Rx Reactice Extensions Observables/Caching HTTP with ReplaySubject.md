@@ -1,5 +1,12 @@
 Caching HTTP with ReplaySubject
 ===============================
+
+ReplaySubject
+.flatMapLatest
+
+
+
+```
 var api = (function() {
     var fetch_todos = Rx.Observable.fromCallback($.get('example.com/todos'))
         source = new Rx.Subject(),
@@ -19,3 +26,5 @@ var api = (function() {
       }
     };
 })();
+```
+
