@@ -1,6 +1,8 @@
 CombineLatest
 =============
 
+Resulting Observable feuer
+
 ```
 Observable. combineLatest( [ 
 this. route. pa ramMap, 
