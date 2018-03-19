@@ -4,6 +4,7 @@ Caching HTTP with ReplaySubject
 ReplaySubject
 .flatMapLatest
 Observable.fromCallback
+.replay(null, count || 1)
 
 
 ```
