@@ -7,6 +7,11 @@ Observable.fromCallback
 .replay(null, count || 1)
 
 
+onSubscribe()
+// check if cached value exists
+
+
+
 ```
 var api = (function() {
     var fetch_todos = Rx.Observable.fromCallback($.get('example.com/todos'))
