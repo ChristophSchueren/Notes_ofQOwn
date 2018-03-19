@@ -3,7 +3,7 @@ Patch - Write and apply
 <https://www.devroom.io/2009/10/26/how-to-create-and-apply-a-patch-with-git/>
 
 `git format-patch master --stdout > fix_empty_poster.patch`
-
+> All **commits** that are not on master
 
 anwenden
 
