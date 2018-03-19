@@ -1,7 +1,9 @@
 CombineLatest
 =============
 
-Resulting Observable feuer
+Resulting Observable feuert jedesmal, wenn sich eine der Observables feuert.
+
+> Arbeiten mit Arrays
 
 ```
 Observable. combineLatest( [ 
