@@ -12,8 +12,10 @@ Index are staged files
 	git diff --cached > mypatch.patch
 	
 ```
+```
 
 git diff --no-prefix <file>
+```
 
 > If you want to use patch you need to remove the a/ b/ prefixes that git uses by default. You can do this with the --no-prefix option (you can also do this with patch's -p option):
 
