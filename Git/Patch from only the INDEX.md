@@ -14,7 +14,7 @@ Index are staged files
 ```
 ```
 
-git diff --no-prefix <file> > mypathch.patch~
+git diff -p <file> > mypathch.patch~
 ```
 
 > If you want to use patch you need to remove the a/ b/ prefixes that git uses by default. You can do this with the --no-prefix option (you can also do this with patch's -p option):
