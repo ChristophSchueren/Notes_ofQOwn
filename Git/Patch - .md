@@ -1,4 +1,4 @@
-Write and apply Patch mechanism
+Patch - 
 ===============================
 <https://www.devroom.io/2009/10/26/how-to-create-and-apply-a-patch-with-git/>
 
