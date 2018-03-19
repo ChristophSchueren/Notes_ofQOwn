@@ -3,7 +3,7 @@ Caching HTTP with ReplaySubject
 
 ReplaySubject
 .flatMapLatest
-
+Observable.fromCallback
 
 
 ```
