@@ -4,7 +4,7 @@ Develop Test
 Random Element of List
 
 
-addSampleGeraets from User
+addSampleGeraetsForUser(userlogin, count = 1)
 
 
 In BeispielDatenService
