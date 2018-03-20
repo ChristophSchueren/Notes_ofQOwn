@@ -5,6 +5,12 @@ Remote Server
 > ein zentraler hub reicht, nicht pro Maschine notwendig
 
 2. check:
-http://localhost:444/grid/console
+`http://localhost:444/grid/console`
+im Browser aufrufen
 
 3. auf dem hub muss mindestens ein node gestartet werden
+
+
+
+
+> Die versionen müsse
