@@ -7,3 +7,5 @@ import { take, map, filter, distinctUntilChanged, debounceTime, tap, pluck, publ
 ```
 retry(x) retries x-times immediately after failure.
 
+> Retry after time (HTTP)
+
