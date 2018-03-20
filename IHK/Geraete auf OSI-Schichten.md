@@ -2,8 +2,9 @@ Geraete auf OSI-Schichten
 =========================
 
 **Router**
-Vermittlungss
+Vermittlungsschigt (3.)
 
 **Switch**
+Sicherungsschicht (2. , muss A)
 
 **Repeater**
