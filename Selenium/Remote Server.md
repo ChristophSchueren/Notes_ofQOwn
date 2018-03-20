@@ -13,4 +13,4 @@ im Browser aufrufen
 
 
 
-> Die versionen müsse
+> Die versionen müssen übereinstimmen!!!
