@@ -6,4 +6,4 @@ Geraete auf OSI-Schichten
 
 **Switch**
 
-****
+**Repeater**
