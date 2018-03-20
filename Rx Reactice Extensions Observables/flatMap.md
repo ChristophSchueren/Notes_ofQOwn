@@ -1,5 +1,7 @@
 flatMap
 =======
+> (now mergeMap in rxjs version 5) 
+
 ```
 
 http.get( • /api/person/123' ) 
