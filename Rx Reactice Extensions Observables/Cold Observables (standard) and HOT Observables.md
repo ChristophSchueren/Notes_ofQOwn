@@ -32,3 +32,6 @@ RxJS includes a `multicast` operator that can be applied to an observable to mak
 it returns a **ConnectableObservable** which does *not immediately subscribe* to the source. Man muss CObservable`.connect()` manuell aufrufen.
 
 `publishReplay(1)` will replay the specified number of next notifications whenever an observer subscribes.
+
+
+> anschließend connect()
