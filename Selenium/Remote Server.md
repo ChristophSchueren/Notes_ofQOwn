@@ -18,4 +18,4 @@ im Browser aufrufen
 *von der URL her wird der hub-Server hier als hub angesprochen*
 
 
-> Die Selenium-versionen müssen übereinstimmen!!!
+> Die Selenium-Bibliothek-versionen müssen mit der Server-Version und mit der Browser-Version übereinstimmen!!!
