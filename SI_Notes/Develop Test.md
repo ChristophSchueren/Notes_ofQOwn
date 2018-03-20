@@ -1,4 +1,4 @@
 Develop Test
 ============
 
-static
+public static Geraet sampleFromTempla
