@@ -5,6 +5,7 @@ Geraete auf OSI-Schichten
 Vermittlungsschigt (3.)
 
 **Switch**
-Sicherungsschicht (2. , muss MAC)
+Sicherungsschicht (2. , muss MAC-Adresse kennen)
 
 **Repeater**
+Bitübertragungsschicht (1. muss )
