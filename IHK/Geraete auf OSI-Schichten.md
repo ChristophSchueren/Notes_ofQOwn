@@ -2,7 +2,7 @@ Geraete auf OSI-Schichten
 =========================
 
 **Router**
-Ve
+Vermittlungss
 
 **Switch**
 
