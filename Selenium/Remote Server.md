@@ -14,7 +14,7 @@ im Browser aufrufen
 > alles in einer Zeile ausführen
 
 4. Selenium Testcase ausführen, verwende in java
-driver = new RemoteWebDriver(new )
+driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"))
 
 
 > Die versionen müssen übereinstimmen!!!
