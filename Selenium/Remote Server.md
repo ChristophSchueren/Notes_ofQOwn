@@ -13,7 +13,8 @@ im Browser aufrufen
 
 > alles in einer Zeile ausführen
 
-4. Selenium Testcase ausfü
+4. Selenium Testcase ausführen, verwende in java
+driver = new RemoteWebDriver(new )
 
 
 > Die versionen müssen übereinstimmen!!!
