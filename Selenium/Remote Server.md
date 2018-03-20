@@ -9,7 +9,7 @@ Remote Server
 im Browser aufrufen
 
 3. es muss mindestens ein node gestartet werden, der auf  den hub zugreift
-`java jar selenium-server`
+`java -jar selenium-server-standalone-x.xx.x.jar -role node -hub `
 
 
 
