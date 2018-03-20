@@ -8,4 +8,4 @@ Vermittlungsschigt (3.)
 Sicherungsschicht (2. , muss MAC-Adresse kennen)
 
 **Repeater**
-Bitübertragungsschicht (1., muss )
+Bitübertragungsschicht (1., muss überhau)
