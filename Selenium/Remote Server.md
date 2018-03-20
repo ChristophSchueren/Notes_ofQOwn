@@ -8,7 +8,7 @@ Remote Server
 `http://localhost:444/grid/console`
 im Browser aufrufen
 
-3. auf dem hub muss mindestens ein node gestartet werden
+3. es muss mindestens ein node gestartet werden, der auf  den hub zu
 
 
 
