@@ -7,6 +7,8 @@ import { take, map, filter, distinctUntilChanged, debounceTime, tap, pluck, publ
 ```
 retry(x) retries x-times immediately after failure.
 
-> Retry after time (HTTP)
+> Retry after time (HTTP), 1sec
+```
 
-retryWhed( (err) => err. delay(1000)) 
+retryWhen( (err) => err. delay(1000)) 
+```
