@@ -4,7 +4,7 @@ Develop Test
 Random Element of List
 
 
-add 
+addSampleGeraets from User
 
 
 In BeispielDatenService
