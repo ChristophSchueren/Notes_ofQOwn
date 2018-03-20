@@ -1,4 +1,6 @@
 Develop Test
 ============
 
-public static Geraet sampleFromTempla
+public static Geraet sampleFromTemplate(GeraetTemplate t) {
+
+}
