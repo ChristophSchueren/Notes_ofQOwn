@@ -9,7 +9,7 @@ add
 
 In BeispielDatenService
 
-public static Geraet sampleFromTemplate(GeraetTemplate t) {
+public static Geraet sampleFromTemplate(GeraetTemplate t, nutzerLogin: string) {
 
 
 
