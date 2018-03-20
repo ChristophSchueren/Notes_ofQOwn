@@ -9,3 +9,4 @@ retry(x) retries x-times immediately after failure.
 
 > Retry after time (HTTP)
 
+retryWhed( (err) => err. delay(1000)) 
