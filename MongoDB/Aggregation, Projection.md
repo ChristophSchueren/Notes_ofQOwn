@@ -34,3 +34,10 @@ resulting document:
 
 `{ "_id" : null, "uniqueValues" : [ "Nürnberg", "München", "Darmstadt" ] }`
 	
+
+
+// in Java:
+db.inv_geraet.aggregate([{     $group: {_id: null, uniqueValues: {$addToSet: "$eigenschaften.key"}} }])
+
+Aggregation aggregation = Aggregation.newAggregation(
+	Aggregati
