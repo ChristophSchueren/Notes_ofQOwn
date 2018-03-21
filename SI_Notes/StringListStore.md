@@ -6,7 +6,7 @@ Klasse
 2. Speichertyp fuer allegemeine Parameter
 	- Vervollstaendigungen fuer Standort
 	- cachen von Aggregations
-		- Liste der 
+		- Liste der GeraetType - namen
 
 Enitaet StringListStore {
 id: String
