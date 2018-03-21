@@ -40,4 +40,4 @@ resulting document:
 db.inv_geraet.aggregate([{     $group: {_id: null, uniqueValues: {$addToSet: "$eigenschaften.key"}} }])
 
 Aggregation aggregation = Aggregation.newAggregation(
-	Aggregation.group(')
+	Aggregation.group("emptyID").push("")
