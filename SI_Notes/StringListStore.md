@@ -8,7 +8,7 @@ Klasse
 	- cachen von Aggregations
 		- Liste der GeraetType - namen
 3. Service sucht cache oder fuerhrt Aggregation aus und cached
-	- Rücksetzmechanismus
+	- Rücksetzmechanismus: delete StringListStore mit id oder name
 
 Enitaet StringListStore {
 id: String
