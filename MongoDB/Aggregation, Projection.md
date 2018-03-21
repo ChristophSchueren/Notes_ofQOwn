@@ -41,3 +41,4 @@ db.inv_geraet.aggregate([{     $group: {_id: null, uniqueValues: {$addToSet: "$e
 
 Aggregation aggregation = Aggregation.newAggregation(
 	Aggregation.group("emptyID").addToSet("$eigenschaften.key").as("uniqueValues)
+);
