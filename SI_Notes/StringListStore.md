@@ -7,6 +7,7 @@ Klasse
 	- Vervollstaendigungen fuer Standort
 	- cachen von Aggregations
 		- Liste der GeraetType - namen
+3. Se
 
 Enitaet StringListStore {
 id: String
