@@ -1,5 +1,6 @@
 StringListStore
 ===============
+> umbenennen
 
 Klasse
 1. Zum Abrufen von Aggregations
