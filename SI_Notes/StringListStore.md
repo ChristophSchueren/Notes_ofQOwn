@@ -19,3 +19,6 @@ name: string
 werte: string[]
 erstellungszeit: datetime (veralten, loeschen)
 }
+
+
+api get s
