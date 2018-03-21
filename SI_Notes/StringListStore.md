@@ -17,5 +17,5 @@ Enitaet StringListStore {
 id: String
 name: string
 werte: string[]
-erstellungszeit: datetime
+erstellungszeit: datetime (veralten, loeschen)
 }
