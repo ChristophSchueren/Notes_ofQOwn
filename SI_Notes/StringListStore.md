@@ -21,4 +21,4 @@ erstellungszeit: datetime (veralten, loeschen)
 }
 
 
-api get s
+api get stringliststore?type=ergaenzung&query=weitere
