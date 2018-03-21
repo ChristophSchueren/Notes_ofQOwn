@@ -4,7 +4,8 @@ StringListStore
 Klasse
 1. Zum Abrufen von Aggregations
 	- werden darauf projeziert
-	- modul existiert
+	- HTTP endpoint existiert
+	- service fuer Aggregations existiert
 2. Speichertyp fuer allegemeine Parameter
 	- Vervollstaendigungen fuer Standort
 	- cachen von Aggregations
