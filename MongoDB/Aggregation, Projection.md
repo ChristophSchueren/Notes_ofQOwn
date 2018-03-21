@@ -42,3 +42,11 @@ db.inv_geraet.aggregate([{     $group: {_id: null, uniqueValues: {$addToSet: "$e
 Aggregation aggregation = Aggregation.newAggregation(
 	Aggregation.group("emptyID").addToSet("$eigenschaften.key").as("uniqueValues)
 );
+
+
+// ausfuehren
+
+ AggregationResults<BasicDBObject> groupResults = groupsMongoTemplate.aggregate(aggregation,
+                    GroupsDocument.class, BasicDBObject.class);
+
+[java - Spring Aggregate representation of mongodb query - Stack Overflow](https://stackoverflow.com/questions/40643267/spring-aggregate-representation-of-mongodb-query)
