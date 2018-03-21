@@ -1,4 +1,4 @@
-StringListStore
+StringListStore multistri
 ===============
 > umbenennen
 
@@ -22,4 +22,4 @@ erstellungszeit: datetime (veralten, loeschen)
 }
 
 
-api get stringliststore?type=ergaenzung&query=weitere
+api get multistringlist?type=ergaenzung&query=weitere
