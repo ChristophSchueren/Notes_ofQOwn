@@ -7,7 +7,8 @@ Klasse
 	- Vervollstaendigungen fuer Standort
 	- cachen von Aggregations
 		- Liste der GeraetType - namen
-3. Se
+3. Service sucht cache oder fuerhrt Aggregation aus und cached
+	- Rücksetzmechanismus
 
 Enitaet StringListStore {
 id: String
