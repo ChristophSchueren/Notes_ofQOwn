@@ -13,3 +13,6 @@ Verbesserungen
 	- altes notfify() ist neues next()
 	- split Observer(has next) und Observable interface
 	- combined: Subject
+
+
+Naming convention: Obervable heißt wie Variable, mit nachgestelltem Do
