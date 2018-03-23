@@ -6,3 +6,4 @@ mit Observables
 
 
 Basiert auf dem Observable pattern
+ist NICHT das Gang-of-four- *Observer* pattern
