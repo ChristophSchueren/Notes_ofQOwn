@@ -15,4 +15,6 @@ Verbesserungen
 	- combined: Subject
 
 
-Naming convention: Obervable heißt wie Variable, mit nachgestelltem Do
+Naming convention: Obervable heißt wie Variable, mit nachgestelltem Dollar $
+
+*reqParams$*
