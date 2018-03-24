@@ -6,7 +6,8 @@ Best Practices / Patterns
 
 
 2. Use Angular | async pipe in view
-	- no need to
+	- no need to subscribe to Observable$
+	- vorher map to desired format
 
 3. Switch-Map unsubscribes (good to calcel old http requests)
 	- use for autocompletion form server
