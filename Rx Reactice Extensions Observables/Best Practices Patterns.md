@@ -15,4 +15,6 @@ Best Practices / Patterns
 
 
 
-Webpage Rxjs antipatterns list
+
+
+Webpage Search Rxjs antipatterns list
