@@ -1,7 +1,7 @@
 Best Practices / Patterns
 =========================
 
-1. 
+1. Observable are named myObservable$
 
 
 
