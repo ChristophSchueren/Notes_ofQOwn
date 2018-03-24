@@ -22,6 +22,8 @@ Best Practices / Patterns
 6. keep good track of all your subscriptions and unsubscribe
 	- vs code extension to highlight codeword "*subscribe*"
 
-7. 
+
+
+Mutable State Angular
 
 Webpage Search Rxjs antipatterns list
