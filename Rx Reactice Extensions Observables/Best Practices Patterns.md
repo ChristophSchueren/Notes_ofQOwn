@@ -17,6 +17,7 @@ Best Practices / Patterns
 
 
 5. *ngRx* makes code, observable pipes with internal HTTP requests more testable
+	- redux flow, common immutable state
 
 
 6. keep good track of all your subscriptions and unsubscribe
