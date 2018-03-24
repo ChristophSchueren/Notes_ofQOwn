@@ -6,3 +6,10 @@ Best Practices / Patterns
 2. Use Angular | async pipe
 
 3. Switch-Map unsubscribes (good to calcel old http requests)
+	- use for autocompletion form server
+
+
+
+
+
+Webpage Rxjs antipatterns list
