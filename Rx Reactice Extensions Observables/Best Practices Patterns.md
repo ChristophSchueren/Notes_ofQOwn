@@ -5,4 +5,4 @@ Best Practices / Patterns
 
 2. Use Angular | async pipe
 
-3. Switch-Map 
+3. Switch-Map unsubscribes (good to calcel old http requests)
