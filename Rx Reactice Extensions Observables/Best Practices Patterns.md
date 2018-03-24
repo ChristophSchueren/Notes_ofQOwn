@@ -5,7 +5,8 @@ Best Practices / Patterns
 
 
 
-2. Use Angular | async pipe
+2. Use Angular | async pipe in view
+	- no need to
 
 3. Switch-Map unsubscribes (good to calcel old http requests)
 	- use for autocompletion form server
@@ -18,6 +19,6 @@ Best Practices / Patterns
 
 
 6. keep good track of all your subscriptions and unsubscribe
-	- vs
+	- vs code extension to highlight codeword "*subscribe*"
 
 Webpage Search Rxjs antipatterns list
