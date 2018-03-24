@@ -1,7 +1,9 @@
 Best Practices / Patterns
 =========================
 
-1. Good: Map-Operator the Data into the form you like to consume them
+1. 
+
+
 
 2. Use Angular | async pipe
 
@@ -9,6 +11,7 @@ Best Practices / Patterns
 	- use for autocompletion form server
 
 
+4. Good: Map-Operator the Data into the form you like to consume them
 
 
 
