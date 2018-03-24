@@ -16,7 +16,7 @@ Best Practices / Patterns
 4. Good: Map-Operator the Data into the form you like to consume them
 
 
-5. ngRx makes code, observable pipes with internal HTTP requests more testable
+5. *ngRx* makes code, observable pipes with internal HTTP requests more testable
 
 
 6. keep good track of all your subscriptions and unsubscribe
