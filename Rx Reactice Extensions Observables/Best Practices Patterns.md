@@ -14,7 +14,7 @@ Best Practices / Patterns
 4. Good: Map-Operator the Data into the form you like to consume them
 
 
-
+5. ngRx makes code, observable pipes with internal HTTP requests more testable
 
 
 Webpage Search Rxjs antipatterns list
