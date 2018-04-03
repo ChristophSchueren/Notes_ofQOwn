@@ -4,4 +4,6 @@ Prinzipien Der Testgestaltung
 NICHT defensiv programmieren, sondern klar die Anforderung abprüfufen:
 
 nicht:
-`if String contains €, € abschneiden, else .`
+`if String contains €, € abschneiden, else ...`
+
+Schleifen, Verzeiweigungen im Test: BAD
