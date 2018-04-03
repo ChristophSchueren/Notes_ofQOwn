@@ -1,7 +1,7 @@
 manually genrating ObjectId
 ===========================
 
-`someEmbeddedDoc._id = new ObjectId();`
+`someEmbeddedDoc._id = new ObjectId();`// eher ObjectId.get()
 
 
 ```
