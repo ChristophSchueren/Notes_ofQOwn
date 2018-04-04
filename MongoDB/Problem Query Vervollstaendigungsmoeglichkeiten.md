@@ -6,4 +6,5 @@ Problem Query Vervollstaendigungsmoeglichkeiten
 /geraet/vervollstaendigung?type = "
 
 
-2. gut waere, wenn 
+2. gut waere, wenn die reqParams unveraendert weiterverwendet werden koeenten
+=> kein extra parameter type
