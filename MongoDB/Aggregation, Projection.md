@@ -50,3 +50,7 @@ Aggregation aggregation = Aggregation.newAggregation(
                     GroupsDocument.class, BasicDBObject.class);
 
 [java - Spring Aggregate representation of mongodb query - Stack Overflow](https://stackoverflow.com/questions/40643267/spring-aggregate-representation-of-mongodb-query)
+
+
+// WORKS
+db.getCollection('inv_geraet').aggregate([{$unwind: "$eigenschaften"}, {$group: {_id: null, uniqueValues: {$addToSet: "$eigenschaften.key"}}}])
