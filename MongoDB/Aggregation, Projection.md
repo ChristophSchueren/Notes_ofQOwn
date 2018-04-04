@@ -53,4 +53,4 @@ Aggregation aggregation = Aggregation.newAggregation(
 
 
 // WORKS
-db.getCollection('inv_geraet').aggregate([{$unwind: "$eigenschaften"}, {$group: {_id: null, uniqueValues: {$addToSet: "$eigenschaften.key"}}}])
+> db.getCollection('inv_geraet').aggregate([{$unwind: "$eigenschaften"}, {$group: {_id: null, uniqueValues: {$addToSet: "$eigenschaften.key"}}}])
