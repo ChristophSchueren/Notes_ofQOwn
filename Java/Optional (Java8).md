@@ -3,6 +3,8 @@ Optional (Java8)
 
 **Optionals are not async**
 
+> Optional.ofNullable(multiStringList));
+
 Creating Optional Objects
 ```
 Optional<String> errMsg = Optional.empty();
