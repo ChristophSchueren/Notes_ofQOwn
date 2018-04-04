@@ -9,4 +9,6 @@ Problem Query Vervollstaendigungsmoeglichkeiten
 2. gut waere, wenn die reqParams unveraendert weiterverwendet werden koeenten
 => kein extra parameter type (sowiso geraet.type reserviert)
 
-3. Herrausstellen: was wurde momen
+3. Herrausstellen: was wurde momentan schon gettippt:
+=> doch extra reqParam
+=> Schöne S
