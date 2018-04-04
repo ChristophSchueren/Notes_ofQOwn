@@ -15,3 +15,6 @@ Problem Query Vervollstaendigungsmoeglichkeiten
 => Kombiniere Obs queryParams + alreadyTipped
 => Delay
 + const vervollstaendigungsTyp beim Abruf
+
+
+4. Client soll keine Implementierungsdetails enthalten, z.B. kein dollarField
