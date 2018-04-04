@@ -11,6 +11,7 @@ Problem Query Vervollstaendigungsmoeglichkeiten
 
 3. Herrausstellen: was wurde momentan schon gettippt:
 => doch extra reqParam
-=> Schöne Observables hintereinander
+=> Zwei Observables hintereinander
 => Kombiniere Obs queryParams + alreadyTipped
+=> Delay
 + const vervollstaendigungsTyp beim Abruf
