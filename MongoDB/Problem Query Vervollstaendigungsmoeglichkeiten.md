@@ -12,4 +12,5 @@ Problem Query Vervollstaendigungsmoeglichkeiten
 3. Herrausstellen: was wurde momentan schon gettippt:
 => doch extra reqParam
 => Schöne Observables hintereinander
-=> Kombiniere 
+=> Kombiniere
+ const vervollstaendigungsTyp
