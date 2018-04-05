@@ -1,6 +1,7 @@
 TODO
 ====
-
+### Filterung
+1. Backen
 
 - geraet-dialog-component
 	- removeRequiredSettingOfTemplate() DONE
