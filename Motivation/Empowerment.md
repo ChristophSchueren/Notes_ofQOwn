@@ -7,3 +7,5 @@ hat, um die Aufgabe zu erledigen.
 
 2. Ermöglicht das Umfeld die Zielerreichung?
 	nötigen (Hilfs-)Mittel bereitzustellen.
+
+3. Ist es Wert getan zu werden?
