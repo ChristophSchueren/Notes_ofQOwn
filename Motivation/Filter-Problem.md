@@ -2,6 +2,7 @@ Filter-Problem
 ==============
 
 > komplexes Problem
+komplexes Problem langwierig Motivation Arbeit fortschritte
 
 - selbst gefühlt zu lange 
 - keine konkreten Probleme
