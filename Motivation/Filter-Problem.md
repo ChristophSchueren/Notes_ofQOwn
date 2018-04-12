@@ -3,4 +3,7 @@ Filter-Problem
 
 - selbst gefühlt zu lange 
 - keine konkreten Probleme
-- nur klei Fortschritte
+- nur kleine Fortschritte
+- geringe Motivation
+- ich möchte mit jemandem darüber reden
+- brauche Inspiration
