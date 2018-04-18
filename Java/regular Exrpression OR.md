@@ -18,3 +18,6 @@ but if you just do this:
 
 String s = "string1, string2, string3";
 System.out.println(s.replaceAll("string1|2", "blah"));
+you get:
+
+blah, stringblah, string3
