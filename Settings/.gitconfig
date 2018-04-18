@@ -1,0 +1,45 @@
+[user]
+	name = Christoph Schueren
+	email = christoph@schueren.eu
+[core]
+	autocrlf = true
+	excludesfile = "C:\\Users\\Christoph\\.gitignore"
+[alias]
+	unapply = apply -R	
+	s = status -s
+	h = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+	l = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+	b = branch
+	nb = checkout -b
+	sl = stash list
+	ss = stash save
+	sss = stash save --keep-index
+	st = stash save
+	sta = stash save
+	sa = stash apply
+	sp = stash pop
+	lg = log --oneline --decorate --all --graph
+	lfull = log --oneline --decorate --all --graph
+	logall = log --oneline --decorate --all --graph
+	lfiles = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+	ldates = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+	ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+	rh = reset --hard
+	mergetest = "!f(){ git merge --no-commit --no-ff \"$1\"; git merge --abort; echo \"Merge aborted\"; };f "
+	reload = "clean -qfd"
+	aliases = config --get-regexp '^alias\\.'
+	aliass = config --get-regexp '^alias\\.'
+	headprevious = "reflog"
+	ac = !git add -A && git commit
+	c = !git add -A && git commit -m
+	co = checkout
+	o = checkout
+	changewithoutworkingdir = "reset"
+	revertt = revert
+	cleannn = clean -df
+	cleann = !git clean -df && git checkout .
+	deleted = log --diff-filter=D --summary
+[pull]
+	rebase = true
+[rerere]
+	enabled = true
