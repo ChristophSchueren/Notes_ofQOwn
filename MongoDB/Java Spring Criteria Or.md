@@ -10,4 +10,4 @@ Criteria criteria = new Criteria();
 
         mongoOps.find(query, <Yourclass>.class, "collectionName");
 ```
-criteria.orOperator(.
+> criteria.orOperator(...,...);
