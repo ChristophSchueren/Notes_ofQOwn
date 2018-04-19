@@ -8,4 +8,5 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 
 - Zugriff auf bestehenden Datensatz
 - Schwerpunkt auf Zuordnung Asset zu Mitarbeiter
-- 
+- Das programm soll den vollständigen Lifecyle eines Asset abbilden:
+	- Anschaf
