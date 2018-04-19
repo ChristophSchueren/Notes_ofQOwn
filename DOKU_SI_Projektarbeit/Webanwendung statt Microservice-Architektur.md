@@ -17,4 +17,4 @@ Aber Microservices erhöhen die Komplexität weil
 
 
 Daher:
-Eigene Webanwendung mit definierter API -Schnittstelle zu SSV-Anwendung
+Realisierung von Spirit-Inventory als eigene Webanwendung mit definierter API -Schnittstelle zu SSV-Webanwendung
