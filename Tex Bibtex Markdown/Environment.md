@@ -13,3 +13,7 @@ Versionskontrolle auf Git
 Markdown input
 automatic compiling pipeline
 Image insert
+**Bibtex** support for quotations
+
+
+## Ansätze
