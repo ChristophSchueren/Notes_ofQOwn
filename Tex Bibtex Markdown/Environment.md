@@ -17,3 +17,5 @@ Image insert
 
 
 ## Ansätze
+Lyx
+Madoko online
