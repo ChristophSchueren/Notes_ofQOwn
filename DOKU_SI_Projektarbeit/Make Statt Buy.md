@@ -23,4 +23,4 @@ Grund für Eigenentwicklung
 - Integration in bestehende Webanwendung mit Firmen-Branding und Company-Style
 - Schwerpunkt der Inventarverwaltung auf Weitergabe der Assets von einem Mitarbeiter an den nächsten
 - In der Firma etablierten individuellen Prozesse optimal **digitalisieren** und durch maßgeschneiderte Software unterstüzten, die in einem iterativen agilen Entwicklungsprozess mit den Beteiligten abgestimmt und optimiert wird.
-- Dies sorgt für 
+	- Dies sorgt für eine hohe Akzeptanz der Lösung und Unterstützung der Umstellung.
