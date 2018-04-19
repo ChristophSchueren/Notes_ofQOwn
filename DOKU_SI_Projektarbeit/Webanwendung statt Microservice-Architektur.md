@@ -13,4 +13,7 @@ All das können Microservices leisten.
 Aber Microservices erhöhen die Komplexität weil
 - SSV-Webanwendung umstrukturiert werden muss
 - Load Balancer, und weiter Komponenten konfiguriert werden müssen
-- nicht genutzte Funktionen wie HSkalierbarkeit
+- nicht genutzte Funktionen wie vertikale Skalierbarkeit
+
+
+Daher:
