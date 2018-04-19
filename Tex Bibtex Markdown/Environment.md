@@ -27,7 +27,8 @@ Download des kompletten LaTeX-Quelltextes (inkl. Projektdateien für **TeXlipse*
 
 ## Ansätze
 Lyx
-Madoko online
+**Madoko** online
+	- Great citation support, using standard **BibTeX** entries with either BibTeX styles (.bst) or Citation Language styles (.csl).
 
 
 ## Lyx Umgebungen
