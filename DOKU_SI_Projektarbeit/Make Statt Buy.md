@@ -19,3 +19,5 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 
 Grund für Eigenentwicklung
 - Geringe Kosten durch Entwicklung von Praktikant
+- Bestehenden Datensatz weiterverwenden
+- Integration in bestehende Webanwendung mit 
