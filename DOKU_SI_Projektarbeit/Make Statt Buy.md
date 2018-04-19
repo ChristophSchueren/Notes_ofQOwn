@@ -18,7 +18,7 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 	- Historie des Asset einsehen
 
 Grund für Eigenentwicklung
-- Vertretbare Kosten durch Entwicklung von Praktikant
+- Vertretbare Kosten durch interne Entwicklung von Praktikant
 - Bestehenden Datensatz weiterverwenden
 - Integration in bestehende Webanwendung mit Firmen-Branding und Company-Style
 - Schwerpunkt der Inventarverwaltung auf Weitergabe der Assets von einem Mitarbeiter an den nächsten
