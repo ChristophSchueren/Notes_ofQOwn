@@ -11,4 +11,5 @@ Entwicklungen sollen getrennt sein.
 All das können Microservices leisten.
 
 Aber Microservices erhöhen die Komplexität weil
-- SSV-
+- SSV-Webanwendung umstrukturiert werden muss
+- Load Balancer, und weiter Kom
