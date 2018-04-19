@@ -1,5 +1,5 @@
 Make Statt Buy
 ==============
 
-Die Firma SpiritTesting hat bereits ein eigenes Programm Spirit-Skillprofil-Verwaltung im Einsatz.
+Die Firma SpiritTesting hat bereits ein eigene Webanwendung "Spirit Skillprofil Verwaltung" (SSV) im Einsatz.
 
