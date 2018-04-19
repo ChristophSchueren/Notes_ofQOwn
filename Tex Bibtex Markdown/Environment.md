@@ -18,6 +18,9 @@ Image insert
 Latex Bundle?
 
 
+## Vorlage
+Download des kompletten LaTeX-Quelltextes (inkl. Projektdateien für **TeXlipse**)
+
 ## Ansätze
 Lyx
 Madoko online
