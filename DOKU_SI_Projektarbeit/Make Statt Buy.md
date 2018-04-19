@@ -13,3 +13,5 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 	- Zuordnung des Asset zum ersten Mitarbeiter
 	- Rückgabe des Asset
 	- Weitergabe des Asset an anderen Mitarbeiter
+	- Modifikation der Stats ( z.B Ram Nachrüsten für Notebook)
+	- Entsorgung des
