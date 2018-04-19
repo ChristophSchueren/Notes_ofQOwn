@@ -10,4 +10,6 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 - Schwerpunkt auf Zuordnung Asset zu Mitarbeiter
 - Das programm soll den vollständigen Lifecyle eines Asset abbilden:
 	- Neueintragung des Assets nach Anschaffung
-	- 
+	- Zuordnung des Asset zum ersten Mitarbeiter
+	- Rückgabe des Asset
+	- Weitergabe des Asset an anderen Mitarbeiter
