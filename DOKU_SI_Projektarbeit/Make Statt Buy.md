@@ -16,3 +16,6 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 	- Modifikation der Stats ( z.B Ram Nachrüsten für Notebook)
 	- Entsorgung des Asset
 	- Historie des Asset einsehen
+
+Grund für Eigenentwicklung
+- Geringe Kosten durch Entwicklung von Praktikant
