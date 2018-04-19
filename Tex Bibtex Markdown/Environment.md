@@ -15,6 +15,8 @@ automatic compiling pipeline
 Image insert
 **Bibtex** support for quotations
 
+Latex Bundle?
+
 
 ## Ansätze
 Lyx
