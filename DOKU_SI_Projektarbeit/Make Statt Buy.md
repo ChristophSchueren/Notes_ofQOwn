@@ -22,4 +22,4 @@ Grund für Eigenentwicklung
 - Bestehenden Datensatz weiterverwenden
 - Integration in bestehende Webanwendung mit Firmen-Branding und Company-Style
 - Schwerpunkt der Inventarverwaltung auf Weitergabe der Assets von einem Mitarbeiter an den nächsten
-- Individuellen 
+- In der Firma etablierten individuellen 
