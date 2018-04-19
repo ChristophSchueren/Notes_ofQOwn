@@ -21,4 +21,4 @@ Grund für Eigenentwicklung
 - Vertretbare Kosten durch Entwicklung von Praktikant
 - Bestehenden Datensatz weiterverwenden
 - Integration in bestehende Webanwendung mit Firmen-Branding und Company-Style
-- 
+- Schwerpunkt der Inauf Weiter
