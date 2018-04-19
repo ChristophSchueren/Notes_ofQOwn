@@ -20,8 +20,7 @@ Latex Bundle?
 
 ## Vorlage
 Download des kompletten LaTeX-Quelltextes (inkl. Projektdateien für **TeXlipse**)
-> https://github.com/StefanMacke/latex-vorlage-fiae
-
+[GitHub - StefanMacke/latex-vorlage-fiae: LaTeX-Vorlage zur Projektdokumentation für Fachinformatiker Anwendungsentwicklung](https://github.com/StefanMacke/latex-vorlage-fiae)
 
 ## Ansätze
 Lyx
