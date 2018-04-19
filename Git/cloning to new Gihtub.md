@@ -8,7 +8,8 @@ cloning to new Gihtub
 git clone --bare https://github.com/exampleuser/old-repository.git
 Mirror-push to the new repository.
 
-cd old-repository.git
+cd old-repository.git 
+**--mirror**
 git push --mirror https://github.com/exampleuser/new-repository.git
 Remove the temporary local repository you created in step 1.
 
