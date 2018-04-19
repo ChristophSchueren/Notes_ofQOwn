@@ -6,7 +6,7 @@ Die Firma SpiritTesting hat bereits ein eigene Webanwendung "Spirit Skillprofil 
 Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich E
 
 
-- Zugriff auf bestehenden Datensatz
+- Zugriff auf bestehenden Datensatz von Mitarbeitern
 - Schwerpunkt auf Zuordnung Asset zu Mitarbeiter
 - Das programm soll den vollständigen **Lifecyle** eines Asset abbilden:
 	- Neueintragung des Assets nach Anschaffung
