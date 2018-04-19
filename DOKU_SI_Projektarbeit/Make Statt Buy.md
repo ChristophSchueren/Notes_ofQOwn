@@ -18,7 +18,7 @@ Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich 
 	- Historie des Asset einsehen
 
 Grund für Eigenentwicklung
-- Geringe Kosten durch Entwicklung von Praktikant
+- Vertretbare Kosten durch Entwicklung von Praktikant
 - Bestehenden Datensatz weiterverwenden
 - Integration in bestehende Webanwendung mit Firmen-Branding und Company-Style
 - 
