@@ -6,4 +6,6 @@ Die Firma SpiritTesting hat bereits ein eigene Webanwendung "Spirit Skillprofil 
 Diese speichert Profile mit Fähigkeiten ihrer Angestellten. Daraus lassen sich E
 
 
-- Zugriff auf bestehenden D
+- Zugriff auf bestehenden Datensatz
+- Schwerpunkt auf Zuordnung Asset zu Mitarbeiter
+- 
