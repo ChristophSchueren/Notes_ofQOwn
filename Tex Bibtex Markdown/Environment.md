@@ -20,6 +20,8 @@ Latex Bundle?
 
 ## Vorlage
 Download des kompletten LaTeX-Quelltextes (inkl. Projektdateien für **TeXlipse**)
+> https://github.com/StefanMacke/latex-vorlage-fiae
+
 
 ## Ansätze
 Lyx
