@@ -30,5 +30,7 @@ Lyx
 **Madoko** online
 	- Great citation support, using standard **BibTeX** entries with either BibTeX styles (.bst) or Citation Language styles (.csl).
 
+<https://projekt-doku.gitbook.io/project/>
+
 
 ## Lyx Umgebungen
