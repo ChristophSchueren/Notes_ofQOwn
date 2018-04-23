@@ -5,7 +5,8 @@ Strukturierte Verkabelung
 	- Kabeltypen
 	- Längen
 	- Campusverkabelung /  GeländeVerkabelung
-	- Stockwer
+	- Gebäudeverkabelung
+	- Etagenverkabelung
 
 
 Redundante Switches, Neztwerkstrukturen
