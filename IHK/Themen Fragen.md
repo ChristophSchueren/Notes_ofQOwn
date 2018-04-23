@@ -10,6 +10,12 @@ Strukturierte Verkabelung
 > anwendungsneutral
 
 
+Primärbereich
+
+Sekundärbereich
+
+Tertiärbereich
+
 Redundante Switches, Neztwerkstrukturen
 
 
