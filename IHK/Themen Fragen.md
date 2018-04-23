@@ -19,7 +19,9 @@ Tertiärbereich
 
 Gebäude-Verteiler
 
+Etagen-Verteiler
 
+Host
 
 Redundante Switches, Neztwerkstrukturen
 
