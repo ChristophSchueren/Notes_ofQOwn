@@ -16,6 +16,11 @@ Sekundärbereich
 
 Tertiärbereich
 
+
+Gebäude-Verteiler
+
+
+
 Redundante Switches, Neztwerkstrukturen
 
 
