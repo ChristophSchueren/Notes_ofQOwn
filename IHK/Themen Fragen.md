@@ -2,6 +2,12 @@ Themen Fragen
 =============
 
 Strukturierte Verkabelung
+	- Kabeltypen
+	- Längen
+	- 
 
 
-Redundante Switches, Ntz
+Redundante Switches, Neztwerkstrukturen
+
+
+Lichtleiter-
