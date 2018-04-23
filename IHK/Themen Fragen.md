@@ -7,6 +7,7 @@ Strukturierte Verkabelung
 	- Campusverkabelung /  GeländeVerkabelung
 	- Gebäudeverkabelung
 	- Etagenverkabelung
+> anwendungsneutral
 
 
 Redundante Switches, Neztwerkstrukturen
