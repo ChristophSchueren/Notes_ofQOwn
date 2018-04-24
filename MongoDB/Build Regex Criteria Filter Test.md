@@ -16,3 +16,13 @@ private void regexFilterTest0(Query query, Map<String, String> reqParams) {
     }
 ```
 
+
+```
+ private Criteria buildSingleWildCardedCriteria(String propName, String wildcardedSearch) {
+        int positionOfFirstStar = wildcardedSearch.indexOf('*', 0);
+        String shortened = wildcardedSearch.substring(0, positionOfFirstStar);
+        Criteria result = Criteria.where(propName).regex("^" + shortened);
+        return result;
+    }
+```
+
