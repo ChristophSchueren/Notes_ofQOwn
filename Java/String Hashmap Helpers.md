@@ -5,6 +5,13 @@ String Hashmap Helpers
 
 
 ```
+private String[] getParamNames (Map<String, String> reqParams) {
+        return reqParams.keySet().stream().toArray(String[]::new);
+    }
+```
+
+
+```
     /**
      * Helper
      */
