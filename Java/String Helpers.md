@@ -2,6 +2,7 @@ String Helpers
 ==============
 
 ```
+```
 private String removeLeadingDollar(String dollarField) {
         return dollarField.replaceAll("^\\$+", "");
     }
@@ -16,6 +17,10 @@ private String removeLeadingDollar(String dollarField) {
         }
         return dollarField;
     }
+```
 
 > in aggregation
+
+new ProjectionOperation().and(removeLeadingDollar(dollarField)), // FIXME
+
 ```
