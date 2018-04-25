@@ -7,5 +7,7 @@ private List<String> newStringList(String ...strings) {
     }
 ```
 private List<String> newStringList(String ...strings) {
-        return Arrays.asList(strings);
+        return Arrays.asList(strings); //IMmodificable
     }
+
+List<String> propNames = new ArrayList<String>(Arrays.asList("type", "standort", "name"));
