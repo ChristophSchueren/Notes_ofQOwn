@@ -10,4 +10,6 @@ private List<String> newStringList(String ...strings) {
         return Arrays.asList(strings); //IMmodificable
     }
 
-List<String> propNames = new ArrayList<String>(Arrays.asList("type", "standort", "name"));
+
+> modificable:
+`List<String> propNames = new ArrayList<String>(Arrays.asList("type", "standort", "name"));`
