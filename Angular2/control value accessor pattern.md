@@ -21,7 +21,9 @@ class ValueAccessorBase<T> implements ControlValueAccessor {
     }
 
 
-> passendes Template der component: brauct
+> passendes Template der component: braucht [(ngModel)]="value"
+
+
 
     touch() {
       this.touched.forEach((f) => f());
