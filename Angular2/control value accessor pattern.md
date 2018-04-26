@@ -21,6 +21,7 @@ class ValueAccessorBase<T> implements ControlValueAccessor {
     }
 
 
+> passendes Template der component: brauct
 
     touch() {
       this.touched.forEach((f) => f());
