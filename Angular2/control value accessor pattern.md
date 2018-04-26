@@ -23,6 +23,11 @@ class ValueAccessorBase<T> implements ControlValueAccessor {
 
 > passendes Template der component: braucht [(ngModel)]="value"
 
+```
+<input
+    type="text"
+    [(ngModel)]="value" (change)="onSelect()"/>
+```
 
 
     touch() {
