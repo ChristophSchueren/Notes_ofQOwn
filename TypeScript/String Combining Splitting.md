@@ -10,5 +10,5 @@ String Combining Splitting
     public set value(newvalue:string) // z.B. 'auto,notebook'
     {
         const splitArr = newvalue.split(',');
-        this.values = splitArr; // das reicht nicht
+        this.values = splitArr;
     }
