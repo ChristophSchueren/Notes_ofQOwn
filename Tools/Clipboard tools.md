@@ -8,3 +8,4 @@ Clipboard tools
 - clcl
 	- saves text, keeps history
 	- empfohlen von Anwendungsentwicker Podcast
+
