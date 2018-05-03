@@ -17,3 +17,15 @@ private T[] newArray(T ...object) {
 
 > modificable:
 `List<String> propNames = new ArrayList<String>(Arrays.asList("type", "standort", "name"));`
+
+
+## Generic
+
+ private <T> T[] buildArray2(T ...items) {
+        return items;
+    }
+
+
+private BiConsumer<Query,Map<String, String>>[] buildArray(BiConsumer<Query,Map<String, String>> ...functions) {
+        return functions;
+    }
