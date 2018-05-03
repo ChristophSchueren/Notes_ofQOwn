@@ -5,3 +5,4 @@ Hook: Prevent Stred file deletion.
 
 NTFS Dateisystem ist eine komplizierte Datenbank
 
+File-Metadata 64
