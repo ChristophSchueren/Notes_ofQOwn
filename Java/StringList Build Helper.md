@@ -10,7 +10,7 @@ private List<String> newStringList(String ...strings) {
         return Arrays.asList(strings); //IMmodificable
     }
 
-private T[] newStringList(String ...strings) {
+private T[] newArray(T ...object) {
         return Arrays.asList(strings); //IMmodificable
     }
 
