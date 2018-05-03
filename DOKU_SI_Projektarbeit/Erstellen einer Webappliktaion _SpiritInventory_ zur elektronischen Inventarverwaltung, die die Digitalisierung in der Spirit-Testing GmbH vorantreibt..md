@@ -27,5 +27,7 @@ Inventarartikel einfach: Schlüssel, aber auch komplexer wie angemietete Firmenw
 Das Projekt beinhaltet auch eine Modifikation des bestehenden Angular Frontends der Webanwendung "Mitarbeiter-Profile", damit die Inventar-Gegenstände an geeigneten Stellen angezeigt werden können.
 
 
-Mit durchdachten **Ordnungssystemen** lassen sich wichtige Dokumente schneller wiederfinden. Dazu gehören auch elektronische Rechnungseingangsbearbeitungen sowie die Digitalisierung von Ordnern und Akten.
+Mit durchdachten **Ordnungssystemen** lassen sich wichtige Dokumente **schneller wiederfinden**. Dazu gehören auch elektronische Rechnungseingangsbearbeitungen sowie die Digitalisierung von Ordnern und Akten.
+
+**Gute Suchfunktion**
 
