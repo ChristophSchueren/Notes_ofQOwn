@@ -11,7 +11,7 @@ private List<String> newStringList(String ...strings) {
     }
 
 private T[] newArray(T ...object) {
-        return Arrays.asList(strings); //IMmodificable
+        return object;
     }
 
 
