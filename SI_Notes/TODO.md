@@ -49,4 +49,4 @@ Inventar-Gruppen ausgeben
 - funktioniert Server ohne Exception?
 - Was macht Frontend mit einer leeren Liste?
 
-# Dokumentation api fuer /vervollstaendigungs (Backend-Seite)
+# Dokumentation api fuer `/vervollstaendigungs` (Backend-Seite)
