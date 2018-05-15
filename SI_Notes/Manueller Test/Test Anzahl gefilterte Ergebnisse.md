@@ -7,7 +7,7 @@ inv_geraet_copy_10001
 
 Datensaetze ungefiltert: 12498
 
-Datensaetze ({verfuegbarkeit="geloscht"})
+Datensaetze ({verfuegbarkeit:"ENTSORGT"})
 
 # Output
 
@@ -20,3 +20,5 @@ Datensaetze ({verfuegbarkeit="geloscht"})
 ### Code zur MongoDB abfrage
 
 `db.getCollection('inv_geraet').find({}).count()`
+
+`db.getCollection('inv_geraet').findOne({verfuegbarkeit:"ENTSORGT"})`
