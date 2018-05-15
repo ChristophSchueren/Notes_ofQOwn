@@ -14,4 +14,5 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- Datenbank zuruecksetzen
 	- Datenbank-Set backuppen
 	- Datenbank uebertragen an anderen Server
+		- und anschließend überprüfen
 
