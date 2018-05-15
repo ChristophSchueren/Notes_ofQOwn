@@ -7,4 +7,6 @@ Test: Anzahl gefilterte Ergebnisse
 
 ## Standard-Filter (keine geraet.verfuegbarkeit=entsorgt)
 
-##
+## Alle Items geraet
+
+## Datenbank: alle Items Anzahl
