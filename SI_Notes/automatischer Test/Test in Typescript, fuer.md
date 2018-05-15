@@ -37,5 +37,7 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 - Arrange, Act, Assert
 ### Check, if Database is Test-Database
 - defined start state
-- 
+	- entry count
+	- entry names
+	- objects as test db flags
 
