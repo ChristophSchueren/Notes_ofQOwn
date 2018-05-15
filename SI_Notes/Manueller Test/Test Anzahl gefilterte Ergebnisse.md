@@ -18,9 +18,9 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 > Testdaten anlegen ist ein Test
 - falls **Fehler** bei Anlegen:
 	- Log to Console
-	- Pause Execution (Background thread?...)
+	- Pause Execution (Background thread?...) -> Interaktionen oder Abbrechen
 	- **Summary** am Ende mit Fehlern
-	- verwende Angular Test-Framework (Interaktion)
+	- verwende Angular Test-Framework (Interaktionen?)
 	- bedingtes Compilieren von Angular
 
 > Konsistenz ist wichtig: NEU
