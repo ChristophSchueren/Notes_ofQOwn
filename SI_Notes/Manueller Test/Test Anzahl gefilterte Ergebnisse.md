@@ -37,6 +37,11 @@ TestDaten-Generator: Es duerfen **keine** Datensaetze mit ENTSORGT angelegt werd
 
 > Geraets im Zweiten Schritt manuell entsorgen 
 - genau 20 geraete entsorgen
+- festgehalten 
+
+
+#
+
 
 # Testskripts MongoDB analytics
 	- diff collections
