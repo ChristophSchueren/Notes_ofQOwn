@@ -5,6 +5,7 @@ Test: Anzahl gefilterte Ergebnisse
 
 inv_geraet_copy_10001
 
+Datensaetze ungefiltert: 12498
 
 # Output
 
