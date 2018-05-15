@@ -25,3 +25,4 @@ MockitoAnnotations.initMocks(this);
 	- ich will eche DB **spiritinventorytest** nutzen
 	- Alle Repos usw. muessen darauf umgebogen werden
 	- copyAnweisung fuer TestDaten aus bereitgehaltenem fertigen Datenbank
+		- nur leseRechte **spiritinventoryreadonlytest**
