@@ -27,4 +27,5 @@ MockitoAnnotations.initMocks(this);
 	- copyAnweisung fuer TestDaten aus bereitgehaltenem fertigen Datenbank
 		- nur leseRechte **spiritinventoryreadonlytest**
 			- anderes Umbiegen
-			- mongodb wirft exception, wenn geschrieben werden 
+			- mongodb soll exception werfen, wenn schreibanweisung kommt
+			- fuer /vervollstaendigungs-te
