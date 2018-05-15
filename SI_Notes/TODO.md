@@ -61,4 +61,5 @@ Inventar-Gruppen ausgeben
 - Sicherung des alten Standes
 
 # angezeigte Anzahl der Geraete stimmt nicht
-- Standard
+- Standardansicht mit Filter nicht Entsorgt
+- 
