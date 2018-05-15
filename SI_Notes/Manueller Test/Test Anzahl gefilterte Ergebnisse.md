@@ -3,6 +3,9 @@ Test: Anzahl gefilterte Ergebnisse
 
 # Datensatz
 
+inv_geraet_copy_10001
+
+
 # Output
 
 ## Standard-Filter (keine geraet.verfuegbarkeit=entsorgt)
