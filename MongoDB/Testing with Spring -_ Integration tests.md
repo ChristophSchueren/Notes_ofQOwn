@@ -15,3 +15,10 @@ But as you do in unit tests, you have to perform a proper set up of test data, a
 
 
 #  Mock
+
+// is EmbedMongo running? JA
+        // <artifactId>de.flapdoodle.embed.mongo</artifactId> in pom.xml
+
+MockitoAnnotations.initMocks(this);
+
+// woher weiß Mockito, wie 
