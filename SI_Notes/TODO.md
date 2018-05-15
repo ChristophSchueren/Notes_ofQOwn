@@ -50,3 +50,4 @@ Inventar-Gruppen ausgeben
 - Was macht Frontend mit einer leeren Liste?
 
 # Dokumentation api fuer `/vervollstaendigungs` (Backend-Seite)
+- requestParameters
