@@ -16,5 +16,7 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- Datenbank-Set backuppen
 	- Datenbank uebertragen an anderen Server
 		- und anschließend überprüfen
-Fertige angular testrunner component?
+> Fertige angular testrunner component?
+	- pro
+	- contra
 
