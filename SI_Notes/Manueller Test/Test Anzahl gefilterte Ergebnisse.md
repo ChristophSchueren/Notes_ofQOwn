@@ -25,7 +25,8 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 > Upload to Cloud Mongo
 TestDaten-Generator: Es duerfen **keine** Datensaetze mit ENTSORGT angelegt werden
 
-> Geraets im Zweiten Schritt manuell entsorgen (genau 20)
+> Geraets im Zweiten Schritt manuell entsorgen 
+- (genau 20)
 
 # Testskripts MongoDB analytics
 	- diff collections
