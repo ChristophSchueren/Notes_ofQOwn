@@ -21,7 +21,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 - 
 TestDaten-Generator: Es duerfen **keine** Datensaetze mit Entsorgt _angelegt werden
 
-# Testskripts MongoDB
+# Testskripts MongoDB analytics
 	- diff collections
 		- count
 		- document contents
