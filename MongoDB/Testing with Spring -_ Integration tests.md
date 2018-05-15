@@ -28,4 +28,4 @@ MockitoAnnotations.initMocks(this);
 		- nur leseRechte **spiritinventoryreadonlytest**
 			- anderes Umbiegen
 			- mongodb soll exception werfen, wenn schreibanweisung kommt
-			- fuer /vervollstaendigungs-te
+			- fuer Test von Ressource /vervollstaendigungs-test (mit Performance)
