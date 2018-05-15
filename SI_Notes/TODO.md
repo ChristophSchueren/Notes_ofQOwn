@@ -52,6 +52,8 @@ Inventar-Gruppen ausgeben
 # Dokumentation api fuer `/vervollstaendigungs` (Backend-Seite)
 - requestParameters
 - Vorlage von Swagger-Seite
+- SSV
+- Projekt heißt jetzt "SIS" Spirt Inventory?
 
 # Merge mit Server-Stand
 - meinen Logging aspekt sichern (Colors), als private patch, sollte Todo enthalten
