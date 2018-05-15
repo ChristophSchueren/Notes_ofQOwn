@@ -25,6 +25,7 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- Feedback: Fehlermeldungen werden an TestOffice UI gemeldet (Errorlevel?)
 	- MongoShell einsetzbar
 
-> Spring
-	- 
+> Spring Mocking MongoDB
+	- wie Zugriff auf echte DB?
+	- zur Laufzeit Um
 
