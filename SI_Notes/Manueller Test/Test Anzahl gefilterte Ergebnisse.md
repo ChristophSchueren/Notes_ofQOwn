@@ -21,6 +21,8 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 - 
 TestDaten-Generator: Es duerfen keine Datensaetze mit Entsorgt _angelegt werden
 
+# Testskripts Mdiff collections
+
 # Output
 
 ## Standard-Filter (keine geraet.verfuegbarkeit=entsorgt)
