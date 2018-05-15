@@ -46,7 +46,7 @@ Inventar-Gruppen ausgeben
 	- es sollte Login popup angezeigt werden
 
 # Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergebnisse vom Server angeboten werden
-- funktioniert Server ohne Exception?
+- funktioniert Server ohne Exception? (es sollte leere Vorschlagsliste kommen)
 - Was macht Frontend mit einer leeren Liste?
 
 # Dokumentation api fuer `/vervollstaendigungs` (Backend-Seite)
