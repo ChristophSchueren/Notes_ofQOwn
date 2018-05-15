@@ -29,3 +29,5 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- wie Zugriff auf echte DB?
 	- Spring zur Laufzeit Umbiegen auf `use testdata` Database
 
+## Filter Test
+
