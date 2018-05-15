@@ -35,5 +35,7 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 ### Definierter Test-Datensatz
 ### zugehoerige erwartete Ergebnisse
 - Arrange, Act, Assert
-### Check, if Datab
+### Check, if Database is Test-Database
+- defined start state
+- 
 
