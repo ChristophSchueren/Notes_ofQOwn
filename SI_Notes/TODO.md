@@ -56,4 +56,4 @@ Inventar-Gruppen ausgeben
 # Merge mit Server-Stand
 - meinen Logging aspekt sichern (Colors), als private patch, sollte Todo enthalten
 - Skript zum automatichen Entfernen der Patches
-- 
+- Sicherung des alten Standes
