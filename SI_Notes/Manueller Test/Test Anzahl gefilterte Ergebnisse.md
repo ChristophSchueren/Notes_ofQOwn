@@ -8,7 +8,7 @@ inv_geraet_copy_10001
 Datensaetze ungefiltert: 12498
 `db.getCollection('inv_geraet').find({}).count()`
 
-Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 
+Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 `db.getCollection('inv_geraet').find({verfuegbarkeit:"ENTSORGT"}).count()`
 
 # Output
