@@ -12,3 +12,5 @@ Test: Anzahl gefilterte Ergebnisse
 ## Datenbank: alle Items Anzahl
 
 ### Code zur MongoDB abfrage
+
+`db.getCollection('inv_geraet').find({}).count()`
