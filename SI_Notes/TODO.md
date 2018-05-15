@@ -52,3 +52,5 @@ Inventar-Gruppen ausgeben
 # Dokumentation api fuer `/vervollstaendigungs` (Backend-Seite)
 - requestParameters
 - Vorlage von Swagger-Seite
+
+# Merge mit Software-
