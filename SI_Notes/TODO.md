@@ -45,9 +45,10 @@ Inventar-Gruppen ausgeben
 - wenn in Angular direkt zu /#geraet gesprungen wird
 	- es sollte Login popup angezeigt werden
 
-# Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergebnisse vom Server angeboten werden
+# Vervollstaendigung komponent zeigt ewig Load-Kreisel, wenn keine Ergebnisse vom Server angeboten werden
 - funktioniert Server ohne Exception? (es sollte leere Vorschlagsliste kommen)
 - Was macht Frontend mit einer leeren Liste?
+- einfache Lösung: 
 
 # Dokumentation api fuer `/vervollstaendigungs` (Backend-Seite)
 - requestParameters
