@@ -15,7 +15,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 
 
 ## Testdaten-Generator
-> Konsistenz ist wichtig
+> Konsistenz ist wichtig: NEU
 - inv_geraet
 - inv_geraet_type
 
