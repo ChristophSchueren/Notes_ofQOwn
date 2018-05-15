@@ -24,4 +24,4 @@ MockitoAnnotations.initMocks(this);
 // woher weiß Mockito, wie Mock zu initialisieren ist (hier: EmbedMongo)
 	- ich will eche DB **spiritinventorytest** nutzen
 	- Alle Repos usw. muessen darauf umgebogen werden
-	- copy
+	- copyAnweisung fuer TestDaten aus bereitgehaltenem fertigen Datenbank
