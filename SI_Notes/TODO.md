@@ -53,4 +53,5 @@ Inventar-Gruppen ausgeben
 - requestParameters
 - Vorlage von Swagger-Seite
 
-# Merge mit Software-
+# Merge mit Server-Stand
+- meinen Logging aspekt sichern
