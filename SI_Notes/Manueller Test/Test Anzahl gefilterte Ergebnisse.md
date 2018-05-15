@@ -10,3 +10,5 @@ Test: Anzahl gefilterte Ergebnisse
 ## Alle Items geraet
 
 ## Datenbank: alle Items Anzahl
+
+### Code zur MongoDB abfrage
