@@ -11,4 +11,5 @@ End-To-End
 Angular Oberfläche
 ## schwieriger realisierbar
 Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
+	- Datenbank 
 
