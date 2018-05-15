@@ -27,7 +27,7 @@ TestDaten-Generator: Es duerfen **keine** Datensaetze mit Entsorgt _angelegt wer
 		- document contents
 		- show overview of Results (counts)
 		- verify if log correctly written
-	- mongoshell script mit Typescript support? mongoshell.ts.d?
+	- mongoshell script mit Typescript support? mongoshell.d.ts vorge?
 
 # Output
 
