@@ -14,7 +14,8 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 `db.getCollection('inv_geraet_copy_10001').find({verfuegbarkeit:"ENTSORGT"}).count()`
 
 
-#
+## Testdaten-Generator
+> Konsistenz ist wichtig
 TestDaten-Generator: Es duerfen keine Datensaetze mit Entsorgt _angelegt werden
 
 # Output
