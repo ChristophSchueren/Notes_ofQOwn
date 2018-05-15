@@ -18,7 +18,8 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 > Konsistenz ist wichtig
 - inv_geraet
 - inv_geraet_type
-- 
+
+> Backup
 TestDaten-Generator: Es duerfen **keine** Datensaetze mit Entsorgt _angelegt werden
 
 # Testskripts MongoDB analytics
