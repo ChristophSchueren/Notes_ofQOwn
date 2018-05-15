@@ -1,7 +1,7 @@
 Test: Anzahl gefilterte Ergebnisse
 ========================
 
-# Datensatz
+# Datensatz 
 
 inv_geraet_copy_10001
 
@@ -19,7 +19,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 - falls **Fehler** bei Anlegen:
 	- Log to Console
 	- Pause Execution (Background thread?...) -> Interaktionen oder Abbrechen
-	- Backend operation via Rest
+	- Backend operation (via Rest?) fuer Backup DB- **SET** 
 	- **Summary** am Ende mit Fehlern
 	- verwende Angular Test-Framework (Interaktionen?)
 	- bedingtes Compilieren von Angular
