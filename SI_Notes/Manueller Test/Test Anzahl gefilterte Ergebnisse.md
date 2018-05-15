@@ -6,7 +6,7 @@ Test: Anzahl gefilterte Ergebnisse
 inv_geraet_copy_10001
 
 Datensaetze ungefiltert: 12498
-`db.getCollection('inv_geraet').find({}).count()` 12498
+`db.getCollection('inv_geraet').find({}).count()` 12494
 `db.getCollection('inv_geraet_copy_10001').find({}).count()`
 
 Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
