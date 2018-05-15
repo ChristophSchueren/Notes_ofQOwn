@@ -5,4 +5,6 @@ Test: Anzahl gefilterte Ergebnisse
 
 # Output
 
-## Standard-Filter (keine Assets )
+## Standard-Filter (keine geraet.verfuegbarkeit=entsorgt)
+
+##
