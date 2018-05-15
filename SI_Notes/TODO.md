@@ -40,6 +40,8 @@ Inventar-Gruppen ausgeben
 
 # Abfrage geraet zeigt leere Liste
 - wahrscheinlich kein login
+- kommt exception von Server?
+- Wie wird diese gehandhabt?
 - wenn in Angular direkt zu /#geraet gesprungen wird
 
 # Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergebnisse vom Server angeboten werden
