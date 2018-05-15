@@ -19,6 +19,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 - falls **Fehler** bei Anlegen:
 	- Log to Console
 	- Pause Execution (Background thread?...)
+	- **Summary** am Ende mit Fehlern
 
 > Konsistenz ist wichtig: NEU
 - inv_geraet
