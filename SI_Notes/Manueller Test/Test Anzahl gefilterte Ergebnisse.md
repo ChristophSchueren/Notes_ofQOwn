@@ -18,7 +18,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 > Konsistenz ist wichtig
 - inv_geraet
 - inv_geraet_type
-- inv_
+- 
 TestDaten-Generator: Es duerfen keine Datensaetze mit Entsorgt _angelegt werden
 
 # Output
