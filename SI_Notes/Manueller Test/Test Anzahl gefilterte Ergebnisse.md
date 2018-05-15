@@ -7,6 +7,8 @@ inv_geraet_copy_10001
 
 Datensaetze ungefiltert: 12498
 
+Datensaetze ({verfuegbarkeit=})
+
 # Output
 
 ## Standard-Filter (keine geraet.verfuegbarkeit=entsorgt)
