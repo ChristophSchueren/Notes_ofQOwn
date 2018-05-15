@@ -16,7 +16,8 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 
 ## Testdaten-Generator
 > Testdaten anlegen ist ein Test
-- was, we
+- falls **Fehler** bei Anlegen:
+	- Log to Console
 
 > Konsistenz ist wichtig: NEU
 - inv_geraet
