@@ -20,8 +20,8 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 	- Log to Console
 	- Pause Execution (Background thread?...)
 	- **Summary** am Ende mit Fehlern
-	- verwende 
-	- bedingtes Compilieren des 
+	- verwende Angular Test-Framework (Interaktion)
+	- bedingtes Compilieren von Angular
 
 > Konsistenz ist wichtig: NEU
 - inv_geraet
