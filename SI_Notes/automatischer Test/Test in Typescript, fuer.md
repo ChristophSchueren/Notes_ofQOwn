@@ -20,3 +20,5 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- pro
 	- contra
 
+> Realisierung mit TestOffice Framework???
+
