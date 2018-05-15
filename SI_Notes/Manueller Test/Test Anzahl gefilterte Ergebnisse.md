@@ -35,9 +35,9 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 > Upload to Cloud Mongo
 TestDaten-Generator: Es duerfen **keine** Datensaetze mit ENTSORGT angelegt werden
 
-> Skript fuer Testdaten sollte DETERMINISTIS
+> Skript fuer Testdaten sollte **DETERMINISTISCH** reproduzierbare Daten erzeugen
 
-> Geraets im Zweiten Schritt manuell entsorgen 
+> Geraets im Zweiten Schritt ~~manuell~~ automatisch entsorgen 
 - genau 20 geraete entsorgen
 - festgehalten 
 
