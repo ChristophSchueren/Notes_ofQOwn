@@ -7,7 +7,7 @@ inv_geraet_copy_10001
 
 Datensaetze ungefiltert: 12498
 
-Datensaetze ({verfuegbarkeit=})
+Datensaetze ({verfuegbarkeit="gelo})
 
 # Output
 
