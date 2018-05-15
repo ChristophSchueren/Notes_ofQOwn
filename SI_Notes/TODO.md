@@ -43,6 +43,7 @@ Inventar-Gruppen ausgeben
 - kommt exception von Server?
 - Wie wird diese gehandhabt?
 - wenn in Angular direkt zu /#geraet gesprungen wird
+	- es sollte Login popup angezeigt werden
 
 # Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergebnisse vom Server angeboten werden
 - funktioniert Server ohne Exception?
