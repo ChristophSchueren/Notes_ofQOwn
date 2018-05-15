@@ -39,4 +39,6 @@ JSON einlesen, in DB speichern (nach Validierung!!)
 Inventar-Gruppen ausgeben
 
 # Abfrage geraet zeigt leere Liste
-- wa
+- wahrscheinlich kein login
+- wenn direkt zu /#/geraet gesprungen wird
+- 
