@@ -25,7 +25,8 @@ TestDaten-Generator: Es duerfen keine Datensaetze mit Entsorgt _angelegt werden
 	- diff collections
 		- count
 		- document contents
-		- show overview of 
+		- show overview of Results (counts)
+		- verify 
 
 # Output
 
