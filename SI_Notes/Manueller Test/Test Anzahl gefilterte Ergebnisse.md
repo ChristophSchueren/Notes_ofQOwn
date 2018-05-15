@@ -2,7 +2,7 @@ Test: Anzahl gefilterte Ergebnisse
 ========================
 
 # Datensatz
-> Datensatz-Set au
+> Datensatz-Set aus User+Geraet+GeraetType+Buchung
 
 inv_geraet_copy_10001
 
