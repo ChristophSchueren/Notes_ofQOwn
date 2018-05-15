@@ -42,4 +42,4 @@ Inventar-Gruppen ausgeben
 - wahrscheinlich kein login
 - wenn in Angular direkt zu /#geraet gesprungen wird
 
-# Vervollstaendigung komponent zeigt keine ``
+# Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergeb
