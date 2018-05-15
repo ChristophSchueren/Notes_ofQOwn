@@ -18,6 +18,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 > Testdaten anlegen ist ein Test
 - falls **Fehler** bei Anlegen:
 	- Log to Console
+	- Pause Execution (Background thread?...)
 
 > Konsistenz ist wichtig: NEU
 - inv_geraet
