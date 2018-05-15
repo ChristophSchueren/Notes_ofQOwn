@@ -23,7 +23,9 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 
 
 > Upload to Cloud Mongo
-TestDaten-Generator: Es duerfen **keine** Datensaetze mit Entsorgt _angelegt werden
+TestDaten-Generator: Es duerfen **keine** Datensaetze mit ENTSORGT angelegt werden
+
+> Do
 
 # Testskripts MongoDB analytics
 	- diff collections
