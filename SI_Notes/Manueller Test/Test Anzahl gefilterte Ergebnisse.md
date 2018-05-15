@@ -5,4 +5,4 @@ Test: Anzahl gefilterte Ergebnisse
 
 # Output
 
-## 
+## Standard-Filter (keine Assets )
