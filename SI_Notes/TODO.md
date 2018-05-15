@@ -48,3 +48,5 @@ Inventar-Gruppen ausgeben
 # Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergebnisse vom Server angeboten werden
 - funktioniert Server ohne Exception?
 - Was macht Frontend mit einer leeren Liste?
+
+# Dokumentation api fuer /vervollstaendigungs (Backend-Seite)
