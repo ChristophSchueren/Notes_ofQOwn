@@ -20,7 +20,7 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- pro
 	- contra
 
-> Realisierung mit TestOffice Framework???
+> Realisierung mit TestOffice als zentraler Caller von Scripts???
 	- ruft als zentrale Instanz verschiedene Programme auf
 	- Feedback: Fehlermeldungen werden an TestOffice UI gemeldet (Errorlevel?)
 	- MongoShell einsetzbar
