@@ -59,3 +59,6 @@ Inventar-Gruppen ausgeben
 - meinen Logging aspekt sichern (Colors), als private patch, sollte Todo enthalten
 - Skript zum automatichen Entfernen der Patches
 - Sicherung des alten Standes
+
+# angezeigte Anzahl der Geraete stimmt nicht
+- Standard
