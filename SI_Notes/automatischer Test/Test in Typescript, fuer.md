@@ -28,6 +28,7 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 > Spring Mocking MongoDB
 	- wie Zugriff auf echte DB?
 	- Spring (AspectOrientend) runtime zur Laufzeit Umbiegen auf `use testdata` Database
+		- enabl
 
 ## Filter Test
 ### Definierter Test-Datensatz
