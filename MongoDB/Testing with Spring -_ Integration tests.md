@@ -22,4 +22,4 @@ But as you do in unit tests, you have to perform a proper set up of test data, a
 MockitoAnnotations.initMocks(this);
 
 // woher weiß Mockito, wie Mock zu initialisieren ist (hier: EmbedMongo)
-	- 
+	- ich will eche DB **spiritinventorytest** nutzen
