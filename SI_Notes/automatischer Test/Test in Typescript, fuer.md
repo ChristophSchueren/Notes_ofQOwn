@@ -22,5 +22,6 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 
 > Realisierung mit TestOffice Framework???
 	- ruft als zentrale Instanz verschiedene Programme auf
-	- Feedback: Fehlermeldungen werden
+	- Feedback: Fehlermeldungen werden an TestOffice UI gemeldet (Errorlevel?)
+	- MongoShell einsetzbar
 
