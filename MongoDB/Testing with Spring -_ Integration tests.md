@@ -29,4 +29,4 @@ MockitoAnnotations.initMocks(this);
 			- anderes Umbiegen
 			- mongodb soll exception werfen, wenn schreibanweisung kommt
 			- fuer Test von Ressource **/vervollstaendigungs** (mit Performance)
-			- fuer d
+			- fuer test von Filtern auf **/vervollstaendigungs** (mit Performance)
