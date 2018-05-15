@@ -1,3 +1,4 @@
 /vervollstaendigungs
 ========================
 
+alreadyTypedString=anf*
