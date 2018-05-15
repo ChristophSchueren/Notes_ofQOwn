@@ -27,5 +27,5 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 
 > Spring Mocking MongoDB
 	- wie Zugriff auf echte DB?
-	- zur Laufzeit Um
+	- Spring zur Laufzeit Umbiegen
 
