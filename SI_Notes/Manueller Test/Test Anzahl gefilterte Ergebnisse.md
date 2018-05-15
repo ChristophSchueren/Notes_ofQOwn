@@ -26,7 +26,7 @@ TestDaten-Generator: Es duerfen keine Datensaetze mit Entsorgt _angelegt werden
 		- count
 		- document contents
 		- show overview of Results (counts)
-		- verify 
+		- verify if log correctly written
 
 # Output
 
