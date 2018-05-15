@@ -38,5 +38,5 @@ changeuser-dialog
 JSON einlesen, in DB speichern (nach Validierung!!)
 Inventar-Gruppen ausgeben
 
-# Testing
-Abfrage geraet zeigt le
+# Abfrage geraet zeigt leere Liste
+- wa
