@@ -15,6 +15,9 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 
 
 ## Testdaten-Generator
+> Testdaten anlegen ist ein Test
+- was, we
+
 > Konsistenz ist wichtig: NEU
 - inv_geraet
 - inv_geraet_type
