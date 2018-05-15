@@ -21,4 +21,6 @@ Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
 	- contra
 
 > Realisierung mit TestOffice Framework???
+	- ruft als zentrale Instanz verschiedene Programme auf
+	- Feedback: Fehlermeldungen werden
 
