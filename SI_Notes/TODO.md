@@ -42,4 +42,6 @@ Inventar-Gruppen ausgeben
 - wahrscheinlich kein login
 - wenn in Angular direkt zu /#geraet gesprungen wird
 
-# Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergeb
+# Vervollstaendigung komponent zeigt ewig Warteschlange, wenn keine Ergebnisse vom Server angeboten werden
+- funktioniert Server ohne Exception?
+- 
