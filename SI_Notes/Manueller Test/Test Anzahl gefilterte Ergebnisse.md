@@ -19,7 +19,7 @@ Datensaetze ({verfuegbarkeit:"ENTSORGT"}): 2493
 - inv_geraet
 - inv_geraet_type
 - 
-TestDaten-Generator: Es duerfen keine Datensaetze mit Entsorgt _angelegt werden
+TestDaten-Generator: Es duerfen **keine** Datensaetze mit Entsorgt _angelegt werden
 
 # Testskripts MongoDB
 	- diff collections
