@@ -11,5 +11,7 @@ End-To-End
 Angular Oberfläche
 ## schwieriger realisierbar
 Mongodb-Server / MongoShell (Beispiel Testscript, mongoproc open source?)
-	- Datenbank 
+	- Datenbank zuruecksetzen
+	- Datenbank-Set backuppen
+	- Datenbank uebertragen an anderen Server
 
