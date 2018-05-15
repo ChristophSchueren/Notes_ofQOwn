@@ -41,3 +41,5 @@ Inventar-Gruppen ausgeben
 # Abfrage geraet zeigt leere Liste
 - wahrscheinlich kein login
 - wenn in Angular direkt zu /#geraet gesprungen wird
+
+# 
