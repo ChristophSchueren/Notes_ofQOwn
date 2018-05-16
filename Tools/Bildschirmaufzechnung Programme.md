@@ -1,4 +1,7 @@
 Bildschirmaufzechnung Programme
 ===============================
 Nvidia Shadow
-bzw. Gfor
+bzw. Gforce Shadow
+
+
+sollte mit dem
