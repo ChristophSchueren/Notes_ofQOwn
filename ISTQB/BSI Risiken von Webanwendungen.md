@@ -1,6 +1,6 @@
 BSI: Risiken von Webanwendungen
 =============================== 
-(aus PDF )
+(aus PDF Dokument)
 
 Webanwendungen Sind hochgradig komplex, immer und von überall verfügbar und stellen über das 
 Internet oft kritische Daten und Dienste bereit. Sie Sind das Tor zum Unternehmen und seine 
