@@ -9,4 +9,4 @@ verantwortlich, bei den sensiblen Daten gestohlen wurden. Die Gründe hierzu Sin
 fehlerhafter Implementierung der Anwendung selbst Oder in den Erweiterungen vom Dritthersteller, über 
 unkorrekte Konfiguration der Backend-Systeme bis hin zum mangelnden Sicherheitsbewusstsein. 
 
-> SSL
+> SSL bzw TLS 
