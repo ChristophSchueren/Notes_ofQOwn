@@ -10,4 +10,5 @@ direkter Start von <http://localhost:9000/#/geraets>
 	- Umleitung
 	- Fehlermeldung in |async pipe mit else template
 		- "keine Ergebnisse"
-		- "nicht authent"
+		- "nicht authentifiziert"
+		- "Fehler bei Übertragung"
