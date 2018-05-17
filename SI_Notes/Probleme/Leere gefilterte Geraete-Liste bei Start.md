@@ -8,4 +8,6 @@ direkter Start von <http://localhost:9000/#/geraets>
 - Angular sollte feststellen, dass nicht authorisiert ist
 	- vor Anzeigen der Site zur Authentifizierung auffordern
 	- Umleitung
-	- Fehlermeldung in |async pipe mit else templa
+	- Fehlermeldung in |async pipe mit else template
+		- "keine Ergebnisse"
+		- "nicht authent"
