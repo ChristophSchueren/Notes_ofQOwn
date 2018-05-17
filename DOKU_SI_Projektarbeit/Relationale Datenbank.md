@@ -33,3 +33,5 @@ Transaktionen verwenden?
 	- also Dokumentendatenbank
 
 - Dokumentendatenbank MongoDB von JHipster Generator unterstützt
+
+- Abfragen an Dokumentendatenbank mit 
