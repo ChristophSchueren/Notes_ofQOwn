@@ -23,4 +23,6 @@ Transaktionen verwenden?
 - Polymorphie zu statisch (compile time)
 
 ## Nachteile von SQL
-- Access
+- Typisches Accesspattern der Daten erfordert viele Joins
+	- langsam
+	- 
