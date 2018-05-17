@@ -37,3 +37,8 @@ Transaktionen verwenden?
 - Abfragen an Dokumentendatenbank mit QueryByExample und strukturierten JSON dokumenten möglich
 - Aggregations mächtig
 - Indices auf embedded properties möglich => Aggregations schnell
+
+
+Ausblick:
+
+Nach Abschluss der Projektarbeit auch noch Filter und Queries integr
