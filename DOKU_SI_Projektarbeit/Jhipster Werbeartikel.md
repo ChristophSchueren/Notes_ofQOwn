@@ -22,5 +22,5 @@ Versionierung Durch MongoBee?
 Sowiso dynamisch
 
 
-Dynamische Datenbank: Davor st
+Dynamische Datenbank: Davor strikte Kontrolle durch Statisch und stark Typisierte Business-Logic in Java
 
