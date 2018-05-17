@@ -25,4 +25,5 @@ Transaktionen verwenden?
 ## Nachteile von SQL
 - Typisches Accesspattern der Daten erfordert viele Joins
 	- langsam
-	- 
+	- dritte Normalform
+	- 1-1 Beziehungen
