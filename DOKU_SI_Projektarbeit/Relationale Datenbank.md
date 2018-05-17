@@ -22,5 +22,5 @@ Transaktionen verwenden?
 - Attribute des Typs
 - Polymorphie zu statisch (compile time)
 
-## Nachteile
-- 
+## Nachteile von SQL
+- Access
