@@ -25,4 +25,8 @@ Sowiso dynamisch, aber Anlegen neuer Collections, Anfängliche Konten für Admin
 Dynamische Datenbank: Davor strikte Kontrolle durch Statisch und stark Typisierte Business-Logic in Java
 
 
+Datensicherheit:
+MongoDB Cluster aus 
+	Mas
+Arbiter
 
