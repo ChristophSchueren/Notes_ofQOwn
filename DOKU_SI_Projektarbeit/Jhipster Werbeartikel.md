@@ -10,5 +10,5 @@ https://jaxenter.de/mit-jhipster-4-loslegen-54104
 
 
 - Logik Synchronisation
-	1. Validierung der Optionen im Backend (essentiell für Sicherheit)
-	2. Validierung
+	1. Validierung der Daten im Backend (essentiell für Sicherheit vor Speichern in DB)
+	2. Validierung der eingegebenen Daten im Frontend
