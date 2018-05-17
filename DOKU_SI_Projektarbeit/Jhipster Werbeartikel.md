@@ -19,7 +19,7 @@ Generator erzeugt gleichzeitig
 #### Dritte Stufe: Datenbankmodell
 Synchron mit Server POJO (ORM)
 Versionierung Durch MongoBee?
-Sowiso dynamisch, aber Anlegen neuer Collections
+Sowiso dynamisch, aber Anlegen neuer Collections, Anfängliche Konten für Administrator-Zugriff
 
 
 Dynamische Datenbank: Davor strikte Kontrolle durch Statisch und stark Typisierte Business-Logic in Java
