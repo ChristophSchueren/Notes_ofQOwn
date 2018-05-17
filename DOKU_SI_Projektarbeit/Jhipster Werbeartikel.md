@@ -27,6 +27,9 @@ Dynamische Datenbank: Davor strikte Kontrolle durch Statisch und stark Typisiert
 
 Datensicherheit:
 MongoDB Cluster aus 
-	Mas
-Arbiter
+	- MongoDB Master
+	- MongoDB Slave
+	- MongoDB Arbiter
 
+
+Datensicherungsplan
