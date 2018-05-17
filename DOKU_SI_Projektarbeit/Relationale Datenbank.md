@@ -40,5 +40,7 @@ Transaktionen verwenden?
 
 
 Ausblick:
-Mit Abschluss des Praktikumsprojekts
+Mit Abschluss des Projekts der Projektarbeit steht die Grundfunktionalität
+	- Gerät erzeugen
+	- Zuweis
 Nach Abschluss der Projektarbeit auch noch Filter und Queries integriert
