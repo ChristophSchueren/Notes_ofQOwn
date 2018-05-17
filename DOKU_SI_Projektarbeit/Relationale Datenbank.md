@@ -34,4 +34,5 @@ Transaktionen verwenden?
 
 - Dokumentendatenbank MongoDB von JHipster Generator unterstützt
 
-- Abfragen an Dokumentendatenbank mit 
+- Abfragen an Dokumentendatenbank mit QueryByExample und strukturierten JSON dokumenten möglich
+- Aggregations
