@@ -9,4 +9,6 @@ https://jaxenter.de/mit-jhipster-4-loslegen-54104
 	2. im Frontend (Typescript Klasse)
 
 
-- Logi
+- Logik Synchronisation
+	1. Validierung der Optionen im Backend (essentiell für Sicherheit)
+	2. Validierung
