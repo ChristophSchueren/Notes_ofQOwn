@@ -12,3 +12,4 @@ direkter Start von <http://localhost:9000/#/geraets>
 		- "keine Ergebnisse"
 		- "nicht authentifiziert"
 		- "Fehler bei Übertragung"
+		- "Server nicht erreichbar"
