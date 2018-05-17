@@ -1,4 +1,5 @@
 Leere gefilterte Geraete-Liste bei Start
 ========================================
 
-Fehler re
+Fehler reproduzieren:
+direkter Start von 
