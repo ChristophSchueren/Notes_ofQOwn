@@ -19,3 +19,8 @@ Generator erzeugt gleichzeitig
 #### Dritte Stufe: Datenbankmodell
 Synchron mit Server POJO (ORM)
 Versionierung Durch MongoBee?
+Sowiso dynamisch
+
+
+Dynamische Datenbank: Davor st
+
