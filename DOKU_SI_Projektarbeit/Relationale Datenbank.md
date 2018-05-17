@@ -30,5 +30,6 @@ Transaktionen verwenden?
 
 - Aus gleichem ER-Modell Dokumenten-Datenbank-Modell entwickelt
 	- Embedded List of Eigenschaften
+	- also Dokumentendatenbank
 
--
+- Dokumentendatenbank MongoDB von JHipster Generator unterstützt
