@@ -17,7 +17,9 @@
 
 Transaktionen verwenden?
 
-## Problem der Vielgestaltigkeit von S
+## Problem der Vielgestaltigkeit von Assets
+- individuelle Attribute
+- Attribute des Typs
 
 ## Nachteile
 - Access
