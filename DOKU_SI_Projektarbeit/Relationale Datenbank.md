@@ -40,5 +40,5 @@ Transaktionen verwenden?
 
 
 Ausblick:
-
-Nach Abschluss der Projektarbeit auch noch Filter und Queries integr
+Mit Abschluss des Praktikumsprojekts
+Nach Abschluss der Projektarbeit auch noch Filter und Queries integriert
