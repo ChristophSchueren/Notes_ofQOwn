@@ -16,5 +16,5 @@ https://jaxenter.de/mit-jhipster-4-loslegen-54104
 Generator erzeugt gleichzeitig
 
 
-Dritte Stufe: Datenbankmodell
-Sync
+#### Dritte Stufe: Datenbankmodell
+Synchron mit Server POJO
