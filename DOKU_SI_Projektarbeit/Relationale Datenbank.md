@@ -23,7 +23,7 @@ Transaktionen verwenden?
 - Polymorphie zu statisch (compile time)
 
 ## Nachteile von SQL
-- Typisches Accesspattern der Daten erfordert viele Joins
+- Typisches **Accesspattern** (Asset mit allen seinen Eigenschaften) der Daten erfordert viele Joins
 	- dritte Normalform
 	- 1-1 Beziehungen
 	- langsam
