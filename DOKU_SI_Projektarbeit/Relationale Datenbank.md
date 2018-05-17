@@ -30,3 +30,5 @@ Transaktionen verwenden?
 
 - Aus gleichem ER-Modell Dokumenten-Datenbank-Modell entwickelt
 	- Embedded List of Eigenschaften
+
+-
