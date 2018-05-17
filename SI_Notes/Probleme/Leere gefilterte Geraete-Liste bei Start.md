@@ -7,4 +7,5 @@ direkter Start von <http://localhost:9000/#/geraets>
 - GeraetListService erzeugt Request zu früh **ohne Authentication Token**
 - Angular sollte feststellen, dass nicht authorisiert ist
 	- vor Anzeigen der Site zur Authentifizierung auffordern
-	- 
+	- Umleitung
+	- Fehlermeldung in |async pipe mit else templa
