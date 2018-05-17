@@ -17,4 +17,5 @@ Generator erzeugt gleichzeitig
 
 
 #### Dritte Stufe: Datenbankmodell
-Synchron mit Server POJO
+Synchron mit Server POJO (ORM)
+Versionierung Durch MongoBee?
