@@ -46,4 +46,4 @@ Mit Abschluss des Projekts der Projektarbeit steht die Grundfunktionalität
 	- Entsorgen
 
 Nach Abschluss der Projektarbeit auch noch Filter und Queries integriert
-Wirklicher Einsatz im Unternehmen, integriert in 
+Wirklicher Einsatz im Unternehmen, integriert in SSV: Spirit-Skillprofil Verwaltung
