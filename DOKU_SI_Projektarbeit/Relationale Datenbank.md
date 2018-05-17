@@ -28,4 +28,5 @@ Transaktionen verwenden?
 	- 1-1 Beziehungen
 	- langsam
 
-- Aus gleichem 
+- Aus gleichem ER-Modell Dokumenten-Datenbank-Modell entwickelt
+	- Embedded List of Eigenschaften
