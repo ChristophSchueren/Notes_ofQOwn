@@ -17,5 +17,7 @@
 
 Transaktionen verwenden?
 
+## Problem der Vielgestaltigkeit von S
+
 ## Nachteile
 - Access
