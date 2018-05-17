@@ -20,6 +20,7 @@ Transaktionen verwenden?
 ## Problem der Vielgestaltigkeit von Assets
 - individuelle Attribute
 - Attribute des Typs
+- Polymorphie zu statisch (compile time)
 
 ## Nachteile
-- Access
+- 
