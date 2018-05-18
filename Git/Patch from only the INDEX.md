@@ -9,7 +9,7 @@ Index are staged files
 2. **Create Patch File**
 ```
 
-	git diff --cached > mypatch.patch
+	git diff --cached > mypatch.patch~
 	
 ```
 ```
