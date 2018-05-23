@@ -8,3 +8,5 @@ Overlay image
 Anntotation
 
 Hint
+
+How to annotate and save slides during presentation
