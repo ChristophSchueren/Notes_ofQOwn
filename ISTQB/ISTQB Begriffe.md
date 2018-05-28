@@ -10,3 +10,6 @@ Verifikation
 (klingt änlich wie Fehler): Ist das Produkt fehlerfrei
 
 Teststrategie
+- bleibt eher fest
+
+Testkonzept (Papier)
