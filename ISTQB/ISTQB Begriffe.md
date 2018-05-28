@@ -2,6 +2,7 @@ ISTQB Begriffe
 ==============
 
 Wartungstest
+- = Test eines Systems nach einer Änderung (z.B. der Umgebung)
 
 Validierung
 	entwickeln wir das richtige Produckt für den Anwendungszeck?
