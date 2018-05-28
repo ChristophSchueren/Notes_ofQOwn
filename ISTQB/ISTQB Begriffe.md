@@ -28,6 +28,8 @@ Fehlerangriffe (Muster-Frage 24)
 Testausführungsplan = Testsuite
 
 Entscheidungstest
-- Abscni
+- Abschnitt 4.4.2
+
+
 
 Review der **Testbasis** (Frage 3)
