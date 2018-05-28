@@ -9,4 +9,4 @@ smartwebapps.de
 greenshot (Screenshot tool for Windows)
 
 www.opensourcetesting.org
-www.aptest.com/ressources
+www.aptest.com/ressources.html
