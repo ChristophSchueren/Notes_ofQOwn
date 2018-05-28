@@ -15,6 +15,10 @@ Verifikation
 Teststrategie
 - bleibt eher fest
 
+
+Testbasis
+- Abs
+
 Testkonzept (Papier)
 
 Testspezifikation = Testfallspezifikation
