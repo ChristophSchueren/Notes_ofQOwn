@@ -19,3 +19,5 @@ Logexpert:
 
 
 Schwachstellen-Scanner (Netzwerk)
+
+**sqlmap** (opensource) testet auf SQL injection vulnerability
