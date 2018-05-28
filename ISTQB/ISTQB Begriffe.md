@@ -30,6 +30,9 @@ Testausführungsplan = Testsuite
 Entscheidungstest
 - Abschnitt 4.4.2
 
+Grenzwertanalyse
+- Abschnitt 4.3.2
+
 
 
 Review der **Testbasis** (Frage 3)
