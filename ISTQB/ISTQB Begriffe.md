@@ -13,3 +13,5 @@ Teststrategie
 - bleibt eher fest
 
 Testkonzept (Papier)
+
+Testspezifikation = Testfallspezifikation
