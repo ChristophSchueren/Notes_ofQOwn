@@ -18,4 +18,4 @@ Testspezifikation = Testfallspezifikation
 
 Fehlerangriffe (Muster-Frage 24)
 
-Testausführungsplan = Test
+Testausführungsplan = Test...
