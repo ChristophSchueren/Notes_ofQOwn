@@ -33,6 +33,9 @@ Entscheidungstest
 Grenzwertanalyse
 - Abschnitt 4.3.2
 
+sicherheitskritische Software-Entwicklung
+- Abschnitt 5.6
+
 
 
 Review der **Testbasis** (Frage 3)
