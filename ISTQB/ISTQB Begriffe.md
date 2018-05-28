@@ -27,4 +27,7 @@ Fehlerangriffe (Muster-Frage 24)
 
 Testausführungsplan = Testsuite
 
+Entscheidungstest
+- Abscni
+
 Review der **Testbasis** (Frage 3)
