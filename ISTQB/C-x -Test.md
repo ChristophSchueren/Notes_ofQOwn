@@ -1,4 +1,5 @@
 C-x -Test
 =========
 
-C1: Anweisungsüberde
+C1: Anweisungsüberdeckung
+C2: Zweigüberdeckung
