@@ -9,3 +9,5 @@ C2: Pfadüberdeckung
 C3: Entscheidungsüberdeckung (Bedingungsüberdeckung)
 > jede atomare Bedingung wird einmal mit true und false getestet
 
+Mehrfachbedingungsüberdeckung > Pfadüberdeckung > Zweigüberdekcung 
+
