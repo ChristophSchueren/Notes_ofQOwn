@@ -16,3 +16,9 @@ Phasen des Tests
 
 
 ---
+
+A: Testrealisierung und -durchfuehrung
+B: Testplanung- und Steuerung
+C: Abschluss der Testaktivitaeten
+D: Testanalyse und Design
+E: Bewertung von Ausgangskriterien und Bericht 
