@@ -5,6 +5,7 @@ Phasen des Tests
 1. Testplanung und Steuerung
 
 2. Testanalyse und Design
+	- Testbasi
 
 
 Should have chosen	
