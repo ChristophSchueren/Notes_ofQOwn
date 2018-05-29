@@ -5,7 +5,8 @@ Phasen des Tests
 1. Testplanung und Steuerung
 
 2. Testanalyse und Design
-	- Testbasi
+	- Testbasis (Dokumente, Spezifikationen) werden gesichtet
+	- 
 
 
 Should have chosen	
