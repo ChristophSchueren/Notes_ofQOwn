@@ -1,6 +1,6 @@
 Phasen des Tests
 ================
-> 
+> Kurzbeschreibungen
 	
 Testplanung und Steuerung
 
