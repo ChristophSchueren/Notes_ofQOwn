@@ -13,6 +13,7 @@ Phasen des Tests
 	- protokolliert
 
 4. Abschluss der Testaktivitaeten
+	> VOR Bericht
 
 
 ---
@@ -22,3 +23,4 @@ B: Testplanung- und Steuerung
 C: Abschluss der Testaktivitaeten
 D: Testanalyse und Design
 E: Bewertung von Ausgangskriterien und Bericht 
+
