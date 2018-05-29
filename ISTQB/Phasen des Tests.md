@@ -1,6 +1,5 @@
 Phasen des Tests
 ================
-> Kurzbeschreibungen
 	
 1. Testplanung und Steuerung
 
@@ -10,12 +9,7 @@ Phasen des Tests
 
 3. Testrealisierung und Durchfuehrung
 	- konkrete Testfälle werden erstellt
-	- konkrete T
+	- konkrete Testfälle werden durchgeführt
+	- protokolliert
 
-
-Should have chosen	
-
-Wrong	
-
-
-Abschluss der Testaktivitaeten
+4. Abschluss der Testaktivitaeten
