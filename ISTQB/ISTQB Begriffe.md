@@ -8,6 +8,8 @@ Fehlerzustand - defect
 Fehlerwirkung - failure
 
 
+Übernahmetest = Smoke-Test
+
 
 Wartungstest
 - = Test eines Systems nach einer Änderung (z.B. der Umgebung)
