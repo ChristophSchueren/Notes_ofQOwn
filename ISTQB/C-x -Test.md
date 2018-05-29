@@ -4,6 +4,8 @@ C-x -Test
 C0: Anweisungsüberdeckung
 C1: Zweigüberdeckung = Entscheidungsüberdeckungstest
 
-C3: Entscheidungsüberdeckung
+C2: Pfadüberdeckung
 
-C4: Pfadüberdeckung
+C3: Entscheidungsüberdeckung
+jede atomare Bedingung wird einmal mit true und false getestet
+
