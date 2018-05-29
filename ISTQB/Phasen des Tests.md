@@ -13,7 +13,7 @@ Phasen des Tests
 	- protokolliert
 
 4. Abschluss der Testaktivitaeten
-	> VOR Bericht
+	- erfolgt **VOR Bericht**
 
 5. Bewertung von Ausgangskriterien und Bericht 
 
