@@ -2,10 +2,12 @@ Phasen des Tests
 ================
 > Kurzbeschreibungen
 	
-Testplanung und Steuerung
+1. Testplanung und Steuerung
+
+2. Testanalyse und Design
+
 
 Should have chosen	
-Testanalyse und Design
 
 Wrong	
 Testrealisierung und Durchfuehrung
