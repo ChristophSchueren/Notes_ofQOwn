@@ -6,12 +6,16 @@ Phasen des Tests
 
 2. Testanalyse und Design
 	- Testbasis (Dokumente, Spezifikationen) werden gesichtet
-	- logische Testfälle werden er
+	- logische Testfälle werden erstellt
+
+3. Testrealisierung und Durchfuehrung
+	- konkrete Testfälle werden erstellt
+	- konkrete T
 
 
 Should have chosen	
 
 Wrong	
-Testrealisierung und Durchfuehrung
+
 
 Abschluss der Testaktivitaeten
