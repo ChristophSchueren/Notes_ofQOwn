@@ -5,7 +5,7 @@ ISTQB Begriffe
 
 Fehlhandlung -
 Fehlerzustand -
-Fehlerwirkung -
+Fehlerwirkung - failure
 
 
 
