@@ -35,7 +35,7 @@ Testspezifikation = Testfallspezifikation
 
 Fehlerangriffe (Muster-Frage 24)
 
-Testausführungsplan = Testsuite
+Testausführungsplan = Testsuite = Testablaufspezifikation = Tes
 
 Entscheidungstest
 - Abschnitt 4.4.2
