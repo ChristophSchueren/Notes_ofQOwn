@@ -4,7 +4,7 @@ ISTQB Begriffe
 ### Englisch
 
 Fehlhandlung -
-Fehlerzustand -
+Fehlerzustand - defect
 Fehlerwirkung - failure
 
 
