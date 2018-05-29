@@ -6,7 +6,7 @@ Phasen des Tests
 
 2. Testanalyse und Design
 	- Testbasis (Dokumente, Spezifikationen) werden gesichtet
-	- 
+	- logische Testfälle werden er
 
 
 Should have chosen	
