@@ -13,3 +13,7 @@ Clipboard tools
 
 - Textbausteinverwaltung (Free for all, auch commercial)
 	- https://www.jbsoftware.de/textbausteinverwaltung/index.htm
+
+
+Pasted formated Text (Webpage)
+- a) as plain test
