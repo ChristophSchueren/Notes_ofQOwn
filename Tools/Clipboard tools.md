@@ -17,7 +17,7 @@ Clipboard tools
 
 Pasted formated Text (Webpage)
 - a) as plain text
-- b) as 
+- b) as **markdown** (.md)
 
 
-Sharex is good for screenimage cropping
+Sharex is good for screen image cropping
