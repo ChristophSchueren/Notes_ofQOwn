@@ -16,4 +16,8 @@ Clipboard tools
 
 
 Pasted formated Text (Webpage)
-- a) as plain test
+- a) as plain text
+- b) as 
+
+
+Sharex is good for screenimage cropping
