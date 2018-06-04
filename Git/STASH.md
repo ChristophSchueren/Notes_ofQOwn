@@ -2,6 +2,13 @@ STASH
 =====
 >  git stash push -m stashname is the current syntax. git stash save stashname has been deprecated
 
+```
+ git stash [push [--patch] [-k|--[no-]keep-index] [-q|--quiet]
+                       [-u|--include-untracked] [-a|--all] [-m <message>]
+                       [-- <pathspec>...]]
+```
+
+
 ## everything
 git ss "neuerName"
 > stash save
