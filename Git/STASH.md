@@ -17,7 +17,7 @@ git stash save "guacamole sauce WIP"
 
 ## only staged (in index)
 alias git ssi "nameofstash"
-git stash push ---m stashname
+git stash push --index -m <stashname>
 
 ## only unstaged
 
