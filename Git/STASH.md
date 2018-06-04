@@ -12,6 +12,8 @@ git stash --keep-index
 
 ```
 
+git stash save "guacamole sauce WIP"
+
 ## only staged
 
 ## only unstaged
