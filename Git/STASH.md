@@ -5,6 +5,9 @@ STASH
 git ss "neuerName"
 > stash save
 
+## everything keeping index
+
+
 ## only staged
 
 ## only unstaged
