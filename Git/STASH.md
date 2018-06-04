@@ -1,5 +1,6 @@
 STASH
 =====
+>  git stash push -m stashname is the current syntax. git stash save stashname has been deprecated
 
 ## everything
 git ss "neuerName"
