@@ -1,4 +1,4 @@
 Tools GUI
 =========
 
-1. NoSQL Manage (freeware, private USE) https://www.mongodbmanager.com/
+1. NoSQL Manage (freeware, private USE) https://www.mongodbmanager.com/	enthält 
