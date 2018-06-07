@@ -10,7 +10,7 @@ import { empty } from "rxjs/observable/empty";
 import { of } from "rxjs/observable/of";
 
 empty() //completes ;
-of({}) //does not complete;
+of({}) //does NOT complete;
 ```
 
 > Just one thing to keep in mind, empty() completes the observable, so it won't trigger next in your stream, only completes! So if you have tap for instance they might not get trigger as you wish (see example below).
