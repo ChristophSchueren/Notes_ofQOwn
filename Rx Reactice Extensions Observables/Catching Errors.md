@@ -23,7 +23,7 @@ this.users$ = httpClient.get<User[]>('/api/users').pipe(
         // Otherwise you won't see an error in the console.
         console.error('error loading the list of users', error);
         loadingError$.next(true);
-        return of(); // erzeugt kei
+        return of(); // KEIN neuer 
       })
     );
 ```
