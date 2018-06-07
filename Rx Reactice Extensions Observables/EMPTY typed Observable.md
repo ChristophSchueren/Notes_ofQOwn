@@ -18,4 +18,4 @@ of({}) //does NOT complete;
 > whereas of({}) creates an observable and emits next with a value of {}, it won't complete the observable alone, perhaps you should do of({}).pipe(take(1)) to emit and complete.
 
 
-return new Observable<T>(o => {});
+`return new Observable<T>((o) => {});`// Funktion ohne alles; schließt nicht
