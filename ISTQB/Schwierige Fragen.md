@@ -3,7 +3,7 @@ Schwierige Fragen
 
 Was ist KEINE Aufgabe des Testens?
 - Informationen bereitstellen?
-- 
+- Fehlerursachen finden?
 
 
 Wann mit Review des Dokuments beginnen
