@@ -22,3 +22,6 @@ script fähig
    Set "_Tesseract="
 ```
 **VietOCR.NET** is a GUI for Tesseract private
+
+hat Option Datei-Bar oben:
+
