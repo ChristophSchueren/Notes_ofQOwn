@@ -197,4 +197,5 @@ Neue Einträge wurden aber gelöscht!!!
 Wo werden DB Drop ausgeführt???
 Im Java Code
 
-- Item Entso
+- Item Entsorgen
+- Check if User exists (eigentlich nu)
