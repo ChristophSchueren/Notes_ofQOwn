@@ -189,3 +189,9 @@ Diagnose: Datenbank Changelog (Mongobee) zeigt keine Auffälligkeiten, keine neu
 
 
 ```
+
+Die noch bestehenden Einträge sind ALT.
+Neue Einträge wurden aber gelöscht!!!
+
+
+Wo werden DB Drop 
