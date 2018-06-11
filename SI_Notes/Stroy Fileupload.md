@@ -14,7 +14,6 @@ Optional
 	a. als enum
 		- user allowed
 7. User die Möglichkeit geben bestimmte Dateien, z.B. TÜV-Prüfberichte eines Autos hochzuladen
-	- Möglichkeit muss VORAB von O
-
+	- Möglichkeit muss VORAB von Office zu dem jeweilgen Geraet eingetragen sein (Autorisierung) - jeder Halter einer Sach
 
 Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** vom Typ Eigenschaften
