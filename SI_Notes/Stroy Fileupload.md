@@ -13,7 +13,8 @@ Optional
 6. Berechtigungsattribut: Darf User diese Datei herunterladen
 	a. als enum
 		- user allowed
+		- user not allowed
 7. User die Möglichkeit geben bestimmte Dateien, z.B. TÜV-Prüfberichte eines Autos hochzuladen
-	- Möglichkeit muss VORAB von Office zu dem jeweilgen Geraet eingetragen sein (Autorisierung) - jeder Halter des Asset hat dann diese Möglichke
+	- Möglichkeit muss VORAB von Office zu dem jeweilgen Geraet eingetragen sein (Autorisierung) - jeder Halter des Asset hat dann diese Möglichkeit
 
 Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** vom Typ Eigenschaften
