@@ -9,7 +9,8 @@ Stroy Fileupload
 
 Optional
 4. Datei-Größe
-5. 
+5. Hash Prüfsumme
+6. Berechtigungsattribut: Darf User diese Datei herunterladen
 
 
 Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** vom Typ Eigenschaften
