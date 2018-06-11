@@ -201,4 +201,4 @@ Im Java Code
 - Check if User exists (eigentlich nur lesen)
 - Pre-Write service
 
-Ursächlich möglicherweise 
+Ursächlich möglicherweise: Öffnen  der Datenbank mit alter java-App. Aber Mongobee hat keinen Eintrag angelegt
