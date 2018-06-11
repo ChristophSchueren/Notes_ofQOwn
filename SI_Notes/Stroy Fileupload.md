@@ -5,7 +5,7 @@ Stroy Fileupload
 
 1. Datename inclusive Endung
 2. Zugehöriges geraet zur Datei
-
+3. individueller Text für Beschreibung: z.
 
 
 Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** vom Typ Eigenschaften
