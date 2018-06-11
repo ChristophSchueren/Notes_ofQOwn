@@ -202,3 +202,6 @@ Im Java Code
 - Pre-Write service
 
 Ursächlich möglicherweise: Öffnen  der Datenbank mit alter java-App. Aber Mongobee hat keinen Eintrag angelegt
+
+Nächtes: wie lautet das DB log
+Oplog?
