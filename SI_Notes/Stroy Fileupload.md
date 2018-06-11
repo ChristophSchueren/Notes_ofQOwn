@@ -11,7 +11,9 @@ Optional
 4. Datei-Größe
 5. Hash Prüfsumme
 6. Berechtigungsattribut: Darf User diese Datei herunterladen
-	als enum
+	a. als enum
+		- user allowed
+7. User die Mögl
 
 
 Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** vom Typ Eigenschaften
