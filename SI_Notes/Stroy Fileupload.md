@@ -1,4 +1,7 @@
 Stroy Fileupload
 ================
 
-## Daten, die 
+## Daten, die für Datei erfasst werden müssen
+
+
+## Idee: Backend enthält 
