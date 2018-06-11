@@ -198,4 +198,7 @@ Wo werden DB Drop ausgeführt???
 Im Java Code
 
 - Item Entsorgen
-- Check if User exists (eigentlich nu)
+- Check if User exists (eigentlich nur lesen)
+- Pre-Write service
+
+Ursächlich möglicherweise 
