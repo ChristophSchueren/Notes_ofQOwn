@@ -194,4 +194,7 @@ Die noch bestehenden Einträge sind ALT.
 Neue Einträge wurden aber gelöscht!!!
 
 
-Wo werden DB Drop 
+Wo werden DB Drop ausgeführt???
+Im Java Code
+
+- Item Entso
