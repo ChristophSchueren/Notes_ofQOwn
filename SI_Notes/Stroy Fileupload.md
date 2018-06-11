@@ -13,7 +13,8 @@ Optional
 6. Berechtigungsattribut: Darf User diese Datei herunterladen
 	a. als enum
 		- user allowed
-7. User die Möglichkeit geben bestimmte Dateien, z.B. TÜV-Prüfberichte eines Autos hoc
+7. User die Möglichkeit geben bestimmte Dateien, z.B. TÜV-Prüfberichte eines Autos hochzuladen
+	- Möglichkeit muss VORAB von O
 
 
 Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** vom Typ Eigenschaften
