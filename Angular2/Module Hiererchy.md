@@ -1,7 +1,7 @@
 Module Hiererchy
 ================
 
-*Every* module where components, directives, or pipes are used need to have the module that provides these listed in imports: []
+*Every* module where components, directives, or pipes are used need to have the module that provides these listed in `imports: []`
 
 It is not enough to import them in AppModule only.
 
