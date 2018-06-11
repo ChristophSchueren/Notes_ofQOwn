@@ -25,3 +25,6 @@ script fähig
 
 hat Option Datei-Bar oben:
 
+**Command > Bulk OCR**
+
+can export to .txt in different folder
