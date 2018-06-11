@@ -21,4 +21,4 @@ script fähig
    Set "_OutputPath="
    Set "_Tesseract="
 ```
-VietOCR.NET is 
+**VietOCR.NET** is a GUI for Tesseract private
