@@ -23,4 +23,5 @@ Idee: Entität Geraets im Backend erhält zusätzliches Attribut **dateiLinks** 
 - value = URL z.B. file://dropbox.com/Spiritinventory/Assets/123/handbuchEN.pdf
 
 - weitere denkbare Attribute
-- 
+	- Berechtigung
+	- Upload-Datum
