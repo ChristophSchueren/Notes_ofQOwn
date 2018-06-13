@@ -27,4 +27,8 @@ DOPPELTEN Datei-Namen verhindern!!!
 	- Berechtigung
 	- Upload-Datum
 	- Kommentar
+	- Name
+	- URL
+	- Checksum
+	- version
 
