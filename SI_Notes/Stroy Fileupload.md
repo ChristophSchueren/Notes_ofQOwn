@@ -26,4 +26,5 @@ DOPPELTEN Datei-Namen verhindern!!!
 - weitere denkbare Attribute
 	- Berechtigung
 	- Upload-Datum
+	- Kommentar
 
