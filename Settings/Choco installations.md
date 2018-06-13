@@ -3,6 +3,6 @@ Choco installations
 
 # Installed Prorgrams
 
-choco install jhipster
+choco install jhipster -y
 
 # Insatllation Command
