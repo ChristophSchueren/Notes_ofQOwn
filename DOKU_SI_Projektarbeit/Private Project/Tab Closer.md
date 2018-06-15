@@ -1,4 +1,4 @@
 Tab Closer
 ==========
 
-Auf eine
+Auf einen Klick ALLE google.de google.com Tabs schließen können
