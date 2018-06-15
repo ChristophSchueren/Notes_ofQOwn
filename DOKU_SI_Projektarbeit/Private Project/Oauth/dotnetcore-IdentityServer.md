@@ -7,3 +7,7 @@ dotnet new -i identityserver4.templates
 dotnet new is4admin
 
 ### ausführen
+
+dotnet run
+
+### Weboberf
