@@ -1,7 +1,9 @@
 Search-Kontext Words
 ==============
 
-Als Entwickler muss ich mich in mehrere Themenfelder einarbeiten und danach googeln. Ich möchte meine Suchbegriffe je Themenfeld pfl
+Als Entwickler muss ich mich in mehrere Themenfelder einarbeiten und danach googeln. Ich möchte meine Suchbegriffe je Themenfeld pflegen und sie schnell einsatzbereit haben
+
+Ähnlich: 
 
 
 Diese Wörte sollen dazu verwendet werden können um
