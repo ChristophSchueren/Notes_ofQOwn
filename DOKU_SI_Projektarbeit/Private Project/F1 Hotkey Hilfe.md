@@ -1,10 +1,13 @@
 F1 Hotkey Hilfe
 ===============
 
+## User-Story
+Als Benutzer einer Anwendung mä
+
 - Realisierung mit
 	- Autohotkey
 	- HTML
 	- AHK libraries
 
-## Beschreibung
-Kontext-sensitives bildschirm-füllendes Overlay-Fenst
+## Realisierungsdetails Beschreibung
+Kontext-sensitives bildschirm-füllendes Overlay-Fenster
