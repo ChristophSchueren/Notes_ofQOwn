@@ -10,4 +10,5 @@ dotnet new is4admin
 
 dotnet run
 
-### Weboberf
+### Weboberfläche
+http://localhost:5000/admin
