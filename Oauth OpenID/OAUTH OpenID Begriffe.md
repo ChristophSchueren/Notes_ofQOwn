@@ -10,4 +10,5 @@ Client über den Parameter scope mit, für welche Ressourcen er welche Art von Z
 Kompliziertheit des Verfahrens, nach dem das AccesToken erstellt werden soll. Bestimmt Anwendungsmöglichkeiten (?)
 z.B: "Implicit", "Refresh Token", "Authorization Code",...
 
-## Authentifizierung des Client
+## Authentifizierung (Überprüfung der Identität) des Client
+- ""
