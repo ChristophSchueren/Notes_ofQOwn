@@ -37,7 +37,9 @@ file = gridOperations.findOne(Query.query(Criteria.where("_id").is(id))); InputS
 > WORAUF muss die gridOperation angewendet werden???
 	- eigentlich db: spiritInventory, collection: fs.files
 
-###  Vorschlag 
+###  Vorschlag Mapper Klasse
+```
+
 @Document(collection="fs.files")
 public class MyGridFsFile {
 
@@ -54,3 +56,4 @@ public class MyGridFsFile {
     ...
 
 }
+```
