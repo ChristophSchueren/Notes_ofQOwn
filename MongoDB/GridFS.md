@@ -4,5 +4,7 @@ GridFS
 ### commandline
 `mongofiles /db:spiritInventory put .bashrc.bat`
 
-### erzeugt
-- in Datenbank "s"
+#### erzeugt
+- in Datenbank "spiritInventory"
+- Collection fs.files
+- Collection fs.chunks
