@@ -62,5 +62,5 @@ public class MyGridFsFile {
 ```
 
 {
-private }
+private void set }
 ```
