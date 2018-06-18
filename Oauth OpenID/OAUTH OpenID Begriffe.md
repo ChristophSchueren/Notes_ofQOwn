@@ -13,3 +13,7 @@ z.B: "Implicit", "Refresh Token", "Authorization Code",...
 ## Authentifizierung (Überprüfung der Identität) des Client
 - "Public clients" nur cleint_id
 - optional: "client_secret"
+
+## Authorization Request
+
+
