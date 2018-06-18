@@ -52,4 +52,4 @@ yarn start
 mvn clean test
 yarn e2e
 
-#### java en
+#### Java end-to-end Integration-Tests
