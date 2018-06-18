@@ -7,6 +7,18 @@ GridFS
 #### erzeugt
 - in Datenbank "spiritInventory"
 - Collection fs.files
+```
+
+{
+    "_id" : ObjectId("5b27a52d66f32710a4388921"),
+    "chunkSize" : 261120,
+    "uploadDate" : ISODate("2018-06-18T12:27:25.444Z"),
+    "length" : 138,
+    "md5" : "118772cdac4699566517de014d9d7dd1",
+    "filename" : ".bashrc.bat"
+}
+```
+
 - Collection fs.chunks
 
 #### in Spring
