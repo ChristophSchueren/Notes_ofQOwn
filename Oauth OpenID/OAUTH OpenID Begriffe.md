@@ -20,6 +20,6 @@ z.B: "Implicit", "Refresh Token", "Authorization Code",...
 Rücksprung URI vom Authentication Server
 
 ## Passwort-Anti-Pattern
-droht bei GrantType = "Resource Owner Passwerd Credentials"
+droht bei GrantType = "Resource Owner Passwerd Credentials" (von machen S)
 
 
