@@ -1,5 +1,8 @@
 GridFS
 ======
+# Workflow:
+
+
 
 ### commandline
 `mongofiles /db:spiritInventory put .bashrc.bat`
