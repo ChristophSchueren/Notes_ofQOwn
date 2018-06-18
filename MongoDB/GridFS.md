@@ -17,4 +17,8 @@ public GridFsTemplate(MongoDbFactory dbFactory, MongoConverter converter, String
 ```
 
 
-###
+### Without GridFsTemplate
+```
+
+file = gridOperations.findOne(Query.query(Criteria.where("_id").is(id))); InputStream is = file.getInputStream();
+```
