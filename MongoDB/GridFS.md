@@ -61,7 +61,9 @@ public class MyGridFsFile {
 #### meine Ergänzung auf metadata write
 ```
 @Document
-DateiAnhangMetadata
+public class DateiAnhangMetadata {
+// ergaenze get
+}
 
 
 
