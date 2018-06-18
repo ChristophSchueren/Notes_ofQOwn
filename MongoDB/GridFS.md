@@ -4,7 +4,8 @@ GridFS
 1. Upload file
 	- file entry wird angelegt
 2. Listeneintrag wird angezeigt
-
+3. Metadata wie beschreibung werden eingetragen
+	- 
 
 
 ### commandline
