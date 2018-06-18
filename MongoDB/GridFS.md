@@ -35,3 +35,6 @@ public GridFsTemplate(MongoDbFactory dbFactory, MongoConverter converter, String
 file = gridOperations.findOne(Query.query(Criteria.where("_id").is(id))); InputStream is = file.getInputStream();
 ```
 > WORAUF muss die gridOperation angewendet werden???
+	- eigentlich db: spiritInventory, 
+
+###
