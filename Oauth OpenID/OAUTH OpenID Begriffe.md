@@ -16,4 +16,6 @@ z.B: "Implicit", "Refresh Token", "Authorization Code",...
 
 ## Authorization Request
 
-##
+## redirect_uri
+Rücksprung URI vom Authentication Server
+
