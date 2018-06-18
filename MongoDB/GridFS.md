@@ -1,6 +1,9 @@
 GridFS
 ======
 # Workflow:
+1. Upload file
+	- file entry wird angelegt
+2. Listeneintrag wird angezeigt
 
 
 
