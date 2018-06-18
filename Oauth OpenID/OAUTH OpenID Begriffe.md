@@ -16,4 +16,4 @@ z.B: "Implicit", "Refresh Token", "Authorization Code",...
 
 ## Authorization Request
 
-
+##
