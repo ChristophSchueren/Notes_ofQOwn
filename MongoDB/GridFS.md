@@ -8,3 +8,6 @@ GridFS
 - in Datenbank "spiritInventory"
 - Collection fs.files
 - Collection fs.chunks
+
+#### in Spring
+GridFsTemplate
