@@ -62,7 +62,10 @@ public class MyGridFsFile {
 ```
 @Document
 public class DateiAnhangMetadata {
-// ergaenze get
+private String beschreibung
+
+
+// ergaenze getter, setter
 }
 
 
