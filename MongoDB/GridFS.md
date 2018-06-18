@@ -6,7 +6,7 @@ GridFS
 2. Listeneintrag wird angezeigt
 3. Metadata wie beschreibung werden eingetragen
 	- speichern inline?
-	- inpuonchange event
+	- input element: onchange event
 
 
 ### commandline
