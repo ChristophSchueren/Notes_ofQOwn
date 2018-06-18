@@ -5,7 +5,8 @@ GridFS
 	- file entry wird angelegt
 2. Listeneintrag wird angezeigt
 3. Metadata wie beschreibung werden eingetragen
-	- 
+	- speichern inline?
+	- inpuonchange event
 
 
 ### commandline
