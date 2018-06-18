@@ -11,5 +11,7 @@ GridFS
 
 #### in Spring
 GridFsTemplate
-`
-`
+```
+
+public GridFsTemplate(MongoDbFactory dbFactory, MongoConverter converter, String bucket)
+```
