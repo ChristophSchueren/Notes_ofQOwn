@@ -63,6 +63,7 @@ public class MyGridFsFile {
 @Document
 public class DateiAnhangMetadata {
 private String beschreibung;
+private String berechtigung; // 
 
 
 
