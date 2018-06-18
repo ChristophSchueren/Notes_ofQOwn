@@ -11,4 +11,5 @@ Kompliziertheit des Verfahrens, nach dem das AccesToken erstellt werden soll. Be
 z.B: "Implicit", "Refresh Token", "Authorization Code",...
 
 ## Authentifizierung (Überprüfung der Identität) des Client
-- ""
+- "Public clients" nur cleint_id
+- 
