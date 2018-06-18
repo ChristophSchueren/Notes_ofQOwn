@@ -51,3 +51,5 @@ yarn start
 #### Tests
 mvn clean test
 yarn e2e
+
+#### java en
