@@ -19,3 +19,5 @@ z.B: "Implicit", "Refresh Token", "Authorization Code",...
 ## redirect_uri
 Rücksprung URI vom Authentication Server
 
+## Passwort-Anti-Pattern
+droht bei GrantType = 
