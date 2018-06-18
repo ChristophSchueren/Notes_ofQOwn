@@ -83,3 +83,9 @@ private String berechtigung; // besser als enum
 {
 private void set }
 ```
+
+
+### Spring ignore Attribute
+
+
+
