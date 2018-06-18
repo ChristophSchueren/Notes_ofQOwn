@@ -4,3 +4,6 @@ OAUTH OpenID Begriffe
 ## scope
 Client über den Parameter scope mit, für welche Ressourcen er welche Art von Zugriff anfordert. Der Wert von scope ist nicht durch den OAuth-Standard spezifiziert, ihn definieren derzeit jeder einzelne Autorisierungsserver sowie einzelne APIs selbst. Im Beispiel signalisiert der Client, dass er auf die Kontakte des Benutzers zugreifen möchte.
 
+## claim
+
+## Grant
