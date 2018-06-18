@@ -60,6 +60,10 @@ public class MyGridFsFile {
 
 #### meine Ergänzung auf metadata write
 ```
+@Document
+
+
+
 
 {
 private void set }
