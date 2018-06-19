@@ -1,6 +1,8 @@
 OAUTH OpenID Begriffe
 ========================
 
+
+
 ### Funktion:  Identity Providing
 
 ## scope
