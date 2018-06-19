@@ -1,7 +1,7 @@
 OAUTH OpenID Begriffe
 ========================
 
-
+>  relOpenID Connect (OIDC) since OIDC is an authentication layer built on top of OAuth 2.0. 
 
 ### Funktion:  Identity Providing
 
