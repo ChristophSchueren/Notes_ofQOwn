@@ -12,6 +12,10 @@ GridFS
 ### commandline
 `mongofiles /db:spiritInventory put .bashrc.bat`
 
+set bucket string
+
+set metadata JSON object
+
 #### erzeugt
 - in Datenbank "spiritInventory"
 - Collection fs.files
