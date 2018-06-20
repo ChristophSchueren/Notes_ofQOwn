@@ -28,6 +28,22 @@ FileDownloadRessource.java
 
 # DateiUpload (Mulitpart)
 
+/**
+     * Endpoint zum multi-file upload
+     * Inhalt wird verworfen > nul
+     * needs authentication
+     */
+    @PostMapping("/datei-anhangs/upload")
+    @Secured({AuthoritiesConstants.ADMIN, AuthoritiesConstants.OFFICE})
+    @Timed
+    public ResponseEntity<DateiAnhang> uploadFile(@RequestBody MultipartFile multipartFile) throws URISyntaxException, IOException {
+        log.debug("REST request to UPload file : {}", multipartFile.getName());
 
+        DateiAnhang result = dateiAnhangService.saveFile(multipartFile, "geraetIdDummy");
+        return ResponseEntity.created(new URI("/api/datei-anhangs/" + result.getId()))
+            .headers(HeaderUtil.createEntityCreationAlert(ENTITY_NAME, result.getId().toString()))
+            .body(result);
+
+    }
 
 
