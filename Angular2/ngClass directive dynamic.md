@@ -8,3 +8,5 @@ isZurRueckgabe = true;
 
 `[ngClass]="[iconclass]"`
 
+
+iconclass = ''
