@@ -6,4 +6,5 @@ ngClass directive dynamic
 isZurRueckgabe = true;
 
 
+`[ngClass]="[iconclass]"`
 
