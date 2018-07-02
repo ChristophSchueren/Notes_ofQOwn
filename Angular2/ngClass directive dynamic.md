@@ -6,7 +6,7 @@ ngClass directive dynamic
 isZurRueckgabe = true;
 
 
-`[ngClass]="[iconclass]"`
+`[ngClass]="[iconclass, class2]"`
 
 
-iconclass = ''
+iconclass = 'fa-circle';
