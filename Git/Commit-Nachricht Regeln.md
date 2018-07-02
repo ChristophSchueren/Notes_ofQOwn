@@ -5,6 +5,6 @@ Commit-Nachricht Regeln
 - Subject auf 50 Zeichen beschränken.
 - Subject mit einem Großbuchstaben beginnen.
 - Subject nicht mit einem Punkt beenden.
-- Im Subject den Imperativ benutzen.
+- Im Subject den Imperativ benutzen. ()
 - Den Body bei 72 Zeichen umbrechen.
 - Erklären was und warum geändert wurde und nicht wie.
