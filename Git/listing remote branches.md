@@ -12,3 +12,9 @@ If you already have a local branch and want to set it to a remote branch you jus
 `git branch -u origin/serverBranch`
 
 git branch -vv
+
+# Show remote Branches list
+
+git branch commands’ various options. -a shows all local and remote branches, while -r shows only remote branches.
+
+
