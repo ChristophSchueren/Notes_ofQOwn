@@ -15,6 +15,8 @@ git branch -vv
 
 # Show remote Branches list
 
-git branch commands’ various options. -a shows all local and remote branches, while -r shows only remote branches.
+git branch commands’ various options. -a shows all local and remote branches, while -r shows only *remote* branches.
 
+`git branch -a`
 
+`git branch -r`
