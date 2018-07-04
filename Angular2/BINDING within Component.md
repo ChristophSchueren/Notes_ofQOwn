@@ -1,0 +1,3 @@
+BINDING within Component
+========================
+
