@@ -1,5 +1,5 @@
 BINDING within Component
 ========================
 
- @ViewChild(NgModel) model: NgModel; // wird automatisch populat
+ @ViewChild(NgModel) model: NgModel; // populated automatically
 
