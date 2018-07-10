@@ -18,3 +18,6 @@ export interface IStorage {
     observe(key: string): EventEmitter<any>;
 }
  
+
+## Angular EventEmitter
+
