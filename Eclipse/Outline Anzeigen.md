@@ -7,4 +7,5 @@ nach Klasse:
 
 
 Klassendiagram UML
-(Plugin?)
+(Plugin?
+)
