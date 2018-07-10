@@ -8,3 +8,8 @@ Start Spring With Custom DB name
 > spiritInventoryTest
 
 ### Configuration Parameter names
+
+@get....
+
+
+### mvn parameters for spring
