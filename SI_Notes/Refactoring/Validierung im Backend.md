@@ -28,3 +28,4 @@ Entities: Geraet, Buchung
 ValidationService
 MongoDbReferenceChecker
 MultiStringList Validation (Firmen-Namen)
+BerechtigungCheckService
