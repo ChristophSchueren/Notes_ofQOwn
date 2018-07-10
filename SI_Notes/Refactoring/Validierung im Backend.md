@@ -22,3 +22,8 @@ Validationservice.validate(Entitytype Object){
 
 static classname setValidator(Validationservice validationService) {
 } 
+
+# Relevante Dateien
+Entities: Geraet, 
+ValidationService
+MongoDbReferenceChecker
