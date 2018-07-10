@@ -11,7 +11,7 @@ Abhängigkeiten: Welcher Service injeziert welchen?
 - Analog "Strategy pattern"
 - bool validate() {
 	if (!validationService) {
-	throw new Ex}
+	throw new Exception ("ValdiationService not injected into" + this.class.getName };
 	return Entity.validator.validate(this)
 }
 
