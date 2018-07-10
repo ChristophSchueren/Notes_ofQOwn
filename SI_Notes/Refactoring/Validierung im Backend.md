@@ -25,7 +25,6 @@ static classname setValidator(Validationservice validationService) {
 
 # Relevante Dateien
 Entities: Geraet, Buchung
-ValidationService
+ValidationService (MultiStringList Validation (Firmen-Namen))
 MongoDbReferenceChecker
-MultiStringList Validation (Firmen-Namen)
 BerechtigungCheckService
