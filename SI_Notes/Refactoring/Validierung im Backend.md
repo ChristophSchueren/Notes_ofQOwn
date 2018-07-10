@@ -17,3 +17,6 @@ wie inject statically???
 
 Validationservice.validate(Entitytype Object){
 }
+
+static classname setValidator(Validationservice validationService) {
+ 
