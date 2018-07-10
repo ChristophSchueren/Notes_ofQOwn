@@ -7,4 +7,6 @@ Abhängigkeiten: Welcher Service injeziert welchen?
 
 # Valdiation näher an Entity
 
-- clas
+- class static inject Validationservice
+- Analog "Strategy pattern"
+- bool 
