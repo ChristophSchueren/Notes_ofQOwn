@@ -1,5 +1,10 @@
 Outline Anzeigen
 ================
 
-Klasse:
- Methodne
+nach Klasse:
+- Methoden
+- Variablen
+
+
+Klassendiagram UML
+(Plugin?)
