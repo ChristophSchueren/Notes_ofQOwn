@@ -2,6 +2,10 @@ EventEmitter
 ============
 in @angular\core\src\event_emitter.d.ts
 
+### Methoden:
+emit
+subscribe
+
 ```
 
 export declare class EventEmitter<T> extends Subject<T> {
