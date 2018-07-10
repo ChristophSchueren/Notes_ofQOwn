@@ -12,6 +12,7 @@ Abhängigkeiten: Welcher Service injeziert welchen?
 - bool validate() {
 	if (!validationService) {
 	throw new Exception ("ValdiationService not injected into" + this.class.getName };
+	// TODO: Do Validation by Class Attributes @NotNull first...
 	return Entity.validator.validate(this)
 }
 
