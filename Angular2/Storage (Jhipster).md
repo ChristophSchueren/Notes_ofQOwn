@@ -7,3 +7,5 @@ import { WebStorageService } from './webStorage';
 export declare class SessionStorageService extends WebStorageService implements IStorage {
     constructor();
 }
+
+## Interface Is 
