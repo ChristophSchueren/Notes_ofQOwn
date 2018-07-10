@@ -28,6 +28,6 @@ static classname setValidator(Validationservice validationService) {
 Entities: Geraet, Buchung
 - keine Service-Importe
 ValidationService (MultiStringList Validation (Firmen-Namen))
-
+****
 MongoDbReferenceChecker
 BerechtigungCheckService
