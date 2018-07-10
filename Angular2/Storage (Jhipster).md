@@ -38,3 +38,5 @@ export declare class EventEmitter<T> extends Subject<T> {
     subscribe(generatorOrNext?: any, error?: any, complete?: any): any;
 }
 ```
+
+## Check 
