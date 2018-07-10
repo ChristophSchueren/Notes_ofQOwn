@@ -14,3 +14,6 @@ Abhängigkeiten: Welcher Service injeziert welchen?
 }
 
 wie inject statically???
+
+Validationservice.validate(Entitytype Object){
+}
