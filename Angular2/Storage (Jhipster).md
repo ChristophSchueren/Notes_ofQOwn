@@ -39,4 +39,11 @@ export declare class EventEmitter<T> extends Subject<T> {
 }
 ```
 
-## Check 
+## Check if Browser has storage availiable
+```
+import { isStorageAvailable } from 'ngx-webstorage-service';
+ 
+const sessionStorageAvailable = isStorageAvailable(sessionStorage);
+ 
+console.log(`Session storage available: ${sessionStorageAvailable}`);
+```
