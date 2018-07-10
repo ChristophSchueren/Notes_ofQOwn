@@ -15,7 +15,7 @@ Abhängigkeiten: Welcher Service injeziert welchen?
 	return Entity.validator.validate(this)
 }
 
-wie inject statically???
+wie inject statically into class, z.B. Geraet???
 
 Validationservice.validate(Entitytype Object){
 }
