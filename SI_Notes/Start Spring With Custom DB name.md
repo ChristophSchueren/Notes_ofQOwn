@@ -12,4 +12,4 @@ Start Spring With Custom DB name
 @get....
 
 
-### mvn parameters for spring
+### mvn parameter [uebergabe] for Spring
