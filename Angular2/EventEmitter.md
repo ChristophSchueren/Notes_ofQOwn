@@ -1,6 +1,6 @@
 EventEmitter
 ============
-in 
+in @angular\core\src\event_emitter.d.ts
 
 ```
 
