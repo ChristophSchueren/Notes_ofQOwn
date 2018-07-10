@@ -13,6 +13,6 @@ Routing im Template
 
 ### [routerLink]
 
-### replaceUrl
+### replaceUrl = "true"
 
-### query
+### queryParamsHandling
