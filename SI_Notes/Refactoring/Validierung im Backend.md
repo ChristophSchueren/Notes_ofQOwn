@@ -10,4 +10,7 @@ Abhängigkeiten: Welcher Service injeziert welchen?
 - class static inject Validationservice
 - Analog "Strategy pattern"
 - bool validate() {
-	Entity.validator}
+	return Entity.validator.validate(this)
+}
+
+wie inject statically???
