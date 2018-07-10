@@ -10,6 +10,7 @@ export declare class SessionStorageService extends WebStorageService implements 
 
 ## Interface IStorage is cool with observables
 
+```
 import { EventEmitter } from '@angular/core';
 export interface IStorage {
     store(key: string, value: any): void;
@@ -18,6 +19,22 @@ export interface IStorage {
     observe(key: string): EventEmitter<any>;
 }
  
+```
+
 
 ## Angular EventEmitter
-
+```
+export declare class EventEmitter<T> extends Subject<T> {
+    __isAsync: boolean;
+    /**
+     * Creates an instance of {@link EventEmitter}, which depending on `isAsync`,
+     * delivers events synchronously or asynchronously.
+     *
+     * @param isAsync By default, events are delivered synchronously (default value: `false`).
+     * Set to `true` for asynchronous event delivery.
+     */
+    constructor(isAsync?: boolean);
+    emit(value?: T): void;
+    subscribe(generatorOrNext?: any, error?: any, complete?: any): any;
+}
+```
