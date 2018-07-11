@@ -22,5 +22,5 @@ public class ScheduledTasks {
     }
 }
 ```
-
-Jede Methode einer Klasse kann mit scheduled automatisch gestartet werden
+> @Scheduled(fixedRate = 5000)
+Jede Methode einer Klasse kann mit @Scheduled automatisch gestartet werden
