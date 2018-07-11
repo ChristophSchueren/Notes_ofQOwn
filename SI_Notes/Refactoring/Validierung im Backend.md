@@ -2,10 +2,11 @@ Validierung im Backend
 ======================
 
 # Problem: 
-Dateien werden für Validierung und später Ausgabe möglicherweise mehrfach aus Datenbank gelesen und ni
+Dateien werden für Validierung und später Ausgabe möglicherweise mehrfach aus Datenbank gelesen und nicht gecached
 
 # Validation Service
 Abhängigkeiten: Welcher Service injeziert welchen?
+@ aut
 
 
 # Valdiation näher an Entity
