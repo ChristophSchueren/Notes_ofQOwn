@@ -41,3 +41,4 @@ BerechtigungCheckService
 
 # Declaration
 declarative validation via @Valid
+exlicit function call
