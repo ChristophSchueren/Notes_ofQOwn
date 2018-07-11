@@ -1,0 +1,4 @@
+tests
+=====
+
+`mvn surfire:test`
