@@ -39,4 +39,5 @@ ValidationService (MultiStringList Validation (Firmen-Namen))
 MongoDbReferenceChecker
 BerechtigungCheckService
 
-# 
+# Declaration
+declarative validation via @Valid
