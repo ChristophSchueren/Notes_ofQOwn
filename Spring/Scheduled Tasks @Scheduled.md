@@ -23,3 +23,4 @@ public class ScheduledTasks {
 }
 ```
 
+Jede Methode einer Klasse kann mit scheduled automatisch gestartet werden
