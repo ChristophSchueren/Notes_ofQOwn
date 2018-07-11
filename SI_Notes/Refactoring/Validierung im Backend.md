@@ -6,7 +6,7 @@ Dateien werden für Validierung und später Ausgabe möglicherweise mehrfach aus
 
 # Validation Service
 Abhängigkeiten: Welcher Service injeziert welchen?
-@ aut
+@Autowired annotation driven - oder Konstruktor
 
 
 # Valdiation näher an Entity
