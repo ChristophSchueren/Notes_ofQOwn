@@ -1,7 +1,8 @@
 Validierung im Backend
 ======================
 
-# Problem: Dateien werden 
+# Problem: 
+Dateien werden für Validierung und später Ausgabe möglicherweise mehrfach aus Datenbank gelesen und ni
 
 # Validation Service
 Abhängigkeiten: Welcher Service injeziert welchen?
