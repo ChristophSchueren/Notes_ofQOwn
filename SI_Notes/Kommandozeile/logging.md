@@ -2,7 +2,7 @@ logging
 =======
 ```
 
-mvnw.cmd | tee  log.log~
+mvnw.cmd | tee  maven.log~
 ```
 
 
