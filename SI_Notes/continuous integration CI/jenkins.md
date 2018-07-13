@@ -14,8 +14,8 @@ Deployed auf Heroku app
 1. build
 2. publish
 3. dockerize (optional)
-	direkt mit docker
-	jib: Tool to build Docker-Container aus Maven
+	a) direkt mit docker
+	jib: Tool to build Docker-Container direkt aus Maven
 4. deploy
 	
 lese docker.io Einführung
