@@ -3,6 +3,8 @@ jenkins
 
 Jenkins ist als Build Server eingerichtet.
 
-Kennt GIt Repository und baut neue Version automatisch
+Kennt Git Repository und baut neue Version automatisch bei Pull Request in Git
 
-Deployed auf 
+Lässt Tests laufen: Ergebnisse an Github
+
+Deployed auf Heroku app
