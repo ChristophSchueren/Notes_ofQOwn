@@ -14,4 +14,4 @@ Deployed auf Heroku app
 1. build
 2. publish
 3. deploy
-	4. dockerize
+	dockerize
