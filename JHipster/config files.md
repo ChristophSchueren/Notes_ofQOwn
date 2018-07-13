@@ -2,4 +2,4 @@ config files
 ============
 
 in src/main ... 
-eigentlich nur yml dateien anfassen
+eigentlich nur .yml dateien anfassen
