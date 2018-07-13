@@ -9,7 +9,7 @@ Lässt Tests laufen: Ergebnisse an Github
 
 Deployed auf Heroku app
 
-jib Tool
+> jib Tool
 
 # jenkins
 1. build
