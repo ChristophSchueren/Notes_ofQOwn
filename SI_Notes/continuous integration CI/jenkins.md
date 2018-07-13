@@ -13,5 +13,7 @@ Deployed auf Heroku app
 # jenkins
 1. build
 2. publish
+dockerize
 3. deploy
 	dockerize
+	
