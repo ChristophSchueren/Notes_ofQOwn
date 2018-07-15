@@ -15,5 +15,5 @@ isUserAllowedFor(Geraet geraet)
 isUserAllowedFor(DateiAnhang anhang)
 
 #### Generics
-isUserAllowedFor<Geraet>(DateiAnhang anhang)
-isUserAllowedFor(Geraet geraet)
+isUserAllowedFor<Geraet>(String dateiAnhangId)
+isUserAllowedFor<(Geraet geraet)
