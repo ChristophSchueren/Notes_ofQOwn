@@ -8,7 +8,7 @@ NICHT mehr in Services.
 checkIfUserAllowedForGeraet(geraet)
 
 to:
-isUserAllowedFor(Geraet geraet)
+booisUserAllowedFor(Geraet geraet)
 
 
 #### Überladung
@@ -16,4 +16,4 @@ isUserAllowedFor(DateiAnhang anhang)
 
 #### Generics
 isUserAllowedFor<DateiAnhang>(String dateiAnhangId)
-isUserAllowedFor<DateiAnhang>(Geraet geraet)
+isUserAllowedFor<DateiAnhang>(DateiAnhang geraetId)
