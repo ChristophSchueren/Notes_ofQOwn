@@ -14,4 +14,6 @@ isUserAllowedFor(Geraet geraet)
 #### Überladung
 isUserAllowedFor(DateiAnhang anhang)
 
-###
+#### Generics
+isUserAllowedFor<Geraet>(DateiAnhang anhang)
+isUserAllowedFor(Geraet geraet)
