@@ -12,4 +12,6 @@ isUserAllowedFor(Geraet geraet)
 
 
 #### Überladung
-isUserAllowedFor(Geraet geraet)
+isUserAllowedFor(DateiAnhang anhang)
+
+###
