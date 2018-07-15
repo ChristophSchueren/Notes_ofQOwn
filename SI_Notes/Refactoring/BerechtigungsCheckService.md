@@ -8,7 +8,8 @@ NICHT mehr in Services.
 checkIfUserAllowedForGeraet(geraet)
 
 to:
-
+isUserAllowedFor(Geraet geraet)
 
 
 #### Überladung
+isUserAllowedFor(Geraet geraet)
