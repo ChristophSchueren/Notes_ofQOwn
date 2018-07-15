@@ -8,11 +8,11 @@ NICHT mehr in Services.
 checkIfUserAllowedForGeraet(geraet)
 
 to:
-booisUserAllowedFor(Geraet geraet)
+boolean isUserAllowedFor(Geraet geraet)
 
 
 #### Überladung
-isUserAllowedFor(DateiAnhang anhang)
+boolean isUserAllowedFor(DateiAnhang anhang)
 
 #### Generics
 isUserAllowedFor<DateiAnhang>(String dateiAnhangId)
