@@ -1,6 +1,7 @@
 Opening an angular Modal without popup-service: ng-bootstrap
 ============================================================
 
+```
 private modal: NgbModal, openModal(myModal, entitiyID) {
        this.baSkillprofilService.find(entitiyID).subscribe((entity) => {
            this.baSkillprofile = entity;
@@ -13,6 +14,10 @@ private modal: NgbModal, openModal(myModal, entitiyID) {
    close() {
        this.dialog.close();
    }
+```
+
+
+### 
 ```
 <button type="button" (click)="openModal(baSkillModal, skill.id)" class="btn btn-info btn-sm">
                                <span class="fa fa-eye"></span>
