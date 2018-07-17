@@ -17,7 +17,7 @@ private modal: NgbModal, openModal(myModal, entitiyID) {
 ```
 
 
-### 
+### html template
 ```
 <button type="button" (click)="openModal(baSkillModal, skill.id)" class="btn btn-info btn-sm">
                                <span class="fa fa-eye"></span>
