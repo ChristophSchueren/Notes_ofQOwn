@@ -16,7 +16,10 @@ verschaltet an einer Stelle
 
 
 @Component
+Klasse wird beim sarten instantiiert
 
+@PostConstruct
+Nach Instantiierung der 
 
 
 
