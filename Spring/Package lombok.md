@@ -10,3 +10,6 @@ primitive getter und setter sind klar vorgegeben, wenn variablenNamen bekannt si
 
 > @Data 
 ueber Klasse
+erzeugt getter setter, toString, hashcode
+
+> 
