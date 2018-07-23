@@ -7,6 +7,11 @@ Dependency-Injection funktioniert
 
 @Autowired
 Beim Start verschaltet
-> Reihenfolge: beachte Log-Ausgaben bei Stert
+> Reihenfolge: beachte Log-Ausgaben bei Start
+aus .org.springframework
+.org.springframework.shell
+
+
+
 
 
