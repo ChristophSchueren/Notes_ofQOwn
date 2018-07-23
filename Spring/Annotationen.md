@@ -16,3 +16,8 @@ verschaltet an einer Stelle
 
 
 
+
+
+
+### JPA Java Persistance API
+@Col
