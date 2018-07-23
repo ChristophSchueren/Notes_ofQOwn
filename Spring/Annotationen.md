@@ -15,6 +15,7 @@ aus .org.springframework
 verschaltet an einer Stelle
 
 
+@Component
 
 
 
