@@ -1,4 +1,6 @@
 Package lombok
 ==============
 
-Aufgabe: sich 
+<artefactId>lombok</artefactId>
+
+Aufgabe: sich wiederholenden Code entfernen
