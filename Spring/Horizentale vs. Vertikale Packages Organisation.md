@@ -1,4 +1,12 @@
 Horizentale vs. Vertikale Packages Organisation
 ===============================================
 
-nach features
+nach features (moderner?)
+
+
+
+Organisation
+nach 
+- model
+- 
+re
