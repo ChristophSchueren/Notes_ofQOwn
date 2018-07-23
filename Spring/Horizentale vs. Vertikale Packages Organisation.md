@@ -18,6 +18,6 @@ Geschäftslogik
 
 Hierarchisch:
 
-Ebenen sollten nicht übersprungen werden
+Ebenen sollten nicht übersprungen werden (Redundanzen, Bugs!!!)
 Übergeordnete Ebenen sind dem Package unbekannt
 Jede Schicht hat ihre Verantwortlichkeit (keine Wiederholungen!!! )
