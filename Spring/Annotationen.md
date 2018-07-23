@@ -11,7 +11,8 @@ Beim Start verschaltet
 aus .org.springframework
 .org.springframework.shell
 
-
+@ShellMethod
+verschaltet an einer Stelle
 
 
 
