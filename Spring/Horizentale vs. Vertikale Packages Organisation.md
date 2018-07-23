@@ -20,4 +20,4 @@ Hierarchisch:
 
 Ebenen sollten nicht übersprungen werden
 Übergeordnete Ebenen sind dem Package unbekannt
-Jede Schicht hat ihre Verantwortlichkeit
+Jede Schicht hat ihre Verantwortlichkeit (keine Wiederholungen!!! )
