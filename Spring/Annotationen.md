@@ -19,7 +19,9 @@ verschaltet an einer Stelle
 Klasse wird beim sarten instantiiert
 
 @PostConstruct
-Nach Instantiierung der 
+public void initExecute() {
+}
+Nach Instantiierung der Klasse wird initExecute ausgeführt
 
 
 
