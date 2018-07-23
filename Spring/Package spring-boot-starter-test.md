@@ -1,5 +1,6 @@
 Package spring-boot-starter-test
 ================================
 
-Kapselt JUnit und weitere
+Kapselt JUnit und weitere in einem Paket
 
+Assertions, ...
