@@ -24,4 +24,4 @@ verschaltet an einer Stelle
 @Basic
 private String name;
 
-betzeichnen eine Spalte in der relationalen Date
+betzeichnen eine Spalte in der relationalen Datenbank. Mapping erfolgt automatisch.
