@@ -31,3 +31,4 @@ Nach Instantiierung der Klasse wird initExecute ausgeführt
 private String name;
 
 betzeichnen eine Spalte in der relationalen Datenbank. Mapping erfolgt automatisch.
+
