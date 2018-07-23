@@ -7,9 +7,15 @@ nach features (moderner?)
 
 Organisation
 nach 
+- services
 - model
 - repositories
-- services
+
 
 
 Geschäftslogik
+
+
+Hierarchisch:
+
+E
