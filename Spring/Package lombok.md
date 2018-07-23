@@ -12,4 +12,5 @@ primitive getter und setter sind klar vorgegeben, wenn variablenNamen bekannt si
 ueber Klasse
 erzeugt getter setter, toString, hashcode
 
-> 
+> @AllArgsConstruktor
+erzeugt Konstruktor mit allen Parametern
