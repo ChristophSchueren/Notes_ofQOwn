@@ -20,4 +20,8 @@ verschaltet an einer Stelle
 
 
 ### JPA Java Persistance API
-@Col
+@Column
+@Basic
+private String name;
+
+betzeichnen eine Spalte in der relationalen Date
