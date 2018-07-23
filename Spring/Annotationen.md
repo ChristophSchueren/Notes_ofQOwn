@@ -2,6 +2,11 @@ Annotationen
 ============
 
 @Service
-Services werden zuerst gestartet und instanttiert
+Services werden zuerst gestartet und instanttiert.
+Dependency-Injection funktioniert
 
-Dependency-
+@Autowired
+Beim Start verschaltet
+
+
+
