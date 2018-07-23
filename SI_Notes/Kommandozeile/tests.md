@@ -4,4 +4,4 @@ tests
 `mvn surfire:test`
 
 
-mvn spring-boot:run
+> mvn spring-boot:run
