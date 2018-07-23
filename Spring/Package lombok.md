@@ -5,4 +5,4 @@ Package lombok
 
 Aufgabe: sich wiederholenden Code entfernen
 
-getter und setter sind klar vorgegeben.
+primitive getter und setter sind klar vorgegeben, wenn variablenNamen bekannt sind.
