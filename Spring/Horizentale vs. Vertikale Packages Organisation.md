@@ -18,4 +18,6 @@ Geschäftslogik
 
 Hierarchisch:
 
-E
+Ebenen sollten nicht übersprungen werden
+Übergeordnete Ebenen sind dem Package unbekannt
+Jede Schicht hat ihre Verantwortlichkeit
