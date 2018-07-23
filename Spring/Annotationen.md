@@ -19,7 +19,7 @@ verschaltet an einer Stelle
 
 
 
-### JPA Java Persistance API
+### JPA Java Persistance API (Hibernate)
 @Column
 @Basic
 private String name;
