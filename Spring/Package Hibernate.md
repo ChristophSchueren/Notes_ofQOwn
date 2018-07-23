@@ -1,4 +1,6 @@
 Package Hibernate
 =================
 
-redet mit echter Datenbank
+Objekt Relationaler Mapper für relationale Datenbanken
+
+POJO to Datenbank - Wert-Typ
