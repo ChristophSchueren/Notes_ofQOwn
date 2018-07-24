@@ -14,3 +14,8 @@ erzeugt getter setter, toString, hashcode
 
 > @AllArgsConstruktor
 erzeugt Konstruktor mit allen Parametern
+
+ählnlich:
+Kotlin
+
+Kotlin live compiler
