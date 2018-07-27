@@ -6,7 +6,7 @@ ngClass directive dynamic
 isZurRueckgabe = true;
 
 
-
+iconclass = 'fa-mail';
 
 `[ngClass]="[iconclass, class2]"`
 
