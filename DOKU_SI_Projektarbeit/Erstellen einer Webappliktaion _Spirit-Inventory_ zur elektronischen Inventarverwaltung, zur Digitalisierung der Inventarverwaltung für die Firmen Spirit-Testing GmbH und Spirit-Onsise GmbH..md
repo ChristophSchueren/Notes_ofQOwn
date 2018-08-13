@@ -6,7 +6,7 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 Änderungen, z.B. die Übertragung eines Notebooks von einem Angestellten auf eine anderen soll nachvervolgbar eingetragen werden können.
 
 # Buzz-Words
-Sel
+Self-Contained System mit eigener Datenbank
 
 # Wohnungen 
 nicht Bestandteil
