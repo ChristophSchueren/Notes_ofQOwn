@@ -11,7 +11,7 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 
 
 # Integrationsmodell
-- Frontend
+- Frontend-Interation durch Links
 
 
 Programmierung einer Webanwendung Inventarverwaltung 
