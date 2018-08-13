@@ -10,7 +10,8 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 - 
 
 
-
+# Integrationsmodell
+- Frontend
 
 
 Programmierung einer Webanwendung Inventarverwaltung 
@@ -36,4 +37,9 @@ Das Projekt beinhaltet auch eine Modifikation des bestehenden Angular Frontends 
 Mit durchdachten **Ordnungssystemen** lassen sich wichtige Dokumente **schneller wiederfinden**. Dazu gehören auch elektronische Rechnungseingangsbearbeitungen sowie die Digitalisierung von Ordnern und Akten.
 
 **Gute Suchfunktion**	
+
+# Wohnungen 
+nicht Bestandteil
+# Erinnerungsfunktion
+nicht Bestandteil
 
