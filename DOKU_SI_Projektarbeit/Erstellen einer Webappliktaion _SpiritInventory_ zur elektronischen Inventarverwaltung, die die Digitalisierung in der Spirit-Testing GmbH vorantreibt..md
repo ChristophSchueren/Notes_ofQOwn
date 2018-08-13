@@ -3,7 +3,7 @@ Die bisher papiergestützte Inventarverwaltung in mehreren Ordnern an den versch
 Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen Inventardaten, z.B. welcher Mitarbeiter welches Notebook von der Firma gestellt bekommen hat.
 Änderungen, z.B. die Übertragung eines Notebooks von einem Angestellten auf eine anderen soll nachvervolgbar eingetragen werden können.
 
-#Wohnungen
+#Wohnungen nicht bestandteil
 #Erinnerungsfunktion
 
 
