@@ -8,7 +8,7 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 # Buzz-Words
 - Self-Contained System mit eigener Datenbank
 - Generator
-- 
+- CASE Tool Computer aided Software development
 
 
 # Integrationsmodell
