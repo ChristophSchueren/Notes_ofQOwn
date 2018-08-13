@@ -14,6 +14,7 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 - CASE Tool Computer aided Software development
 - JHipster Ecosystem
 - Tomcat Java Webserver
+	- Als Servlet Container soll Apache Tomcat zum Einsatz kommen.
 
 
 # Integrationsmodell
