@@ -6,7 +6,7 @@ Es wird eine Integration der beiden Anwendungen angestrebt.
 - Datenaustausch der Benutzerkonten 
 - Single Sign-On
 
-Entwicklungen sollen getrennt sein.
+Entwicklungen sollen getrennt sein. 
 
 All das können Microservices leisten.
 
