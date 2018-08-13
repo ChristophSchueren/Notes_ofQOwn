@@ -9,10 +9,7 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 - Self-Contained System mit eigener Datenbank
 - 
 
-# Wohnungen 
-nicht Bestandteil
-# Erinnerungsfunktion
-nicht Bestandteil
+
 
 
 
