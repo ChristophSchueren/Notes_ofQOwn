@@ -1,4 +1,7 @@
-Erstellen einer Webappliktaion "Spirit-Inventory" zur elektronischen Inventarverwaltung, zur Digitalisierung der Inventarverwaltung für die Firmen Spirit-Testing GmbH und Spirit-Onsise GmbH.
+# SpiritInventory Summary
+
+
+Erstellen einer Webappliktaion "**Spirit-Inventory**" zur elektronischen Inventarverwaltung, zur Digitalisierung der Inventarverwaltung für die Firmen Spirit-Testing GmbH und Spirit-Onsise GmbH.
 
 
 Die bisher papiergestützte Inventarverwaltung in mehreren Ordnern an den verschiedenen Standorten der Firma soll auf ein Zentrales Webportal verlegt und gebündelt werden. 
@@ -9,6 +12,7 @@ Dadurch erhalten Berechtigte schnell und von überall Zugriff auf die aktuellen 
 - Self-Contained System mit eigener Datenbank
 - Generator
 - CASE Tool Computer aided Software development
+- JHipster Ecosystem
 
 
 # Integrationsmodell
