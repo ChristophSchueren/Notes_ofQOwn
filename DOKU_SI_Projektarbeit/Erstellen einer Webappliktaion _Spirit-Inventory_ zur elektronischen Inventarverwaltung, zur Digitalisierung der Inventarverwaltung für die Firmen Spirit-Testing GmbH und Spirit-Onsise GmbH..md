@@ -16,7 +16,8 @@ nicht Bestandteil
 
 
 
-Programmierung einer Webanwendung Inventarverwaltung "Spirit Skill Profile Verwaltung" (SSV) in der Programmierkenntnisse der Mitarbeiter verwaltet und dargestellt werden.
+Programmierung einer Webanwendung Inventarverwaltung 
+Angliederung an Spirit Skill Profile Verwaltung (SSV) in der Programmierkenntnisse der Mitarbeiter verwaltet und dargestellt werden.
 
 Das neue Modul soll Inventarartikel (z.B. Schlüssel, Notebook, ...) der Firma sammeln, speichern und festhalten, welchem Mitarbeiter der Inventarartikel in welchem Zeitraum anvertraut war.
 
