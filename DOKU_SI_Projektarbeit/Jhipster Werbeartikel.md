@@ -3,6 +3,10 @@ Jhipster Werbeartikel
 
 SpiritInvetory läuft auf "jhipsterVersion": "4.14.1",
 
+Letzter Bugfix: Release 4.14.5
+
+JHipster Release 5.1.0
+
 https://jaxenter.de/mit-jhipster-4-loslegen-54104
 
 ## Generator Vorteile
