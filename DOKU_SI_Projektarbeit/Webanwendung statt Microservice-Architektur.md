@@ -21,3 +21,6 @@ Aber Microservices erhöhen die Komplexität weil
 Realisierung von Spirit-Inventory als eigene Webanwendung mit definierter API -Schnittstelle zu SSV-Webanwendung
 
 # Frontend-Integration
+- Übernahme des Stylesheets von SSV
+	- getrennte Anpassungen im eigenen Code von SpiritInventory möglich
+- Integration über Links
