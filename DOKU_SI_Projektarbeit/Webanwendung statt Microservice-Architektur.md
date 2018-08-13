@@ -17,5 +17,7 @@ Aber Microservices erhöhen die Komplexität weil
 - nicht genutzte Funktionen wie vertikale Skalierbarkeit
 
 
-# Keine reine B
+# Keine reine Backend-API Integration Lösung
 Realisierung von Spirit-Inventory als eigene Webanwendung mit definierter API -Schnittstelle zu SSV-Webanwendung
+
+# Frontend-Integration
