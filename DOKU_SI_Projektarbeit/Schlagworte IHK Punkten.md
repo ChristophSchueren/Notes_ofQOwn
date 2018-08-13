@@ -39,7 +39,7 @@ Mutationstest
 Restore from Buchungs-Log
 
 # QA
-Verpflichtende Code-Review durch Praktikums-Betreuer vor git-merge in 
+Verpflichtende Code-Review durch Praktikums-Betreuer vor git-mergeoo in 
 
 # Aussortierte Schlagworte
 - Blockchain (für Buchungen)
