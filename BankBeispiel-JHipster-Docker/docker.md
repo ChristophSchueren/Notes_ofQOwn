@@ -10,3 +10,10 @@ docker-compose -f src\main\docker\postgressql.yml up
 
 # Frontend starten
 yarn start
+
+# Docker Status
+docker container ls
+
+
+# Docker komplett neu starten
+Docker Taskbar Icon -> Re
