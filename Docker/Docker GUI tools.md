@@ -6,7 +6,7 @@ Docker GUI tools
 Dockstation Kitematic Portainer
 
 > Dockstation, 
-> Kitematic
+> Kitematick
 > Portainer
 
 
