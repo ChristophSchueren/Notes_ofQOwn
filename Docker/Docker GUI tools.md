@@ -9,3 +9,7 @@ Dockstation Kitematic Portainer
 > Kitematic
 > Portainer
 
+
+### Große Lösung
+
+Kubernetes (Cloud, Google)
