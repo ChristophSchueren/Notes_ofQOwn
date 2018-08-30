@@ -5,3 +5,9 @@ Windows Explorer Addons
 > Clover
 
 tabbed Browsing
+
+
+> QTTabBar
+
+
+> TabExplorer
