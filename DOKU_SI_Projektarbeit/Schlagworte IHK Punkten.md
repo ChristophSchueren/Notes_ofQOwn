@@ -2,6 +2,8 @@
 
 CORS
 # Buzz Words
+- Softwarearchitektur
+- 
 
 ## CASE Tools
     - swagger codegen
