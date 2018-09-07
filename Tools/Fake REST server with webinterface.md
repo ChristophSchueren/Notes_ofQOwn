@@ -8,4 +8,4 @@ like MailDev
 
 syntax highlighting
 
-"JSON server" webinterface MailDev
+"JSON server" webinterface MailDev for POST data
