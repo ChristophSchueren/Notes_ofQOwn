@@ -1,0 +1,37 @@
+Note 2018-09-17T13.23.13
+========================
+
+**Analysephase** 	9h
+Durchführung der Ist-Analyse (alter Workflow)	1h
+Entwurf eines neuen Workflow für die Übergabe von Inventar-Gegenständen mit Unterstützung durch die Software Vorgabe: Papierdokumente sollen mit handschriftlicher Unterschrift sollen weiterhin erstellt werden	1h
+Ermitteln von Use-Cases und Erstellung eines Anwendungsfall-Diagramms 	1h
+Wirtschaftlichkeitsanalyse und Amortisationsrechnung 	2h
+Unterstützung der Verwaltungsabteilung bei der Erstellung des Lastenheftes 	2h
+Projektphasen- und Zeitplanung	2h
+**Entwurfsphase** 	15h
+Entwerfen der Benutzeroberfläche inkl. Erstellen von Mockups 	2h
+Entwerfen der Datenbankstruktur inkl. Erstellen eines ER-Modells 	2h
+Ableitung der Datenbankstruktur der Dokumenten-Datenbank und des Domänenmodells aus dem ER-Modell inkl. Erstellen eines Klassendiagramms 	2h
+Entwurf der Logik für Übergabezustände	3h
+Entwurf für die Erweiterung der REST-Schnittstelle zwischen Frontend und Backend	1h
+Entwurf für die Überwachungsfunktion für Fristüberschreitungen von Übergabeprozessen mit Mailversand	2h
+Erstellen des Pflichtenheftes 	3h
+Implementierungsphase inkl. Tests und Feedback vom Fachbereich 	27h
+Implementierung der Datenstruktur im Java Backend	2h
+Implementierung der Geschäftslogik mit Unit-Tests	8h
+Implementierung der Überwachungsfunktion für Fristüberschreitungen von Übergabeprozessen mit Mailversand Batch Rückgabe	2h
+Implementierung der Erweiterung der REST API des Backends	1h
+Implementierung der Daten-Services im Angular Frontend	2h
+Implementierung der Benutzeroberfläche	7h
+Integrationstests	3h
+Systemtests	2h
+Abnahme und Deployment 	9h
+Code-Review mit dem Praktikumsbetreuer 	2h
+Nachbesserungen	4h
+Abnahme durch die Verwaltungsabteilung 	2h
+Software Einführung	1h
+Dokumentation 	10h
+Erstellen der Entwicklerdokumentation	1h
+Erstellen des Benutzerhandbuchs 	2h
+Erstellen der Projektdokumentation	7h
+Total 	70h

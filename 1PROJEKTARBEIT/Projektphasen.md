@@ -1,4 +1,4 @@
-Note 2018-09-17T13.23.13
+Projektphasen
 ========================
 
 **Analysephase** 	9h
@@ -8,7 +8,7 @@ Ermitteln von Use-Cases und Erstellung eines Anwendungsfall-Diagramms 	1h
 Wirtschaftlichkeitsanalyse und Amortisationsrechnung 	2h
 Unterstützung der Verwaltungsabteilung bei der Erstellung des Lastenheftes 	2h
 Projektphasen- und Zeitplanung	2h
-Entwurfsphase 	15h
+**Entwurfsphase** 	15h
 Entwerfen der Benutzeroberfläche inkl. Erstellen von Mockups 	2h
 Entwerfen der Datenbankstruktur inkl. Erstellen eines ER-Modells 	2h
 Ableitung der Datenbankstruktur der Dokumenten-Datenbank und des Domänenmodells aus dem ER-Modell inkl. Erstellen eines Klassendiagramms 	2h
@@ -34,4 +34,4 @@ Dokumentation 	10h
 Erstellen der Entwicklerdokumentation	1h
 Erstellen des Benutzerhandbuchs 	2h
 Erstellen der Projektdokumentation	7h
-Total 	70h
+**Total** 	70h
