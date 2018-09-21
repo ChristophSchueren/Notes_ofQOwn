@@ -5,7 +5,11 @@ TODO_Code
 
 Geraet.offeneAnnahmeBuchung entfernen
 
-Ersetzen durch Geraet.zuteilung.
+Ersetzen durch Geraet.zuteilung.sollZustand
+
+Frontend muss upgedatet werden
+- geratDetails
+- geraet.component (Listeneintrag, Button annehmen)
 
 
 ### Zweiter Schritt
