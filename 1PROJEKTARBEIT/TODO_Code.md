@@ -8,6 +8,8 @@ jedes Zuteilungsfaehgig muss wissen, wie es sich selbst persistiert
 geraet.save()
 zuteilungsfaehig.save()
 
+geraet braucht static reference to geraetservice (3. Tier, NICHT Repository)
+
 download "helloworld.txt"
 
 java call programm
