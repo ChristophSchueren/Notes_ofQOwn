@@ -1,6 +1,15 @@
 TODO_Code
 =========
 
+### Erster Schritt
+
+Geraet.offeneAnnahmeBuchung entfernen
+
+Ersetzen durch Geraet.zuteilung.
+
+
+### Zweiter Schritt
+
 Abstrahiere Interface Zuteilungsfaehig
 
 jedes Zuteilungsfaehgig muss wissen, wie es sich selbst persistiert
